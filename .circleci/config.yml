@@ -22,6 +22,12 @@ jobs:
           name: cd
           command: cd ./atxbourbon.com 
       - run:
+          name: pwd
+          command: pwd
+      - run:
+          name: ls
+          command: ls
+      - run:
           name: Generate static website
           command: hexo generate
       - run:
