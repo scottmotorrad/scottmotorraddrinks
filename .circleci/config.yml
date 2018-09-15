@@ -3,7 +3,7 @@ jobs:
   build:
     docker:
       - image: node:9.9.0
-    working_directory: ~/atxbourbon.com/atxbourbon.com
+    working_directory: ~/
     steps:
       - checkout
       - run:
@@ -18,6 +18,9 @@ jobs:
       - run:
           name: ls
           command: ls
+      - run:
+          name: cd
+          command: cd ./atxbourbon.com 
       - run:
           name: Generate static website
           command: hexo generate
