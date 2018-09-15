@@ -8,10 +8,10 @@ jobs:
       - checkout
       - run:
           name: Install Hexo CLI
-          command: npm install -g hexo-cli
+          command: cd ./atxbourbon.com && npm install -g hexo-cli
       - run:
           name: Install dependencies
-          command: npm install
+          command: cd ./atxbourbon.com && npm install
       - run:
           name: Generate static website
           command: cd ./atxbourbon.com && hexo generate
