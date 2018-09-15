@@ -3,7 +3,7 @@ jobs:
   build:
     docker:
       - image: node:9.9.0
-    working_directory: ~/atxbourbon.com
+    working_directory: ~/project
     steps:
       - checkout
       - run:
@@ -13,23 +13,8 @@ jobs:
           name: Install dependencies
           command: npm install
       - run:
-          name: pwd
-          command: pwd
-      - run:
-          name: ls
-          command: ls
-      - run:
-          name: cd
-          command: cd ./atxbourbon.com 
-      - run:
-          name: pwd
-          command: pwd
-      - run:
-          name: ls
-          command: ls
-      - run:
           name: Generate static website
-          command: hexo generate
+          command: cd ./atxbourbon.com && hexo generate
       - run:
           name: Install AWS CLI
           command: |
@@ -37,4 +22,4 @@ jobs:
             apt-get install -y awscli
       - run:
           name: Push to S3 bucket
-          command: cd public/ && aws s3 sync . s3://atxbourbon.com
+          command: cd ./atxbourbon.com/public/ && aws s3 sync . s3://atxbourbon.com
