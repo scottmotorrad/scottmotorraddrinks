@@ -22,4 +22,4 @@ jobs:
             apt-get install -y awscli
       - run:
           name: Push to S3 bucket
-          command: cd ./atxbourbon.com/public/ && aws s3 sync . s3://atxbourbon.com --region us-west-1
+          command: cd ./atxbourbon.com/public/ && aws s3 sync . s3://atxbourbon.com --region us-west-2
