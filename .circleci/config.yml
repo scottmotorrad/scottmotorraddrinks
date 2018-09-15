@@ -16,6 +16,9 @@ jobs:
           name: Generate static website
           command: cd ./atxbourbon.com && hexo generate
       - run:
+          name: printenv
+          command: printenv
+      - run:
           name: Install AWS CLI
           command: |
             apt-get update
