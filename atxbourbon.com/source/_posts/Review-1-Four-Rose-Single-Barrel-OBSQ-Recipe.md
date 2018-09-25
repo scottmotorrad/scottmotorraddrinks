@@ -1,8 +1,11 @@
 ---
 title: 'Review #1: Four Rose Single Barrel OBSQ Recipe'
-date: 2018-09-14 19:22:48
-tags:
+date: 2018-08-07 19:22:48
+tags: bourbon
 ---
+
+{% asset_img image.jpg image%}
+
 ## Data
 
 This is the store selection from Oak Liquor Cabinet in Austin, TX. It's a single barrel OBSQ.

@@ -3,9 +3,9 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: ATX Bourobn
+title: ATX Bourbon
 subtitle: Bourbon (and other spirit) reviews from Austin, TX
-description:
+description: 
 keywords: bourbon whiskey whisky scotch reviews
 author: Scott Ruhnau
 language: en_US
@@ -35,7 +35,7 @@ titlecase: false # Transform title into titlecase
 external_link: true # Open external links in new tab
 filename_case: 0
 render_drafts: false
-post_asset_folder: false
+post_asset_folder: true
 relative_link: false
 future: true
 highlight:
