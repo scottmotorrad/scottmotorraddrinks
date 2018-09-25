@@ -9,7 +9,7 @@ tags:
 
 {% asset_img image.jpg image%}
 
-After doing a few lower score reviews I needed to drink something I enjoy and have had a few conversations about 1792 lately so 1792 Full Proof it is. 1792 is a range from Bartons and this is their strongest normal bottling(unclear if any of the Full Proof single barrel selects are bottled at a higher proof). 
+After doing a few lower score reviews I needed to drink something I enjoy and have had a few conversations about 1792 lately so 1792 Full Proof it is. 1792 is a range from Bartons and this is their strongest normal bottling(unclear if any of the Full Proof single barrel selects are bottled at a higher proof). This was another great find from [Oak Liquor Cabinet](https://www.instagram.com/oakliquorcabinet/).
 
 ## Review
 **Age**: NAS
