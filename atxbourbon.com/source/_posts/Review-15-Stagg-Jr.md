@@ -1,5 +1,5 @@
 ---
-title: 'Review #15: Stagg Jr'
+title: 'Review #15: Stagg Jr Batch 10'
 date: 2018-09-16 23:08:16
 tags: bourbon
 ---
