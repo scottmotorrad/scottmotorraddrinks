@@ -5,7 +5,7 @@
 # Site
 title: ATX Bourbon
 subtitle: Bourbon (and other spirit) reviews from Austin, TX
-description: 
+description: a bourbon and spirits review blog
 keywords: bourbon whiskey whisky scotch reviews austin
 author: Scott Ruhnau
 language: en_US
@@ -72,6 +72,9 @@ pagination_dir: page
 
 # Extensions
 ## Plugins: https://hexo.io/plugins/
+# plugins:
+
+
 ## Themes: https://hexo.io/themes/
 theme: landscape
 

@@ -1,10 +1,15 @@
 ---
 title: 'Review #1: Four Rose Single Barrel OBSQ Recipe'
 date: 2018-08-07 19:22:48
-tags: bourbon
+tags: 
+- bourbon
+- four roses
+- single barrel
+- oak liquor cabinet
+- 9
 ---
 
-{% asset_img image.jpg image%}
+{% asset_img image.jpg "Four Roses"%}
 
 ## Data
 

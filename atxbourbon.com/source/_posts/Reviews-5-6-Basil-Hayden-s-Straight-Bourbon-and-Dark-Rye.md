@@ -4,9 +4,11 @@ date: 2018-08-23 22:30:07
 tags: 
 - bourbon
 - rye
+- 3
+- 6
 ---
 
-{% asset_img image.jpg image%}
+{% asset_img image.jpg "Basil Hayden"%}
 
 ## Narrative
 I've mostly been writing reviews of whiskey that I love so far so I thought I'd try my hand at some reviews with a lower score. I tend to have a bottle of Basil Hayden's Straight Bourbon on hand and my wife bought me a bottle of their Dark Rye because I like ryes and she recognized the bottle. The straigh bourbon is of course a straight bourbon but the Dark Rye is some sort of Dr Moreau combination of rye, canadian and port.

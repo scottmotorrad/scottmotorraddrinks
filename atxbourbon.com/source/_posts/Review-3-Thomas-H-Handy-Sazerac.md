@@ -4,9 +4,11 @@ date: 2018-08-14 00:00:00
 tags: 
 - rye
 - btac
+- 9
+- buffalo trace
 ---
 
-{% asset_img image.jpg image%}
+{% asset_img image.jpg "Thomas H Handy Sazerac"%}
 
 ## Data
 Thomas H. Handy Sazerac is a Rye Whiskey from the [Buffalo Trace Antique collection](http://www.buffalotracedistillery.com/brands/antique-collection#3) and [I found it tonight](https://imgur.com/a/cPbzfHu) at my favorite [North Austin Bar](https://www.drinkwellaustin.com/). I believe this is the 2017 bottling but I am not 100% sure.

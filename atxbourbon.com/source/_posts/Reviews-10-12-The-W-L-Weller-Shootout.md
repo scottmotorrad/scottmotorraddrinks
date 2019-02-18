@@ -5,9 +5,12 @@ tags:
 - bourbon
 - shootout
 - wheater
+- buffalo trace
+- 8
+- 6
 ---
 
-{% asset_img image.jpg image%}
+{% asset_img image.jpg "Weller"%}
 
 ## Info
 I was finally able to get bottle of WL Weller 12 year to complete my set so it's time to do the Weller Triple Review Shootout! I first had the Weller Antique 107 at [drink.well](https://www.drinkwellaustin.com/) and over the last couple months have been able to get all 3 bottles from various local liquor stores. For this review I've upgraded to a set of Glencairns from my old High West neat glass. 

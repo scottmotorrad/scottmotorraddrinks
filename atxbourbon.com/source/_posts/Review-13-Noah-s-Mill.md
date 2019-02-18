@@ -1,10 +1,13 @@
 ---
 title: 'Review #13: Noah''s Mill'
 date: 2018-09-09 23:19:12
-tags: bourbon
+tags: 
+- bourbon
+- willet
+- 8
 ---
 
-{% asset_img image.jpg image%}
+{% asset_img image.jpg "Noahs Mill"%}
 
 ## Info
 My [favorite bar](https://www.drinkwellaustin.com/) added some new bourbon's to their list tonight so it's time for another review. To avoid getting a divorce, I only typed up notes at the bar for one dram. Anyways this bourbon is from Willet/KBD though I am unclear on whether it is distilled there or sourced.

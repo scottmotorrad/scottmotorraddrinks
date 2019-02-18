@@ -4,9 +4,11 @@ date: 2018-09-12 23:50:14
 tags: 
 - bourbon 
 - mystery
+- barrell
+- 7
 ---
 
-{% asset_img image.jpg image%}
+{% asset_img image.jpg "Barrel"%}
 
 ## Data
 This was my first mystery sample review, courtesy of [u/bananavanman](https://www.reddit.com/user/bananavanman) and it was a lot of fun. I had a sneaking suspicion that this was going to be a Barrell or a Dickel. On the other hand my wife thought the sample bottle looked like poison but I took the  risk and drank it anyway.  

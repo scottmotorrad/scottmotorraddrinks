@@ -2,10 +2,11 @@
 title: 'Review #21: Old Forester 1920 Prohibition Style'
 date: 2018-09-26 22:54:49
 tags:
-- Old Forester
-- Bourbon
+- old forester
+- bourbon
+- 7
 ---
-{% asset_img image.jpg image%}
+{% asset_img image.jpg "1920"%}
 
 Old Forester 1920 was my first experience with a good high proof bourbon and definitely opened me up to that world. After reviewing a few of my favorite high proof picks it felt like a good time to come and see how the old boy held up. 
 

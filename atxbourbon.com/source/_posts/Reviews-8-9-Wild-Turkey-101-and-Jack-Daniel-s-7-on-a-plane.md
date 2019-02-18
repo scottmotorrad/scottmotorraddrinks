@@ -6,7 +6,7 @@ tags:
 - humor
 ---
 
-{% asset_img image.jpg image%}
+{% asset_img image.jpg "whiskey on a plane"%}
 
 ## Info
 My wife wanted to fly Southwest so I'm limited to their excellent whiskey selection this evening but it seemed like as good a time an any to review some Wild Turkey 101 and some Jack Daniel's #7. Typing this up on mobile so forgive any typos. Also the photo is the Turkey; you guys can imagine what Jack looks like in a plastic cup.

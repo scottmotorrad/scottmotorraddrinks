@@ -2,13 +2,14 @@
 title: 'Review #20: Dickel 9 Year Twin Liquors Single Barrel Select'
 date: 2018-09-26 01:24:52
 tags:
-- Dickel
-- Twin Liquors
-- Single Barrel
-- Bourbon
+- dickel
+- twin liquors
+- single barrel
+- bourbon
+- 8
 ---
 
-{% asset_img image.jpg image%}
+{% asset_img image.jpg "Dickel"%}
 
 Traditionally I haven't been a fan of Dickel but after u/bananavanman having me try the [Dickel sourced Barrell](https://atxbourbon.com/2018/09/12/Review-14-Barrell-Bourbon-Batch-008B-as-a-Mystery-Sample/) and my dad telling me he had a 'fancy Dickel' that was super good I decided to give it another go. So here we are reviewing George Dickel Barrel No 05A04 B 1-5-24 whatever that means. More importantly it is a 9 year single barrel select from the Twin Liquors near my go to HEB and I'm a sucker for well aged single barrel selects :) 
 

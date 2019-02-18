@@ -4,10 +4,11 @@ date: 2018-09-24 23:39:56
 tags:
 - bourbon
 - 1792
-- bartons
+- barton
+- 8
 ---
 
-{% asset_img image.jpg image%}
+{% asset_img image.jpg "1792"%}
 
 After doing a few lower score reviews I needed to drink something I enjoy and have had a few conversations about 1792 lately so 1792 Full Proof it is. 1792 is a range from Bartons and this is their strongest normal bottling(unclear if any of the Full Proof single barrel selects are bottled at a higher proof). This was another great find from [Oak Liquor Cabinet](https://www.instagram.com/oakliquorcabinet/).
 

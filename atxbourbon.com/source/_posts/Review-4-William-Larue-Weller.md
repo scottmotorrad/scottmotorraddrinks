@@ -4,9 +4,10 @@ date: 2018-08-21 00:00:00
 tags: 
 - bourbon
 - btac
+- 9
 ---
 
-{% asset_img image.jpg image%}
+{% asset_img image.jpg "William Larue Weller"%}
 
 ## Data
 Tasted this at the [Roosevelt Room](https://www.therooseveltroomatx.com/) in downtown Austin at some after dinner drinks this weekend with some family. This seemed like a recent bottling but I am still learning how to discern these things as I continue my BTAC adventure. If anyone knows a great bar to try Saz 18, ER 17 or George T Stagg in Austin let me know on [Instagram](https://www.instagram.com/atxbourbon/) or [Reddit](https://www.reddit.com/user/scottmotorrad/)!
@@ -41,7 +42,7 @@ Tasted this at the [Roosevelt Room](https://www.therooseveltroomatx.com/) in dow
 ## Conclusion 
 My second taste of the BTAC was excellent but I preferred [the Handy](https://www.reddit.com/r/bourbon/comments/96ehi3/review_3_thomas_h_handy_sazerac/), especially on ice. Strong but a lot smoother than the proof would lead you to believe. A little too focused on the sweetness for me, I like sweet whiskey but prefer it to have something to spice it up a bit. If you're all or mostly sweettooth you'll love this though. I also let me dad taste it since he was visiting but he said it was too strong for him so we got him a Weller 12 instead. 
 
-8/10 - an excellent bottle I'd be happy to buy
+**9** - I wish I could buy it!
 
 ## Scale
 My reviews are mostly about taste but occasionally take price into consideration generally dropping a point from whiskies in the 8-9 range that seem significantly more expensive than similar quality bottles.

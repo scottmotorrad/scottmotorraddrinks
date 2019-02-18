@@ -5,8 +5,10 @@ tags:
 - rye
 - 291
 - single barrel
+- 8
+- colorado
 ---
-{% asset_img image.jpg image%}
+{% asset_img image.jpg "291 Rye"%}
 
 This one is an interesting one: 291 Single Barrel Colorado Rye Whiskey. It's extremely young with only 1 year of proper aging in charred new oak and then an undisclosed finish(but less than 1 year) in toasted aspen. They use malted rye instead of the more traditional rye and  also apparently mix IPA stillage with the mash because why not, it's Colorado? I'd heard a lot about this whiskey and very much wanted to try it and my wonderful wife managed to snag a bottle on a trip to Colorado.
 

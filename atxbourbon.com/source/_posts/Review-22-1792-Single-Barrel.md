@@ -4,10 +4,11 @@ date: 2018-09-30 00:17:05
 tags:
 - bourbon
 - 1792
-- bartons
+- barton
 - single barrel
+- 6
 ---
-{% asset_img image.jpg image%}
+{% asset_img image.jpg "1792"%}
 
 Next up in the 1792 series is their midrange bottle the Single Barrel. It sits between the Small batch and [Full Proof](https://atxbourbon.com/2018/09/24/Review-19-1792-Full-Proof/) in both price and proof but let's see where it stands on taste. 
 

@@ -1,10 +1,14 @@
 ---
-title: 'Review #7: Barrell Bourbon Single Barrel Select'
+title: 'Review #7: Barrell Bourbon Single Barrel Select Oak Liquor Cabinet'
 date: 2018-08-25 22:30:37
-tags: bourbon
+tags:
+- bourbon
+- barrell
+- 7
+- oak liquor cabinet
 ---
 
-{% asset_img image.jpg image%}
+{% asset_img image.jpg "Barrell"%}
 
 ## Info
 Tonight's bourbon is Barrell Bourbon Single Barrel [Oak Liquor Cabinet](https://www.instagram.com/oakliquorcabinet/) Select. I don't know much about the brand but I'm a sucker for single barrels and store selects and I was curious about the 14 year age statement. I couldn't find much about them online either.
@@ -41,7 +45,7 @@ Tonight's bourbon is Barrell Bourbon Single Barrel [Oak Liquor Cabinet](https://
 
 This was perfectly good bourbon but nothing special at all. I was a bit hyped up on this so that probably contributed to my disappointment. I'd always sort of wondered why bourbon generally isn't aged as long as scotch usually is but this bottle suggests that the shorter aging is the way to go. With how medicocre this was, especially given that this is a store select, single barrel and sort of pricy, I don't think I'll be following up on more of their catalog.
 
-6/10 -  a decent whiskey that I don't prefer but wouldn't avoid
+**7** - a solid whiskey I'd happily order at bar if they don't have something 8+
 
 ## Scale
 My reviews are mostly about taste but occasionally take price into consideration generally dropping a point from whiskies in the 8-9 range that seem significantly more expensive than similar quality bottles.

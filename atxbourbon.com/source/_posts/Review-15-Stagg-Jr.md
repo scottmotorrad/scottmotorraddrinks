@@ -1,10 +1,13 @@
 ---
 title: 'Review #15: Stagg Jr Batch 10'
 date: 2018-09-16 23:08:16
-tags: bourbon
+tags: 
+- bourbon
+- buffalo trace
+- 9
 ---
 
-{% asset_img image.jpg image%}
+{% asset_img image.jpg "Stagg Jr"%}
 
 After reading several Stagg Jr reviews and recommendations on r/bourbon as well as hearing how it was better than EHT SiB I've been very much wanting to try Stagg Jr. I headed up to [Oak Liquor Cabinet](https://www.instagram.com/oakliquorcabinet/) yesterday to see if they had any; thankfully they did along with some 1792 Full Proof that I'll be reviewing here soon. I had a few folks over to watch some college football and we all gave it a try but I was in no condition to write by the end of the games so I decided to sit down today and give it proper review though I did manage to take the photo of the back of the bottle so there is that.
 

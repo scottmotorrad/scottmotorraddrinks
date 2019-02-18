@@ -4,9 +4,10 @@ date: 2018-09-22 19:15:24
 tags: 
 - bourbon
 - heaven hill
+- 5
 ---
 
-{% asset_img image.jpg image%}
+{% asset_img image.jpg Evan Williams%}
 
 This month the [bourbon subreddit](https://www.reddit.com/r/bourbon/comments/9c42ba/september_community_review_rbourbon_59_evan/) is doing a community review of Evan Williams Black Label so here we are. This is the primary mass market product from Heaven Hill Distillery and is one of the most popular bourbons in the US. Writing this review made me realize that I don't have much experience with their products though I plan on working on that in the near future.
 

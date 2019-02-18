@@ -4,9 +4,11 @@ date: 2018-09-23 20:58:26
 tags:
 - rye
 - heaven's door
+- 4
+- mgp
 ---
 
-{% asset_img image.jpg image%}
+{% asset_img image.jpg "Heavens Door"%}
 
 Heaven's Door is a whiskey line that is somehow associated with Bob Dylan and while I generally stay away from celebrity endorsed whiskey(or at least try it a bar) I somehow ended up buying this bottle shortly after release through a combination of good reviews at the top of a Google search and the recommendation of a staff member from Twin Liquors. It's been collecting dust on my shelf for a while now so it seemed like a good time to do a review. The rye is sourced, most likely from MGP, and is finished in some sort of fancy barrel that is supposed to make it more accessible than most rye whiskies.
 

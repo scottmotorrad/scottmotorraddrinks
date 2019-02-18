@@ -4,9 +4,10 @@ date: 2018-08-10 22:21:19
 tags: 
 - bourbon
 - bookers
+- 8
 ---
 
-{% asset_img image.jpg image%}
+{% asset_img image.jpg "Bookers"%}
 
 ## Data
 Picked this up from [Oak Liquor Cabinet](http://oakliquorcabinet.com/) a few weeks ago and just got around to having my second glass. The case it came in was cool but I just threw it out so nothing to write home about. They include these little cards with tasting notes and a break down of which floors of which warehouse the whiskey came from. I'm not sure that is information I care about but whatever.
