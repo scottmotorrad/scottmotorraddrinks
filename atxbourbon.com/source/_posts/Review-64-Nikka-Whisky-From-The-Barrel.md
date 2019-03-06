@@ -5,6 +5,9 @@ tags:
 - japanese
 - 8
 - nikka
+- barrel proof
+- whiskey advocate top 20 
+- whiskey advocate top 20 2018
 ---
 
 {% asset_img image.jpg "Nikka Whisky From The Barrel"%}

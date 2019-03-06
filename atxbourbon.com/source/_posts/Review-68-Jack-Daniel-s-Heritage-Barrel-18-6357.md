@@ -7,7 +7,10 @@ tags:
 - jack daniels
 - single barrel
 - toasted barrel
+- low entry proof
 - 9 
+- whiskey advocate top 20 
+- whiskey advocate top 20 2018
 ---
 
 {% asset_img image.jpg "Heritage Barrel"%}

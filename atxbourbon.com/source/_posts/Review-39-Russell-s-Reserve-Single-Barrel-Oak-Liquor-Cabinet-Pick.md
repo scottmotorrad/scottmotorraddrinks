@@ -3,7 +3,7 @@ title: 'Review #39: Russell''s Reserve Single Barrel Oak Liquor Cabinet Pick'
 date: 2018-11-05 19:36:41
 tags:
 - wild turkey
-- russell's reserve
+- russells reserve
 - oak liquor cabinet
 - bourbon
 - single barrel
@@ -40,7 +40,7 @@ Russell's Reserve is the fancy version of Wild Turkey, long time readers will re
 **Finish**: Still long and still oak fading to vanilla
 
 ## Conclusion
-Another great store pick from Oak Liquor Cabinet. This one is a little hot for me neat but is delicious on ice. I'd love to try a variation on this that was aged for a few more year or finished somehow to add a another note and tame the heat a bit. So far this is my favorite expression from Wild Turkey but I'll have to try some more of their high end offerings.
+Another great store pick from Oak Liquor Cabinet. This one is a little hot for me neat but is delicious on ice. I'd love to try a variation on this that was aged for a few more years or finished somehow to add a another note and tame the heat a bit. So far this is my favorite expression from Wild Turkey but I'll have to try some more of their high end offerings.
 
 **7** - a solid whiskey I'd happily order at bar if they don't have something 8+
 

@@ -6,6 +6,8 @@ tags:
 - rye
 - 3
 - 6
+- jim beam
+- basil haydens
 ---
 
 {% asset_img image.jpg "Basil Hayden"%}

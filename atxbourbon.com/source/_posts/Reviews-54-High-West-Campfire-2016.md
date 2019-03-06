@@ -7,6 +7,9 @@ tags:
 - single malt
 - blend
 - 5
+- 
+- whiskey advocate top 20 
+- whiskey advocate top 20 2017
 ---
 
 {% asset_img image.jpg "Campfire"%}

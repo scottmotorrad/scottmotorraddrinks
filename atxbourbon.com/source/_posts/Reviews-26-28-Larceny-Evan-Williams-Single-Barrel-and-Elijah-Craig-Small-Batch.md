@@ -6,6 +6,9 @@ date: 2018-10-06 22:59:06
 tags:
 - heaven hill
 - bourbon
+- elijah craig
+- 6
+- 7
 ---
 {% asset_img image.jpg "Heaven hill Tasting Experience"%}
 

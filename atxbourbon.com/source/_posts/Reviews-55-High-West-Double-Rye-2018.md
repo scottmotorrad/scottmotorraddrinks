@@ -6,6 +6,8 @@ tags:
 - mgp
 - high west
 - 7
+- whiskey advocate top 20 
+- whiskey advocate top 20 2018
 ---
 
 {% asset_img image.jpg "Double Rye"%}
