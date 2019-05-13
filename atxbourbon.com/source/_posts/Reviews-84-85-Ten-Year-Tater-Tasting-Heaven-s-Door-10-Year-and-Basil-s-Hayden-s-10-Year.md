@@ -29,7 +29,7 @@ I ended up in possession of these two tater ten year bourbons via a questionable
 ## Basil Hayden's 10 Year Kentucky Straight Bourbon
 **Age**: 10 years
 
-**Abv**: 100 proof
+**Abv**: 80 proof
 
 **Color**: A dark amber 
 
@@ -57,7 +57,7 @@ I ended up in possession of these two tater ten year bourbons via a questionable
 ## Conclusion
 The blind portion of this was pretty easy thanks to those classic Dickel notes and that equally classic thin Basil Hayden's mouthfeel. 
 
-I really enjoyed the Heaven's Door 10 year would rank it somewhere between the Dickel 9 year and a good Dickel sourced Barrell pick but it's nontrivially more expensive than either so I can't see myself buying a bottle.
+I really enjoyed the Heaven's Door 10 year would rank it somewhere between the Dickel 9 year and a good Dickel sourced Barrell pick but it's nontrivially more expensive than either so I can't see myself buying a bottle. If this was priced a little more favorably I would have given it an 8.
 
 The Basil Hayden's was fine, just fine. It is a step up from the current NAS bottling but not enough to really make a difference. The notes were all pleasent and based on my taste for Booker's and Knob Creek I'm curious what a barrel proof or at least 100-110 proof version of Basil Hayden's would be like.
 

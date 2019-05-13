@@ -7,7 +7,6 @@ tags:
 - single malt
 - blend
 - 5
-- 
 - whiskey advocate top 20 
 - whiskey advocate top 20 2017
 ---

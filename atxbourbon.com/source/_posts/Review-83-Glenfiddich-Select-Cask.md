@@ -7,9 +7,10 @@ tags:
 - glenfiddich
 - scotch
 - speyside
+- 6
 ---
 
-This is the first in a 3 part series comparing some of Glenfiddich's mid range solera vat single malts: Select Cask, Reserve Cask and 15 year Solera Reserve. I tasted all 3 of them together but not blindly.
+This is the first in a 3 part series comparing some of Glenfiddich's mid range solera vat single malts: the [Select Cask](https://atxbourbon.com/2019/03/04/Review-83-Glenfiddich-Select-Cask/), the [Reserve Cask](https://atxbourbon.com/2019/03/12/Review-89-Glenfiddich-Reserve-Cask/) and the [15 year Solera Reserve](https://atxbourbon.com/2019/03/07/Review-86-Glenfiddich-15-Solera-Reserve/). I tasted all 3 of them together but not blindly.
 
 We're starting with the Select Cask which is a combination of European, bourbon and red wine casks. This is a duty free exclusive that I picked up on my way back from Mexico.
 

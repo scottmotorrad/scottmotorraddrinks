@@ -2,7 +2,7 @@
 title: 'Review #64: Nikka Whisky From The Barrel'
 date: 2019-01-15 14:33:52
 tags:
-- japanese
+- japan
 - 8
 - nikka
 - barrel proof
