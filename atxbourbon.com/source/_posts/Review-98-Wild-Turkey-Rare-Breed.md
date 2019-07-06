@@ -38,29 +38,12 @@ Somehow this was both higher proof, more flavorful and less harsh than the 101 w
 
 Overall this is great bourbon at a good price and is a great into to barrel proof bourbons for folks looking to get into them. All in all this is a whiskey that does everything right but doesn't do something special to put it over into the 9 or 10 range for me.
 
-**8** - an excellent bottle I'd be happy to buy
+### Quality
+**7** - a great whiskey I'd order at a bar
 
-You can follow me on [Instagram(@atxbourbon)](https://www.instagram.com/atxbourbon/) or [reddit](https://www.reddit.com/r/scottmotorraddrinks/) to keep up with these reviews and my other whiskey-centric adventures.
+### Value based on what I paid
+**Fair** - Worth the money, happy with my purchase
 
-## Scale
-My reviews are mostly about taste but occasionally take price into consideration generally dropping a point from whiskies in the 8-9 range that seem significantly more expensive than similar quality bottles.
+You can also follow me on [Instagram(@atxbourbon)](https://www.instagram.com/atxbourbon/) or [reddit](https://www.reddit.com/r/scottmotorraddrinks/) to keep up with these reviews and my other whiskey-centric adventures.
 
-**10** - an all time favorite, must buy/hunt
-
-**9** - a favorite that I almost always have a bottle of on my shelf
-
-**8** - an excellent bottle I'd be happy to buy
-
-**7** - a solid whiskey I'd happily order at bar if they don't have something 8+
-
-**6** - a decent whiskey that I don't prefer but don't avoid neat and/or would happily use as a mixer
-
-**5** - I would drink it if offered and I didn't have to pay for it
-
-**4** - not drinking this neat but it's fine as a mixer, bring on the Coke Zero
-
-**3** - maybe a mixer if I'm in  pinch, but preferably not drinking it
-
-**2** - no thanks
-
-**1** - pouring out the bottle  
+## [Scale](http://atxbourbon.com/Scale/)

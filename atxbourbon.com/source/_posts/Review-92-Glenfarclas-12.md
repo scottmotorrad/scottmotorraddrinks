@@ -4,7 +4,7 @@ date: 2019-03-16 17:34:44
 tags:
 - speyside
 - glenfarclas
-- 7 
+- 6 
 - oloroso
 - sherry cask
 - 12 year
@@ -44,29 +44,12 @@ This is the first in a 3 part series tasting my way up the Glenfarclas lineup wi
 ## Conclusion
 I'm a fan of this bottle as far as 12 year single malts go especially for the price. It's only a few more dollars than the [Glenfiddich 12](https://atxbourbon.com/2019/01/30/Review-67-Glenfiddich-12/) and is more than worth it. The rich sherry notes throughout appeal to my palette, the mouthfeel is more viscous and a few more proof points don't hurt either. On the other side of the spectrum this is a bit cheaper than Macallan's 12 year expressions and can easily hold its own against them. I'll definitely be broadening my 12 year scotch horizons in the coming months and will be using this guy as my baseline.
 
-**7** - a solid whiskey I'd happily order at bar if they don't have something 8+
+[**6**](https://atxbourbon.com/tags/6/) - a good whiskey I'm still happy to drink
+
+[**Fair**](https://atxbourbon.com/tags/fair-value/) - Worth the money, happy with my purchase
+
+#### [Scale](http://atxbourbon.com/Scale/)
 
 You can also follow me on [Instagram(@atxbourbon)](https://www.instagram.com/atxbourbon/) or [reddit](https://www.reddit.com/r/scottmotorraddrinks/) to keep up with these reviews and my other whiskey-centric adventures.
 
-## Scale
-My reviews are mostly about taste but occasionally take price into consideration generally dropping a point from whiskies in the 8-9 range that seem significantly more expensive than similar quality bottles.
-
-**10** - an all time favorite, must buy/hunt
-
-**9** - a favorite that I almost always have a bottle of on my shelf
-
-**8** - an excellent bottle I'd be happy to buy
-
-**7** - a solid whiskey I'd happily order at bar if they don't have something 8+
-
-**6** - a decent whiskey that I don't prefer but don't avoid and would be fine having as a mixer or in a pinch somewhere with a poor selection
-
-**5** - I would drink it if offered and I didn't have to pay for it
-
-**4** - Fine as a mixer, bring on the Coke Zero
-
-**3** - Maybe a mixer if I'm in  pinch
-
-**2** - no thanks
-
-**1** - pouring out the bottle  
+  

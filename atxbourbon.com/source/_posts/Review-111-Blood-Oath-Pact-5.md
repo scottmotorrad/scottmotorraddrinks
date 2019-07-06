@@ -31,31 +31,14 @@ Blood Oath is a divisive series of sourced bourbons from Luxco. Between the unkn
 ## Conclusion
 I really liked this one and it reminded me of a bananas foster. It's definitely a dessert whiskey for me alongside things like Barrell Dovetail and [High West A Mid Winter Night's Dram](https://atxbourbon.com/2019/01/04/Review-61-High-West-A-Mid-Winter-Night-s-Dram-Act-6-Scene-5/). Overall it is a great whiskey(assuming you like finished whiskies) that's probably a little on the high side pricewise but I'd happily pick up another bottle at retail. I think it edges out Dovetail in taste but costs nontrivially more ($85 vs $100) so it's a bit of a toss up if you are looking for a rum finished whiskey.
 
-**8** - an excellent bottle I'd be happy to buy
-
 Looking forward, I am still trying to track down a bottle or at the very least some samples of Pact 1 to do a comparison of the Pacts in the near future and I am reworking my scale to differentiate more between the growing number of 7 and 8 point reviews.
 
+### Quality
+**8** - an excellent bottle I’ll buy from time to time
+
+### Value
+**Fair** - Worth the money, happy with my purchase
+
+#### [Scale](http://atxbourbon.com/Scale/)
+
 You can also follow me on [Instagram(@atxbourbon)](https://www.instagram.com/atxbourbon/) or [reddit](https://www.reddit.com/r/scottmotorraddrinks/) to keep up with these reviews and my other whiskey-centric adventures.
-
-## Scale
-My reviews are mostly about taste but occasionally take price into consideration generally dropping a point from whiskies in the 8-9 range that seem significantly more expensive than similar quality bottles.
-
-**10** - an all time favorite, must buy/hunt
-
-**9** - a favorite that I almost always have a bottle of on my shelf
-
-**8** - an excellent bottle I'd be happy to buy
-
-**7** - a solid whiskey I'd happily order at bar if they don't have something 8+
-
-**6** - a decent whiskey that I don't prefer but don't avoid
-
-**5** - I would drink it if offered and I didn't have to pay for it
-
-**4** - Fine as a mixer, bring on the Coke Zero
-
-**3** - Maybe a mixer if I'm in  pinch
-
-**2** - no thanks
-
-**1** - pouring out the bottle  

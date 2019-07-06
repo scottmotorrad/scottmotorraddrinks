@@ -9,6 +9,9 @@ tags:
 - elijah craig
 - 6
 - 7
+- wheater
+- kentucky
+- evan williams
 ---
 {% asset_img image.jpg "Heaven hill Tasting Experience"%}
 
@@ -80,27 +83,10 @@ After the r/bourbon community review of Evan Williams Black Label I realized I h
 ## Conclusion
 This tasting flight was definitely an adventure. To start with I was disappointed with the Larceny, it wasn't bad but I'd prefer any of the Weller lineup for a wheater. I honestly surprised by how good the Evan Williams Single Barrel was. I'd love to try a barrel proof version of this. The Elijah Craig Small Batch was exactly what I expected, having had it before haha, it's always enjoyable though once you've had the barrel proof the small batch is a little underwhelming.
 
-**Larceny - 6** - a decent whiskey that I don't prefer but don't avoid 
+**Larceny - 4** - a fine whiskey that does not standout in either direction 
 
-**Evan Williams Single Barrel - 7** - a solid whiskey I'd happily order at bar
+**Evan Williams Single Barrel - 6** - a good whiskey I’m still happy to drink
 
-**Elijah Craig Small Batch - 7** - a solid whiskey I'd happily order at bar
+**Elijah Craig Small Batch - 6** - a good whiskey I’m still happy to drink
 
-## Scale
-My reviews are mostly about taste but occasionally take price into consideration generally dropping a point from whiskies in the 8-9 range that seem significantly more expensive than similar quality bottles.
-
-**10** - a unicorn, I haven't found it yet
-
-**9** - a favorite that I almost always have a bottle of on my shelf
-
-**8** - an excellent bottle I'd be happy to buy
-
-**7** - a solid whiskey I'd happily order at bar if they don't have something 8+
-
-**6** - a decent whiskey that I don't prefer but don't avoid and would be fine having as a mixer or in a pinch somewhere with a poor selection
-
-**5** - I would drink it if offered and I didn't have to pay for it
-
-**4** - Maybe a mixer though I wouldn't want to pay for it
-
-**3 and below** - no thanks 
+### [Scale](http://atxbourbon.com/Scale/)

@@ -37,23 +37,8 @@ Eagle Rare isn't particularly rare and has nothing to do with eagles. It is a bo
 ## Conclusion
 Eagle Rare, what to say..? Is it is good? Of course. Is it overhyped? Yes, especially nowadays. All that aside it is a great whiskey at a great price and a solid intro into the next tier of Buffalo Trace offerings before you're ready to shell out for the Colonel Taylor Line. 
 
-**7** - a solid whiskey I'd happily order at bar if they don't have something 8+
+**7** - a great whiskey I'd order at a bar
 
-## Scale
-My reviews are mostly about taste but occasionally take price into consideration generally dropping a point from whiskies in the 8-9 range that seem significantly more expensive than similar quality bottles.
+**Great** - A great deal, I'd buy it again
 
-**10** - a unicorn, I haven't found it yet
-
-**9** - a favorite that I almost always have a bottle of on my shelf
-
-**8** - an excellent bottle I'd be happy to buy
-
-**7** - a solid whiskey I'd happily order at bar if they don't have something 8+
-
-**6** - a decent whiskey that I don't prefer but don't avoid and would be fine having as a mixer or in a pinch somewhere with a poor selection
-
-**5** - I would drink it if offered and I didn't have to pay for it
-
-**4** - Maybe a mixer though I wouldn't want to pay for it
-
-**3 and below** - no thanks 
+## [Scale](http://atxbourbon.com/Scale/)
