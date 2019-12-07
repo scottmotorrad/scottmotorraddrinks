@@ -39,30 +39,10 @@ I'm gearing up for my annual holiday trip back to Park City, Utah sop it's time 
 ## Conclusion
 This is a 2016 bottling so it's old MGP and Barton blend. I haven't had much of Barton's rye lineup(other than High West) though I am at fan of their bourbons, especially the 1792 lineup. It still has that dill note I associate with MGP ryes but it is definitely toned down compared to bottlings that are 100% MGP which is an improvement imo. If you can get your hands on one of the older High West bottles definitely grab it. Also I'm a big fan of 375ml bottles so I can try more things so I'm very happy to see High West releasing a lot of their lineup in little bottles as well.
 
-**8** - an excellent bottle I'd be happy to buy
+[**8**](https://atxbourbon.com/tags/8/) - an excellent bottle I'll buy from time to time
+
+[**Fair**](https://atxbourbon.com/tags/fair-value/) - Worth the money, happy with my purchase
+
+#### [Scale](http://atxbourbon.com/Scale/)
 
 You can also follow me on [Instagram(@atxbourbon)](https://www.instagram.com/atxbourbon/) or [reddit](https://www.reddit.com/r/scottmotorraddrinks/) to keep up with these reviews and my other whiskey-centric adventures.
-
-
-## Scale
-My reviews are mostly about taste but occasionally take price into consideration generally dropping a point from whiskies in the 8-9 range that seem significantly more expensive than similar quality bottles.
-
-**10** - a unicorn, I haven't found it yet
-
-**9** - a favorite that I almost always have a bottle of on my shelf
-
-**8** - an excellent bottle I'd be happy to buy
-
-**7** - a solid whiskey I'd happily order at bar if they don't have something 8+
-
-**6** - a decent whiskey that I don't prefer but don't avoid and would be fine having as a mixer or in a pinch somewhere with a poor selection
-
-**5** - I would drink it if offered and I didn't have to pay for it
-
-**4** - Fine as a mixer, bring on the Coke Zero
-
-**3** - Maybe a mixer if I'm in  pinch
-
-**2** - no thanks
-
-**1** - pouring out the bottle  

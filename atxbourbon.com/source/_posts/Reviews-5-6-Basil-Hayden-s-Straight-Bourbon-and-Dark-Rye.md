@@ -73,27 +73,12 @@ I've mostly been writing reviews of whiskey that I love so far so I thought I'd 
 Basil Hayden's straight bourbon is solid but completely unremarkable; nothing wrong with it but nothing exciting either. I used to really enjoy it but as I've learned to appreciate more complex and stronger flavors it's fallen by the wayside. I still usually have a bottle on my shelf since it's a good entry point for newer folks and because my dad likes it. THe Dark Rye on the other hand is awful. Easily the worst whiskey over $20 for a bottle I've ever had. I poured out the rest of my glass after writing this. I think it's discontinued in favor of their Darker Rye and Two by Two but if you do see it don't buy it just to be safe.
 
 ### Straight Bourbon
-6/10 - a decent whiskey that I don't prefer but don't avoid and would be fine having as a mixer or in a pinch somewhere with a poor selection
+[**6**](https://atxbourbon.com/tags/6/) - a good whiskey I'm still happy to drink
 
 ### Dark Rye
 
-3/10 -  no thanks
+[**2**](https://atxbourbon.com/tags/2/) - Mixer only
 
-## Scale
-My reviews are mostly about taste but occasionally take price into consideration generally dropping a point from whiskies in the 8-9 range that seem significantly more expensive than similar quality bottles.
+#### [Scale](http://atxbourbon.com/Scale/)
 
-**10** - a unicorn, I haven't found it yet
-
-**9** - a favorite that I almost always have a bottle of on my shelf
-
-**8** - an excellent bottle I'd be happy to buy
-
-**7** - a solid whiskey I'd happily order at bar if they don't have something 8+
-
-**6** - a decent whiskey that I don't prefer but don't avoid and would be fine having as a mixer or in a pinch somewhere with a poor selection
-
-**5** - I would drink it if offered and I didn't have to pay for it
-
-**4** - Maybe a mixer though I wouldn't want to pay for it
-
-**3 and below** - no thanks 
+You can also follow me on [Instagram(@atxbourbon)](https://www.instagram.com/atxbourbon/) or [reddit](https://www.reddit.com/r/scottmotorraddrinks/) to keep up with these reviews and my other whiskey-centric adventures.

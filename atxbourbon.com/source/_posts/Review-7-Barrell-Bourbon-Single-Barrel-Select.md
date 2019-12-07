@@ -45,23 +45,8 @@ Tonight's bourbon is Barrell Bourbon Single Barrel [Oak Liquor Cabinet](https://
 
 This was perfectly good bourbon but nothing special at all. I was a bit hyped up on this so that probably contributed to my disappointment. I'd always sort of wondered why bourbon generally isn't aged as long as scotch usually is but this bottle suggests that the shorter aging is the way to go. With how medicocre this was, especially given that this is a store select, single barrel and sort of pricy, I don't think I'll be following up on more of their catalog.
 
-**7** - a solid whiskey I'd happily order at bar if they don't have something 8+
+[**7**](https://atxbourbon.com/tags/7/) - a great whiskey I'd order at a bar
 
-## Scale
-My reviews are mostly about taste but occasionally take price into consideration generally dropping a point from whiskies in the 8-9 range that seem significantly more expensive than similar quality bottles.
+#### [Scale](http://atxbourbon.com/Scale/)
 
-**10** - a unicorn, I haven't found it yet
-
-**9** - a favorite that I almost always have a bottle of on my shelf
-
-**8** - an excellent bottle I'd be happy to buy
-
-**7** - a solid whiskey I'd happily order at bar if they don't have something 8+
-
-**6** - a decent whiskey that I don't prefer but wouldn't avoid and would be fine having as a mixer or in a pinch somewhere with a poor selection
-
-**5** - I would drink it if offered and I didn't have to pay for it
-
-**4** - Maybe a mixer though I wouldn't want to pay for it
-
-**3 and below** - no thanks 
+You can also follow me on [Instagram(@atxbourbon)](https://www.instagram.com/atxbourbon/) or [reddit](https://www.reddit.com/r/scottmotorraddrinks/) to keep up with these reviews and my other whiskey-centric adventures.

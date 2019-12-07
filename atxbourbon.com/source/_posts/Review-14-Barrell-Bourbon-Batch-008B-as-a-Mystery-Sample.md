@@ -44,10 +44,10 @@ I was very excited to get to try another Barrell after my [middling experience](
 
 I nearly gave this an 8 but I'm still not sure I would buy a bottle of it now that I've already tried it.
 
-7/10 - a solid whiskey I'd happily order at bar if they don't have something 8+
+[**7**](https://atxbourbon.com/tags/7/) - a great whiskey I'd order at a bar
 
 You can see [u/bananavanman's review](https://www.reddit.com/r/bourbon/comments/8q3jo3/review_050_barrell_bourbon_batch_008b/) for another take.
 
+#### [Scale](http://atxbourbon.com/Scale/)
 
-## Scale
-My reviews are mostly about taste but occasionally take price into consideration generally dropping a point from whiskies in the 8-9 range that seem significantly more expensive than similar quality bottles.
+You can also follow me on [Instagram(@atxbourbon)](https://www.instagram.com/atxbourbon/) or [reddit](https://www.reddit.com/r/scottmotorraddrinks/) to keep up with these reviews and my other whiskey-centric adventures.

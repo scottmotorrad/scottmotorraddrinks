@@ -36,8 +36,12 @@ Tejas Liquor had their south Austin grand opening and released some rare stock t
 ## Conclusion
 It's a good whiskey, no doubt about it but maybe it was just a little overhyped for me. As far as Buffalo Trace's single barrel offerings go I think I'll stick with EHT SiB and Blanton's especially given how hard this is to come by. That said if you get the chance to order a pour or pick up a bottle for near retail I'd definitely recommend it. 
 
-**7** - a solid whiskey I'd happily order at bar
+[**7**](https://atxbourbon.com/tags/7/) - a great whiskey I'd order at a bar
 
 **A review of something a step up**: [Old Weller Antique](https://atxbourbon.com/2018/09/05/Reviews-10-12-The-W-L-Weller-Shootout/)
 
 **A review of something not quite at this level**: [Evan Williams Single Barrel](https://atxbourbon.com/2018/10/06/Reviews-26-28-Larceny-Evan-Williams-Single-Barrel-and-Elijah-Craig-Small-Batch/)
+
+#### [Scale](http://atxbourbon.com/Scale/)
+
+You can also follow me on [Instagram(@atxbourbon)](https://www.instagram.com/atxbourbon/) or [reddit](https://www.reddit.com/r/scottmotorraddrinks/) to keep up with these reviews and my other whiskey-centric adventures.

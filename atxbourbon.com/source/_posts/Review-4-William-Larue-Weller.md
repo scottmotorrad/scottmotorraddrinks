@@ -42,23 +42,8 @@ Tasted this at the [Roosevelt Room](https://www.therooseveltroomatx.com/) in dow
 ## Conclusion 
 My second taste of the BTAC was excellent but I preferred [the Handy](https://www.reddit.com/r/bourbon/comments/96ehi3/review_3_thomas_h_handy_sazerac/), especially on ice. Strong but a lot smoother than the proof would lead you to believe. A little too focused on the sweetness for me, I like sweet whiskey but prefer it to have something to spice it up a bit. If you're all or mostly sweettooth you'll love this though. I also let me dad taste it since he was visiting but he said it was too strong for him so we got him a Weller 12 instead. 
 
-**9** - I wish I could buy it!
+[**9**](https://atxbourbon.com/tags/9/) - a favorite I'd like to keep on my shelf
 
-## Scale
-My reviews are mostly about taste but occasionally take price into consideration generally dropping a point from whiskies in the 8-9 range that seem significantly more expensive than similar quality bottles.
+#### [Scale](http://atxbourbon.com/Scale/)
 
-**10** - a unicorn, I haven't found it yet
-
-**9** - a favorite that I almost always have a bottle of on my shelf
-
-**8** - an excellent bottle I'd be happy to buy
-
-**7** - a solid whiskey I'd happily order at bar if they don't have something 8+
-
-**6** - a decent whiskey that I don't prefer but don't avoid and would be fine having as a mixer or in a pinch somewhere with a poor selection
-
-**5** - I would drink it if offered and I didn't have to pay for it
-
-**4** - Maybe a mixer though I wouldn't want to pay for it
-
-**3 and below** - no thanks 
+You can also follow me on [Instagram(@atxbourbon)](https://www.instagram.com/atxbourbon/) or [reddit](https://www.reddit.com/r/scottmotorraddrinks/) to keep up with these reviews and my other whiskey-centric adventures.

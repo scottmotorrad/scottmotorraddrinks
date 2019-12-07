@@ -7,7 +7,7 @@ tags:
 - 12 year
 - glenmorangie
 - sherry finish
-- 6
+- 5
 - highlands
 ---
 {% asset_img image.jpg "Glenmorangie Lasant"%}
@@ -40,23 +40,8 @@ After a long string of bourbon reviews it felt like it was time to branch out in
 ## Conclusion 
 Overall this one has some ups and downs for me. It's a bit too aggressively sweet especially when neat but there are some more interesting notes in there as well. Overall a solid whiskey but there are definitely similarly priced whiskies I prefer, such as Glenfarclas 12, and going vertical the Quinta Ruban is a big step up and I'd pretty much always suggest spending the extra few bucks.
 
-**6** - a decent whiskey that I don't prefer but don't avoid
+[**5**](https://atxbourbon.com/tags/5/) - a whiskey with notable strengths but also held back by some flaws
 
-## Scale
-My reviews are mostly about taste but occasionally take price into consideration generally dropping a point from whiskies in the 8-9 range that seem significantly more expensive than similar quality bottles.
+#### [Scale](http://atxbourbon.com/Scale/)
 
-**10** - a unicorn, I haven't found it yet
-
-**9** - a favorite that I almost always have a bottle of on my shelf
-
-**8** - an excellent bottle I'd be happy to buy
-
-**7** - a solid whiskey I'd happily order at bar if they don't have something 8+
-
-**6** - a decent whiskey that I don't prefer but don't avoid and would be fine having as a mixer or in a pinch somewhere with a poor selection
-
-**5** - I would drink it if offered and I didn't have to pay for it
-
-**4** - Maybe a mixer though I wouldn't want to pay for it
-
-**3 and below** - no thanks 
+You can also follow me on [Instagram(@atxbourbon)](https://www.instagram.com/atxbourbon/) or [reddit](https://www.reddit.com/r/scottmotorraddrinks/) to keep up with these reviews and my other whiskey-centric adventures.

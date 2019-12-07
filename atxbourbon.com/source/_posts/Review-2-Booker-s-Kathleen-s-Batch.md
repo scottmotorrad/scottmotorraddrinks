@@ -39,23 +39,9 @@ Picked this up from [Oak Liquor Cabinet](http://oakliquorcabinet.com/) a few wee
 ## Conclusion 
 An excellent bourbon though I wish the spice was a little more prevalent and that the finish stood up to ice a bit better(it's hot here). I was also a bit disappointed not to catch the cherry notes the card that came with it mentioned. I probably won't pick up another bottle of Kathleen's batch but I will be keeping my eye out for another bottle from another batch. I do like high abv sweet bourbons :)
 
-8/10 - One of my favorites and always on my whiskey shelf
+[**8**](https://atxbourbon.com/tags/8/) - an excellent bottle I'll buy from time to time
 
-## Scale
-My reviews are mostly about taste but occasionally take price into consideration generally dropping a point from whiskies in the 8-9 range that seem significantly more expensive than similar quality bottles.
 
-**10** - a unicorn, I haven't found it yet
+#### [Scale](http://atxbourbon.com/Scale/)
 
-**9** - a favorite that I almost always have a bottle of on my shelf
-
-**8** - an excellent bottle I'd be happy to buy
-
-**7** - a solid whiskey I'd happily order at bar if they don't have something 8+
-
-**6** - a decent whiskey that I don't prefer but don't avoid and would be fine having as a mixer or in a pinch somewhere with a poor selection
-
-**5** - I would drink it if offered and I didn't have to pay for it
-
-**4** - Maybe a mixer though I wouldn't want to pay for it
-
-**3 and below** - no thanks 
+You can also follow me on [Instagram(@atxbourbon)](https://www.instagram.com/atxbourbon/) or [reddit](https://www.reddit.com/r/scottmotorraddrinks/) to keep up with these reviews and my other whiskey-centric adventures.

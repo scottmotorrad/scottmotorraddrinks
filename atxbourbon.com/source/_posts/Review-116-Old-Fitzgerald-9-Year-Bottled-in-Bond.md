@@ -9,6 +9,7 @@ tags:
 - bottled in bond
 - old fitzgerald
 - wheater
+- kentucky
 ---
 
 When Heaven Hill started a line of age statement, bottled in bond wheated bourbon that came in a taterific decanter I knew I had to try it. Thankfully my go to whiskey bar had it in stock and when it was done I was left wanting more. Another member of our local bourbon group helped me get a hold of one locally even if it was a bit of a crazy price. While it might feel bad to buy from a shop that's selling things well above retail sometimes you don't have a lot of options.

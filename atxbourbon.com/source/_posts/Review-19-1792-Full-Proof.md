@@ -34,25 +34,10 @@ After doing a few lower score reviews I needed to drink something I enjoy and ha
 **Finish**: Cut a bit short but the same fading sweetness into spice and just the smallest burn.
 
 ## Conclusion
-I'm a huge fan of this bourbon and was torn between 8 and 9. While it is excellent and the price to quality ratio is outstanding I feel like it needs a little something extra to push it up into the 9s. That said this is shockingly smooth for such a high proof but still has a great mouth feel and strong flavors. So far all 3 1792s I've tried (Small Batch and Single Barrel reviews incoming) have been great and I will be trying to track down more of their line to round out the series.
+I'm a huge fan of this bourbon and was torn between 7 and 8. While it is excellent and the price to quality ratio is outstanding I feel like it needs a little something extra to push it up into the upper tiers. That said this is shockingly smooth for such a high proof but still has a great mouth feel and strong flavors. So far all 3 1792s I've tried (Small Batch and Single Barrel reviews incoming) have been great and I will be trying to track down more of their line to round out the series.
 
-**8** - an excellent bottle I'd be happy to buy
+[**7**](https://atxbourbon.com/tags/7/) - a great whiskey I'd order at a bar
 
-## Scale
-My reviews are mostly about taste but occasionally take price into consideration generally dropping a point from whiskies in the 8-9 range that seem significantly more expensive than similar quality bottles.
+#### [Scale](http://atxbourbon.com/Scale/)
 
-**10** - a unicorn, I haven't found it yet
-
-**9** - a favorite that I almost always have a bottle of on my shelf
-
-**8** - an excellent bottle I'd be happy to buy
-
-**7** - a solid whiskey I'd happily order at bar if they don't have something 8+
-
-**6** - a decent whiskey that I don't prefer but don't avoid and would be fine having as a mixer or in a pinch somewhere with a poor selection
-
-**5** - I would drink it if offered and I didn't have to pay for it
-
-**4** - Maybe a mixer though I wouldn't want to pay for it
-
-**3 and below** - no thanks 
+You can also follow me on [Instagram(@atxbourbon)](https://www.instagram.com/atxbourbon/) or [reddit](https://www.reddit.com/r/scottmotorraddrinks/) to keep up with these reviews and my other whiskey-centric adventures.

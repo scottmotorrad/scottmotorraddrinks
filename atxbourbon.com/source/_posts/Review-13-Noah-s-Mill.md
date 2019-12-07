@@ -4,7 +4,7 @@ date: 2018-09-09 23:19:12
 tags: 
 - bourbon
 - willet
-- 8
+- 7
 ---
 
 {% asset_img image.jpg "Noahs Mill"%}
@@ -38,23 +38,8 @@ My [favorite bar](https://www.drinkwellaustin.com/) added some new bourbon's to 
 ## Conclusion
 This bottle was very good and I'd be happy to buy a bottle. I'm torn on whether I preferred this neat or on nice and can definitely drink it either way. Definitely glad I got to try this and its little brother Rowan's Creek(no review but not nearly as good). 
 
-**8** - an excellent bottle I'd be happy to buy
+[**7**](https://atxbourbon.com/tags/7/) - a great whiskey I'd order at a bar
 
-## Scale
-My reviews are mostly about taste but occasionally take price into consideration generally dropping a point from whiskies in the 8-9 range that seem significantly more expensive than similar quality bottles.
+#### [Scale](http://atxbourbon.com/Scale/)
 
-**10** - a unicorn, I haven't found it yet
-
-**9** - a favorite that I almost always have a bottle of on my shelf
-
-**8** - an excellent bottle I'd be happy to buy
-
-**7** - a solid whiskey I'd happily order at bar if they don't have something 8+
-
-**6** - a decent whiskey that I don't prefer but wouldn't avoid and would be fine having as a mixer or in a pinch somewhere with a poor selection
-
-**5** - I would drink it if offered and I didn't have to pay for it
-
-**4** - Maybe a mixer though I wouldn't want to pay for it
-
-**3 and below** - no thanks 
+You can also follow me on [Instagram(@atxbourbon)](https://www.instagram.com/atxbourbon/) or [reddit](https://www.reddit.com/r/scottmotorraddrinks/) to keep up with these reviews and my other whiskey-centric adventures.

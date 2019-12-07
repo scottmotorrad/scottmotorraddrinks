@@ -45,29 +45,10 @@ I'm getting festive with another High West review tonight. This time it's their 
 ## Conclusion
 This bottle is a perfect example of why I wish High West did higher proof bottlings. It's got great notes but they aren't as strong as I like, the mouthfeel is a bit thin neat and the notes don't hold up well to ice. I believe that even bumping the proof up to something like 100(a High West BiB, we can dream right?) would be enough to overcome those weaknesses and push this into the 8-9 territory. Stacking this up against the rest of current High West family it comes in the middle of the pack ahead of the much cheaper Campfire, Double Rye and American Prairie Bourbon but behind Rendezvous Rye, Yippee Ki-Yay and A Midwinter Night's Dram. That's also my rough stack ranking of High West. All that said it's a great bottle though it's a bit hard to justify the price. I'd like to try my hand at blending another MGP sourced rye with Boone County 1833 to see if I can come up with my own Bourye competitor similar to adding a Lagavulin float to Four Roses to make my own campfire.
 
-**7** - a solid whiskey I'd happily order at bar if they don't have something 8+
+[**7**](https://atxbourbon.com/tags/7/) - a great whiskey I'd order at a bar
+
+[**Poor**](https://atxbourbon.com/tags/poor-value/) - Overpriced, not worth the money
+
+#### [Scale](http://atxbourbon.com/Scale/)
 
 You can also follow me on [Instagram(@atxbourbon)](https://www.instagram.com/atxbourbon/) or [reddit](https://www.reddit.com/r/scottmotorraddrinks/) to keep up with these reviews and my other whiskey-centric adventures.
-
-## Scale
-My reviews are mostly about taste but occasionally take price into consideration generally dropping a point from whiskies in the 8-9 range that seem significantly more expensive than similar quality bottles.
-
-**10** - a unicorn, I haven't found it yet
-
-**9** - a favorite that I almost always have a bottle of on my shelf
-
-**8** - an excellent bottle I'd be happy to buy
-
-**7** - a solid whiskey I'd happily order at bar if they don't have something 8+
-
-**6** - a decent whiskey that I don't prefer but don't avoid and would be fine having as a mixer or in a pinch somewhere with a poor selection
-
-**5** - I would drink it if offered and I didn't have to pay for it
-
-**4** - Fine as a mixer, bring on the Coke Zero
-
-**3** - Maybe a mixer if I'm in  pinch
-
-**2** - no thanks
-
-**1** - pouring out the bottle  

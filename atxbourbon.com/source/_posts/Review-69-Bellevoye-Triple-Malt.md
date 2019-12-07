@@ -2,9 +2,8 @@
 title: 'Review #69: Bellevoye Triple Malt'
 date: 2019-02-03 00:04:12
 tags:
-- french
+- france
 - 4
-- whisky
 - malt
 ---
 

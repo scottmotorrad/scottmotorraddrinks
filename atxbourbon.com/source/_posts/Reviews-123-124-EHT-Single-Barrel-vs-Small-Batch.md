@@ -2,7 +2,7 @@
 title: 'Reviews #123-124: EHT Single Barrel vs Small Batch'
 date: 2019-07-05 16:18:12
 tags:
-- eht taylor
+- eh taylor
 - buffalo trace
 - bourbon
 - bottled in bond
@@ -10,6 +10,7 @@ tags:
 - 7
 - great value
 - poor value
+- single barrel
 ---
 
 After drinking my way through a number of sub $40 bottled in bond bourbon we'll come to the end of the line with EH Taylor Small Batch and compare it side by side with it's more expensive Single Barrel expression. As far as I know the EHT lineup are Buffalo Trace's only bottled in bond offerings, other than the EHT barrel proof of course. In a world where Blanton's and Eagle Rare are getting harder to find EHT Small Batch is still pretty reliably available at retailish prices here in Austin. But we're not here to muse on the Buffalo Trace line up so let's taste some whiskey and see how they stack up against the rest of the bottled in bond drinker lineup!

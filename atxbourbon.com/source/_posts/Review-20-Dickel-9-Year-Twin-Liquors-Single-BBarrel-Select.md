@@ -6,7 +6,7 @@ tags:
 - twin liquors
 - single barrel
 - bourbon
-- 8
+- 7
 ---
 
 {% asset_img image.jpg "Dickel"%}
@@ -35,25 +35,11 @@ Traditionally I haven't been a fan of Dickel but after u/bananavanman having me 
 **Finish**: The baking spice finish come sup faster than it did without ice but still lingers just as long.
 
 ## Conclusion
-I was very pleasantly surprised by this whiskey and really enjoyed the combination of sweet, cherry and spicy notes. I always enjoy a lingering spicy finish and this bottle delivered. Overall this has restored my interest in Dickel or at least their well aged single barrel offerings. I'd really like to try a variation of this that wasn't chill filtered and/or was bottled at barrel proof. A version of this with a better mouth feel and the same notes but stronger would probably eek its way into the 9s for me.
+I was very pleasantly surprised by this whiskey and really enjoyed the combination of sweet, cherry and spicy notes. I always enjoy a lingering spicy finish and this bottle delivered. Overall this has restored my interest in Dickel or at least their well aged single barrel offerings. I'd really like to try a variation of this that wasn't chill filtered and/or was bottled at barrel proof. A version of this with a better mouth feel and the same notes but stronger would probably eek its way into the 8s for me.
 
-**8** - an excellent bottle I'd be happy to buy
+[**7**](https://atxbourbon.com/tags/7/) - a great whiskey I'd order at a bar
 
-## Scale
-My reviews are mostly about taste but occasionally take price into consideration generally dropping a point from whiskies in the 8-9 range that seem significantly more expensive than similar quality bottles.
 
-**10** - a unicorn, I haven't found it yet
+#### [Scale](http://atxbourbon.com/Scale/)
 
-**9** - a favorite that I almost always have a bottle of on my shelf
-
-**8** - an excellent bottle I'd be happy to buy
-
-**7** - a solid whiskey I'd happily order at bar if they don't have something 8+
-
-**6** - a decent whiskey that I don't prefer but don't avoid and would be fine having as a mixer or in a pinch somewhere with a poor selection
-
-**5** - I would drink it if offered and I didn't have to pay for it
-
-**4** - Maybe a mixer though I wouldn't want to pay for it
-
-**3 and below** - no thanks 
+You can also follow me on [Instagram(@atxbourbon)](https://www.instagram.com/atxbourbon/) or [reddit](https://www.reddit.com/r/scottmotorraddrinks/) to keep up with these reviews and my other whiskey-centric adventures.
