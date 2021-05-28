@@ -3,11 +3,12 @@ title: 'Reviews #10-#12: The W.L. Weller Shootout'
 date: 2018-09-05 22:49:09
 tags: 
 - bourbon
-- shootout
+- weller
 - wheater
 - buffalo trace
 - 8
 - 6
+- kentucky
 ---
 
 {% asset_img image.jpg "Weller"%}

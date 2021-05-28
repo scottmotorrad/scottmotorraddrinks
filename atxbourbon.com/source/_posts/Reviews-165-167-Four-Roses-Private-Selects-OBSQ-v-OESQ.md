@@ -3,10 +3,12 @@ title: 'Reviews #165-167: Four Roses Private Selects OBSQ v OESQ'
 date: 2019-11-25 15:18:18
 tags:
 - four roses
-- OBSQ
-- OESQ
+- obsq
+- oesq
 - single barrel
 - private select
+- 8
+- 9
 ---
 
 Today I am kicking off a series on Four Roses that will span ~20 Private Selects, multiple Limited Editions and some of their regular offerings. I'm starting with a blind tasting of 3 Q yeast strains bottles a Binny's OESQ, The Wine and Cheese Place OESQ and the OBSQ from Longhorn Liquor that you may recognize from the [review collaboration between u/prepreludesh and myself](https://www.reddit.com/r/bourbon/comments/dwdwuy/a_joint_collaboration_review_four_roses_private/) a couple weeks ago. 

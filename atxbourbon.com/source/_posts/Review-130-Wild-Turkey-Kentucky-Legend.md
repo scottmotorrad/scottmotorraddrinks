@@ -8,6 +8,7 @@ tags:
 - cask strength
 - single barrel
 - dusty
+- 9
 ---
 
 For a brief, glorious moment in the late 90s, well before my bourbon days, Wild Turkey released a single barrel, cask strength offering called Kentucky Legend. Nick named 'Donut' due to its unique bottle shape, Kentucky Legend truly lived up to its name is highly sought after by dusty Turkey fans. I had the good fortune of getting to try the Legend and take home a small sample to write this review thanks to a legendary Austin bourbon hunter. Let's see how this lives up to the hype!

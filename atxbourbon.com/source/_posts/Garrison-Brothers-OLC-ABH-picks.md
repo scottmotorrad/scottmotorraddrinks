@@ -9,6 +9,7 @@ tags:
 - wheater
 - single barrel
 - barrel proof
+- atxbourbon selection
 ---
 
 The Oak Liquor Cabinet and Austin Bourbon Hunter's Garrison Brothers picks are in! About a month ago I went with a group of ABHers out to Garrison Brothers to pick two barrels, one barrel proof and one to be proofed down to 94 proof. You can read all about the pick trip here! A small shipment of these bottles landed last week with the bulk of them getting in earlier this week. Also I'm not going to be giving a score since I helped pick the barrels (good call u/t8ke).

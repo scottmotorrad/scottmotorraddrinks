@@ -6,7 +6,7 @@ tags:
 - bourbon
 - 10 year
 - 8
-- luxco
+- lux row
 - rebel yell
 - single barrel
 - wheater

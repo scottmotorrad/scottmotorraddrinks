@@ -6,6 +6,7 @@ tags:
 - kentucky
 - whiskey barons
 - wild turkey
+- 8
 ---
 
 W.B. Saffell is the third release in Campari's The Whiskey Baron's series and as far as I can tell the first one that Eddie Russel was involved it. The first two releases, Old Ripy and Bond and Lillard were not big hits but this was one supposed to be different plus it was NCF, 107 proof and contained 12 year old Wild Turkey so I had to grab one, also it had a turkey on the label so that was cool.

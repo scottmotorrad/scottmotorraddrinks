@@ -1,5 +1,5 @@
 ---
-title: 'Review #160-163: High West A Midwinter Nights Dram Acts 2, 5, 6, and 7'
+title: 'Review #160-163: High West A Midwinter Night''s Dram Acts 2, 5, 6, and 7'
 date: 2019-11-21 10:45:26
 tags:
 - high west
@@ -10,6 +10,7 @@ tags:
 - 7
 - 8
 - 9
+- finished
 ---
 
 As is tradition I got a bottle of this year's A Midwinter Nights Dram, specifically Act 7 Scene 4. I liked the new act though it seemed to be getting mixed feedback online with a fair number of folks pining for the older releases. I tend to that it's about 50-50 when folks complain about how older whiskey was better. Sometimes the whiskey has gotten younger and worse for it but other times I think they are just looking back with rose colored glasses.

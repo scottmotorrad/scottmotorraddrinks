@@ -5,6 +5,7 @@ tags:
 - kentucky
 - bourbon
 - barton
+- 8
 ---
 
 When Jim Rutledge left Four Roses to start his own distillery he kicked things off by sourcing some 11.5 year old barrels from Barton and resurrected the Cream of Kentucky brand. As a fan of 4 Roses, Barton and dick jokes I was excited. Unfortunately it wasn't going to be distributed in Texas and had a somewhat prohibitive price point so I missed out on batch 1. Thankfully a fellow Austin Bourbon hunter is from Maryland and batch 2 of CoK didn't exactly fly off the shelves there so he was willing to mule a few bottles back to trade. I'm always looking to trade up as I tend to have more of a shopping problem than a drinking problem.

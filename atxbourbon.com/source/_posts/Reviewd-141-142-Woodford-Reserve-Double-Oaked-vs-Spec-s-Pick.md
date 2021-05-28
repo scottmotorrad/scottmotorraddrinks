@@ -2,6 +2,10 @@
 title: 'Reviews #141-142: Woodford Reserve Double Oaked vs Spec''s Pick'
 date: 2019-09-07 18:06:22
 tags:
+- woodford
+- bourbon
+- kentucky
+- 7
 ---
 
 The Woodford series is still going and we're at the penultimate entry with a side by side of Woodford Double Oaked and a Spec's pick. Woodford Double Oaked batches regular Woodford Reserve and ages it a bit longer in a second, toasted new oak barrel. The store picks are single barrels of the second barreling but are still batched after the first maturation. I originally tasted both of these blind and side by side but took the notes later on and not blind. 

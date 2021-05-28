@@ -8,6 +8,8 @@ tags:
 - 6
 - 13 year
 - great value
+- whiskey advocate top 20 
+- whiskey advocate top 20 2019
 ---
 
 George Dickel recently released a 13 year old bottled in bond expression at a very reasonable price and it hit Texas this week! I've been enjoying Barrell and Smooth Ambler's Dickel sourced releases and am a fan of bottled in bond so I had to pick one of these up. 

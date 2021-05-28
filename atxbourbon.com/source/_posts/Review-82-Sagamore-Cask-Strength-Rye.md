@@ -4,8 +4,9 @@ date: 2019-02-25 23:38:28
 tags:
 - rye
 - mgp
-- sagamore
-- 6
+- sagamore spirit
+- 5
+- indiana
 ---
 
 This is a NAS cask strength rye from [Sagamore Spirits](https://sagamorespirit.com/spirits/cask-strength-rye-whiskey/?age-verified=fa8426e080). It ironically is loaded with marketing language about Maryland and insists that there are "no shortcuts here" when it is sourced from MGP. I was hoping we were getting away from this sort of thing in the craft spirits scene but alas we are not. Well let's see if the taste makes up for it!

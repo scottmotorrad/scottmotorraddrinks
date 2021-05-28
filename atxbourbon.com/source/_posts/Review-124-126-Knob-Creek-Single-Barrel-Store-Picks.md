@@ -8,6 +8,8 @@ tags:
 - chriss liquor
 - twin liquors
 - store pick
+- 8
+- 7
 ---
 
 Following up on the r/bourbon community review of Knob Creek Small Batch this month I thought I'd finally get around to reviewing the trio of single barrel store picks I have on hand. Knob Creek Single Barrels come in at 120 proof and with a 9 year age statement on the label though many are significantly older than that. We had a few of these drop in Austin earlier this year and I picked up the picks from Twin Liquors, Oak Liquor Cabinet and Chris's Liquor. I tasted these blind and picked a winner and then went back to pick out some of subtler notes after the blind tasting.

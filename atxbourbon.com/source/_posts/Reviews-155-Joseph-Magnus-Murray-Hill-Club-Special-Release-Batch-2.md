@@ -4,9 +4,10 @@ date: 2019-10-26 16:41:46
 tags:
 - bourbon
 - mgp
-- blend
 - joseph magnus
-- wine finish
+- finished
+- pineau des charentes finish
+- 9
 ---
 
 Joseph Magnus Murray Hill Club is a blend of older bourbon ranging from 11-20 years depending on the batch and a younger light whiskey ranging from 9-11 years. So far both special releases were finished in Pineau des Charentes casks which I had not heard of before this bottle. Apparently it is a wine fortified with Cognac eau de vie. As I enjoyed the [regular Murray Hill Club quite a bit](https://atxbourbon.com/2019/02/10/Reviews-72-73-Joseph-Magnus-Straight-Bourbon-and-Murray-Hill-Club/) and tend to enjoy wine and brandy finished whiskies I was very excited to get a bottle of this! So let's see how this finish either adds to or takes away from the regular MHC.
@@ -32,7 +33,7 @@ All in all this was a small step up from the regular Murray Hill Club. The finis
 
 It can be hard to give a value rating to a whiskey like this. I really enjoyed it but it was significantly more expensive than it's already pricey shelfie counter part and probably not enough better to justify the price increase. All of that said I did got back and buy another bottle haha.
 
-I'll definitely be keeping an eye out for the third batch and sipping on [Cigar Blend](https://atxbourbon.com/2019/10/06/Review-150-Joseph-Magnus-Cigar-Blend-Batch-12/) in the meantime. 
+I'll definitely be keeping an eye out for the third batch and will be sipping on [Cigar Blend](https://atxbourbon.com/2019/10/06/Review-150-Joseph-Magnus-Cigar-Blend-Batch-12/) in the meantime. 
 
 **TL;DR:** A great whiskey, the finish is nice but doesn't add all that much
 

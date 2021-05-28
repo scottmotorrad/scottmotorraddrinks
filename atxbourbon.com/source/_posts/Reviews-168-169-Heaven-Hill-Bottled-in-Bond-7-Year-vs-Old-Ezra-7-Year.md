@@ -2,6 +2,15 @@
 title: 'Reviews #168-169: Heaven Hill Bottled in Bond 7 Year vs Old Ezra 7 Year'
 date: 2019-12-01 14:26:03
 tags:
+- whiskey advocate top 20 
+- whiskey advocate top 20 2018
+- 7
+- 8
+- heaven hill
+- 7 year
+- lux row
+- barrel proof
+- bottled in bond
 ---
 When Heaven Hill discontinued the beloved 6 year Bottled in Bond we knew it was just a matter of time until they released a very similar product at a significantly higher price and a couple weeks ago that time hit central Texas! I enjoyed the old 6 year, especially for the price, and was excited to see if an extra year of aging made a big difference. I've also been waiting to compare Luxco's Old Ezra 7, thought to be sourced from Heaven Hill, with the distillery's release. So let's see if this shiny, expensive new release is worth it.
 

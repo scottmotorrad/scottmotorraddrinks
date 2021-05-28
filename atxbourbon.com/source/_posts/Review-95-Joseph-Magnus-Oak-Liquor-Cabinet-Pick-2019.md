@@ -4,7 +4,6 @@ date: 2019-03-22 16:40:13
 tags:
 - mgp
 - bourbon
-- 10 year
 - 9
 - joseph magnus
 - single barrel
@@ -43,7 +42,7 @@ I'll start by saying that I'm definitely going to swing buy tomorrow to get a ba
 
 This was very similar to the [Smooth Ambler Old Scout I have](https://atxbourbon.com/2019/03/19/Review-93-Smooth-Amber-Old-Scout-Straight-Bourbon/) but without the twinge of hot cinnamon at the end which gave it a small boost for me but the lack of cherry notes was a bit of a loss. These two are neck and neck so I'll have to do a blind tasting round to make a call.
 
-These last two bottles have really brought me around on MGP bourbon and
+These last two bottles have really brought me around on MGP bourbon and I am determined to try several more now!
 
 [**9**](https://atxbourbon.com/tags/9/) - a favorite I'd like to keep on my shelf
 

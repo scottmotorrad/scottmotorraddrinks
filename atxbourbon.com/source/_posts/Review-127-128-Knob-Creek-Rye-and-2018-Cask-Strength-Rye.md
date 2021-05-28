@@ -8,6 +8,8 @@ tags:
 - barrel proof
 - whiskey advocate top 20 
 - whiskey advocate top 20 2018
+- 5
+- 3
 ---
 For the third and final entry in the Knob Creek series I'll be tasting two of their rye options: the standard 100 proof Rye and the 2018 Knob Creek Cask Strength Rye, which was one of [the Whiskey Advocate Top 20 for 2018](http://whiskyadvocate.com/top20/2018/) which I am [vaguely trying to taste and review all of this year](https://atxbourbon.com/tags/whiskey-advocate-top-20-2018/). To set expectations I traditionally haven't been a fan of Knob Creek ryes and am definitely more of a bourbon guy overall.
 

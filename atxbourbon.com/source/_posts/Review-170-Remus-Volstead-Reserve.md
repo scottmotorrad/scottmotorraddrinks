@@ -15,7 +15,7 @@ When MGP started releasing their own bottled and branded product through the Rem
 
 Luck would have it that the same week we accomplished a major milestone at work was the Remus Volstead Reserve would hit Austin. I was originally planning on buying a similarly priced bottle of scotch or cajoling a local store owner into selling me a much needed additional bottle of Cigar Blend(so I could tag u/prepreludesh in the review of course) but when I went to the store after work I couldn't resist the Remus.
 
-Being the patient bourbon drinker I am rushed home and immediately opened it to pour a dram before my wife got home. Over last few days I've sipped on this a few times as I didn't want to rush a review after the first pour or two.
+Being the patient bourbon drinker I am, I rushed home and immediately opened it to pour a dram before my wife got home. Over the last few days I've sipped on this a few times as I didn't want to rush a review after the first pour or two.
 
 {% asset_img image.jpg "Remus Volstead Reserve" %}
 

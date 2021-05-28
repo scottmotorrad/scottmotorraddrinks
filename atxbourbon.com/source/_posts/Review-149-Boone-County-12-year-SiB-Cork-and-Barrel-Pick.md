@@ -6,6 +6,7 @@ tags:
 - boone county
 - mgp
 - bourbon
+- 9
 ---
 
 I recently drank a fair amount of this Boone County Single Barrel at an ABH meetup and even got to take home a sample to review! Boone County primarily sources from MGP and has picked some excellent single barrels such as this one. It's hard to go wrong with 10+ year age stated, cask strength MGP but I feel like these folks have been doing an especially good job picking barrels.

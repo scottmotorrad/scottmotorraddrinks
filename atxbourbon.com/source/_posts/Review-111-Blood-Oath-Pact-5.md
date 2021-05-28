@@ -3,9 +3,12 @@ title: 'Review #111: Blood Oath Pact 5'
 date: 2019-04-25 17:23:07
 tags:
 - blood oath
-- luxco
+- lux row
 - rum finish
 - bourbon
+- finished
+- kentucky
+- 8
 ---
 
 Blood Oath is a divisive series of sourced bourbons from Luxco. Between the unknown sourcing, inclusion of finished whiskeys and fancy packaging these bottles have been subject to a lot of hate and a lot of tatering(full disclosure: I am on the tatering side here). This year's relase, Pact 5, is a blend of 3 bourbons: a 13 year old, an 11 year old wheater and an 8 year old finished in rum barrels for an undisclosed amount of time. So let's see if it lives up to the hate or the hype!

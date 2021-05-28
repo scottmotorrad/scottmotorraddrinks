@@ -1,5 +1,5 @@
 ---
-title: 'Review #61: High West A Mid Winter Night''s Dram Act 6 Scene 5'
+title: 'Review #61: High West A Midwinter Night''s Dram Act 6 Scene 5'
 date: 2019-01-04 18:46:51
 tags:
 - high west
@@ -9,9 +9,9 @@ tags:
 - port finish
 ---
 
-{% asset_img image.jpg "High West A Mid Winter Nights Dram"%}
+{% asset_img image.jpg "High West A Midwinter Night's Dram"%}
 
-And now back to the regularly schedule High West series. Every winter since High West releases A Mid Winter Night's Dram which is a blend of port cask finished rye whiskies. This year's is, I believe, the first year to contain actual High West distillate in addition to MGP and Barton's juice. With that let's get o the penultimate review for the series.
+And now back to the regularly schedule High West series. Every winter since High West releases A Midwinter Night's Dram which is a blend of port cask finished rye whiskies. This year's is, I believe, the first year to contain actual High West distillate in addition to MGP and Barton's juice. With that let's get o the penultimate review for the series.
 
 ## Review
 **Age**: NAS for the aging or finish this year

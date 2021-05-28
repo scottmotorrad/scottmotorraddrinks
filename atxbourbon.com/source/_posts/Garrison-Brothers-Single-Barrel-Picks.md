@@ -7,6 +7,7 @@ tags:
 - bourbon
 - wheater
 - distillery
+- atxbourbon selection
 ---
 
 Austin Bourbon Hunters and Oak Liquor Cabinet partnered to head out to Garrison Brothers Distillery and do 2 barrel picks. We assembled 10 folks who appreciate Texas bourbon, rallied 4 SOs/DDs and headed out to Hye Texas to drink, sweat, do some manual labor and hopefully bring home something great.

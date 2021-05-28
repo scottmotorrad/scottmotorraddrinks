@@ -1,10 +1,10 @@
 ---
 title: >-
-  Reviews #70-71: Old Forester Rye Whisky and Willet Family Estate 4 Year 114.4
+  Reviews #70-71: Old Forester Rye Whisky and Willett Family Estate 4 Year 114.4
   Proof
 date: 2019-02-07 23:41:46
 tags:
-- willet
+- willett
 - old forester
 - rye
 - 8
@@ -14,7 +14,7 @@ tags:
 
 {% asset_img image.jpg "Rye Showdown"%}
 
-I managed to snag a bottle of the new Old Forester Rye Whisky and couldn't wait to do a review. I wanted to try alongside another rye or two. The Willet 4 Year has been sitting around, 40% full, waiting to be reviewed and then killed so it seemed like an good matchup especially with OF claiming "There is nothing better on the market." So let's see how they stack up!
+I managed to snag a bottle of the new Old Forester Rye Whisky and couldn't wait to do a review. I wanted to try alongside another rye or two. The Willett 4 Year has been sitting around, 40% full, waiting to be reviewed and then killed so it seemed like an good matchup especially with OF claiming "There is nothing better on the market." So let's see how they stack up!
 
 ## Old Forester Rye Whisky
 
@@ -42,9 +42,9 @@ I managed to snag a bottle of the new Old Forester Rye Whisky and couldn't wait 
 
 **Finish**: The finish is shortened a bit but is less dry with strong cinnamon notes throughout
 
-## Willet Family Estate Bottled Small Batch Rye
+## Willett Family Estate Bottled Small Batch Rye
 
-{% asset_img image3.jpg "Willet Family Estate Bottled Small Batch Rye"%}
+{% asset_img image3.jpg "Willett Family Estate Bottled Small Batch Rye"%}
 
 **Age**: 4 years
 
@@ -69,7 +69,7 @@ I managed to snag a bottle of the new Old Forester Rye Whisky and couldn't wait 
 **Finish**: Medium length warm finish with strong cherry notes fading to rye spice
 
 ## Conclusion
-The Old Forester Rye is potentially the best $20 whisky I've had and the Willet is serious contender in the ~$50 price range as well. I did prefer the Willet but not by much. They do both diverge from the super spicy or herbal/dill forward profiles of most ryes I've tasted though. I tasted these two alongside a pour of [High West Double Rye!](https://atxbourbon.com/2018/12/22/Reviews-55-High-West-Double-Rye-2018/) after writing my initial notes and they both easily outclassed it. Though to be fair I tend to prefer fruity notes over herbal ones. I definitely feel like High West and Heaven Hill need to step it up now that there is some serious competition in the low cost rye market. The Willet is right there with [Whistle Pig 10 Year](https://atxbourbon.com/2018/11/03/Review-38-Whistle-Pig-Rye-10-Year/) and [High West Rendezvous Rye](https://atxbourbon.com/2018/11/23/Review-44-High-West-Rendezvous-Rye/) for me though it doesn't quite hit [MWND status](https://atxbourbon.com/2019/01/04/Review-61-High-West-A-Mid-Winter-Night-s-Dram-Act-6-Scene-5/). Either way color me impressed with both these distilleries releasing new, in house distilled rye whiskies at reasonable prices in the current climate even if the OF claim of "There is nothing better on the market" is a bit of hyberbole. 
+The Old Forester Rye is potentially the best $20 whisky I've had and the Willett is serious contender in the ~$50 price range as well. I did prefer the Willett but not by much. They do both diverge from the super spicy or herbal/dill forward profiles of most ryes I've tasted though. I tasted these two alongside a pour of [High West Double Rye!](https://atxbourbon.com/2018/12/22/Reviews-55-High-West-Double-Rye-2018/) after writing my initial notes and they both easily outclassed it. Though to be fair I tend to prefer fruity notes over herbal ones. I definitely feel like High West and Heaven Hill need to step it up now that there is some serious competition in the low cost rye market. The Willett is right there with [Whistle Pig 10 Year](https://atxbourbon.com/2018/11/03/Review-38-Whistle-Pig-Rye-10-Year/) and [High West Rendezvous Rye](https://atxbourbon.com/2018/11/23/Review-44-High-West-Rendezvous-Rye/) for me though it doesn't quite hit [MWND status](https://atxbourbon.com/2019/01/04/Review-61-High-West-A-Mid-Winter-Night-s-Dram-Act-6-Scene-5/). Either way color me impressed with both these distilleries releasing new, in house distilled rye whiskies at reasonable prices in the current climate even if the OF claim of "There is nothing better on the market" is a bit of hyberbole. 
 
 ### Old Forester Rye Whisky
 

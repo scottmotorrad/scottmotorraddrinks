@@ -6,8 +6,8 @@ tags:
 - stagg
 - buffalo trace
 - btac
-- antique collection
 - 9
+- kentucky
 ---
 {% asset_img image.jpg "George T Stagg"%}
 

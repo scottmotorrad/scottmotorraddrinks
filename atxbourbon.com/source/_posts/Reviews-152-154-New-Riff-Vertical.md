@@ -2,6 +2,13 @@
 title: 'Reviews #152-154: New Riff Vertical'
 date: 2019-10-16 17:26:08
 tags:
+- new riff
+- kentucky
+- single barrel
+- 4
+- 6
+- 8
+- bourbon
 ---
 
 I'd tried New Riff a couple times at meetups shortly it came out and I found it to be decent but overhyped. Then things started to calm down a bit and I was able to pick up a Bottled in Bond and Single Barrel while I was in Minneapolis for work and just recently got a store pick from The Party Source and a few samples from other picks from a friend who went to Kentucky. The store picks definitely changed my mind on how good New Riff could be. 

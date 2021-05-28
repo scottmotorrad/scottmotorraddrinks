@@ -1,5 +1,5 @@
 ---
-title: 'Review #16: A Mid Winter Night''s Dram Act 5 Scene 3 Mystery Sample'
+title: 'Review #16: A Midwinter Night''s Dram Act 5 Scene 3 Mystery Sample'
 date: 2018-09-19 00:07:35
 tags: 
 - rye
@@ -8,11 +8,12 @@ tags:
 - 8
 - mwnd
 - mgp
+- finished
 ---
 
 {% asset_img image.jpg "A Mid Winter Nights Dram"%}
 
-Another mystery review courtesy of u/bananavanman and this one was even better. I wrongly suspected that this was a Barrell Rye but it was High West's Mid Winter Night Dram Act 5 Scene 3. High West is distillery out of Utah that mainly blends MGP and Barton whiskies but they are ramping up there own production and starting to integrate their own distillate. Anyways their Mid Winter Night's Dram is a holiday release that is MGP rye blended and finished in port staves.
+Another mystery review courtesy of u/bananavanman and this one was even better. I wrongly suspected that this was a Barrell Rye but it was High West's Midwinter Night Dram Act 5 Scene 3. High West is distillery out of Utah that mainly blends MGP and Barton whiskies but they are ramping up there own production and starting to integrate their own distillate. Anyways their Mid Winter Night's Dram is a holiday release that is MGP rye blended and finished in port staves.
 
 ## Review
 

@@ -7,6 +7,9 @@ tags:
 - cigar blend
 - joseph magnus
 - mgp
+- 10
+- finished
+- indiana
 ---
 
 Joseph Magnus Cigar Blend was a bourbon that eluded me for a long time and then in a matter of a few months I ended up with 3 bottles ranging from a dusty find in Granbury Texas to a retail hookup from my local spot to a friend finding one in Chicago. Batch 12 clearly stood out among the even in a [blind tasting](https://www.instagram.com/tv/B0mG8nInUEd/?utm_source=ig_web_copy_link).

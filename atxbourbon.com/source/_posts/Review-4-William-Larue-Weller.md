@@ -5,6 +5,10 @@ tags:
 - bourbon
 - btac
 - 9
+- wheater
+- weller
+- buffalo trace
+- kentucky
 ---
 
 {% asset_img image.jpg "William Larue Weller"%}

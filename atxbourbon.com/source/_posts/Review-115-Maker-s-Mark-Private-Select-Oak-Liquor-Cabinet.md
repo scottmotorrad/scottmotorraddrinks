@@ -8,6 +8,8 @@ tags:
 - store pick
 - bourbon
 - cask strength
+- finished
+- kentucky
 ---
 
 Maker's Mark's Private Select Program let's you pick 10 staves that are inserted into the barrel for 9 weeks to impart new flavors. It's interesting in that you can create your own new The downside is that you don't know what you are going to get until the bottles arrive. Most of the selections I've seen have combinations of most or all of the stave types so I curious when I saw Oak only used 2 stave types.

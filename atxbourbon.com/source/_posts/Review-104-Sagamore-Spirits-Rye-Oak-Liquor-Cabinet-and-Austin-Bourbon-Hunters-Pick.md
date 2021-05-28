@@ -4,12 +4,12 @@ title: >-
   Hunters Pick
 date: 2019-04-09 18:20:00
 tags:
-- sagamore spirits
+- sagamore spirit
 - mgp
 - oak liquor cabinet
-- austin bourbon hunters
 - rye
-- 8
+- 7
+- indiana
 ---
 
 Sagamore Spirits is a Maryland distillery who primarily sources from MGP and then dilutes with their own limestone filtered water. They have a couple different rye recipes and this pick is a combination of 90% of their high rye mashbill and 10% of their low rye mashbill.
