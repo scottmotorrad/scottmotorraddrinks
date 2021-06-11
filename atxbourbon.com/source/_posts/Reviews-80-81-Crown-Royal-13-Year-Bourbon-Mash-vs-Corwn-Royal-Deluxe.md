@@ -4,8 +4,8 @@ date: 2019-02-23 15:54:53
 tags:
 - crown royal
 - canada
-- 6
-- 3
+- 0 stars
+- 1 star
 - whiskey advocate top 20 
 - whiskey advocate top 20 2018
 ---
@@ -78,11 +78,11 @@ While the 13 year bourbon mash was quite good overall I still think rye is the w
 
 ### Crown Royal 13 year Bourbon Mash
 
-[**6**](https://atxbourbon.com/tags/6/) - a good whiskey I'm still happy to drink
+**1 Star** - **Good whiskey:** I would choose to drink this over readily available whiskies
 
 ### Crown Royal Deluxe
 
-[**3**](https://atxbourbon.com/tags/3/) - Better than not drinking whiskey but just barely
+**0 Stars** - **Poor to Fine:** I would not specifically choose to drink this
 
 #### [Scale](http://atxbourbon.com/Scale/)
 

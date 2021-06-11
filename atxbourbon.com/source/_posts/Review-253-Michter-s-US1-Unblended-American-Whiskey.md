@@ -4,8 +4,7 @@ date: 2020-08-02 01:52:48
 tags:
 - american whiskey
 - michters
-- 4
-- poor value
+- 0 stars
 ---
 
 Michter's Unblended American Whiskey is an unusual release in the modern American whiskey scene. It's aged in used barrels, carries no age state, is at a low and unusual proof and tells us basically nothing about what's in the bottle. Drinking the whole thing seemed like the best way to gain a deeper understanding so here we are.
@@ -39,9 +38,8 @@ I will say that "whiskey soaked barrels" is my new favorite way to say "used bar
 **TL;DR:** Inoffensive but boring low proofer that's priced like something better
 
 
-[**4**](https://atxbourbon.com/tags/4/) - a fine whiskey that does not standout in either direction
+**0 Stars** - **Poor to Fine:** I would not specifically choose to drink this
 
-[**Poor**](https://atxbourbon.com/tags/poor-value/) - Overpriced, not worth the money
 
 #### [Scale](http://atxbourbon.com/Scale/)
 

@@ -2,13 +2,9 @@
 title: Garrison Brothers OLC ABH picks
 date: 2019-09-07 16:57:02
 tags:
-- texas
 - garrison brothers
-- oak liquor cabinet
-- austin bourbon hunters
 - wheater
-- single barrel
-- barrel proof
+- bourbon
 - atxbourbon selection
 ---
 

@@ -2,8 +2,8 @@
 title: 'Reviews #267-268: Single Cask Nation Whistle Pigs'
 date: 2020-09-28 00:39:14
 tags:
-- 10
-- 8
+- 4 stars
+- 3 stars
 - whistle pig
 - single cask nation
 - finished
@@ -31,7 +31,7 @@ For part 27 of the finished whiskey series we are taking a look at the new Singl
 
 **Finish**: Long and lingering with herbal notes including a hint of MGP dill and more oak.
 
-[**8**](https://atxbourbon.com/tags/8/) - an excellent bottle I'd like to have at home
+**3 Stars** - **Excellent whiskey:** I would be willing to hunt down a bottle
 
 ## SCN Whistle Pig Rum and Vermouth Cask Finish
 **Age**: 12 years
@@ -47,7 +47,7 @@ For part 27 of the finished whiskey series we are taking a look at the new Singl
 
 **Finish**: Very long finish with red fruit fading to oak, herbs and rye spice.
 
-[**10**](https://atxbourbon.com/tags/10/) - an all time favorite, must buy/hunt
+**4 Stars** - **Extraordinary whiskey:** An all time favorite
 
 ## Conclusion
 

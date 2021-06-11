@@ -7,9 +7,8 @@ tags:
 - cigar blend
 - joseph magnus
 - mgp
-- 10
+- 4 stars
 - finished
-- indiana
 ---
 
 Joseph Magnus Cigar Blend was a bourbon that eluded me for a long time and then in a matter of a few months I ended up with 3 bottles ranging from a dusty find in Granbury Texas to a retail hookup from my local spot to a friend finding one in Chicago. Batch 12 clearly stood out among the even in a [blind tasting](https://www.instagram.com/tv/B0mG8nInUEd/?utm_source=ig_web_copy_link).
@@ -41,17 +40,10 @@ To be clear the 10/10 rating is for specifically batch 12 of Cigar Blend. I've h
 
 **TL;DR:** Amazing bourbon, legendary finish, great with or without a cigar
 
-
-[**10**](https://atxbourbon.com/tags/10/) - an all time favorite, must buy/hunt
-
-[**Fair**](https://atxbourbon.com/tags/fair-value/) - Worth the money, happy with my purchase
+**4 Stars** - **Extraordinary whiskey:** An all time favorite
 
 
 #### [Scale](http://atxbourbon.com/Scale/)
-
-#### [Scale](https://www.reddit.com/r/atxbourbon/comments/c9zarn/updated_review_scale/)
-
-You can also read this and my other reviews at [atxbourbon.com](http://atxbourbon.com) or follow me on [Instagram(@atxbourbon)](https://www.instagram.com/atxbourbon/) to keep up with these reviews and my other whiskey-centric adventures.
 
 
 You can also follow me on [Instagram(@atxbourbon)](https://www.instagram.com/atxbourbon/) or [reddit](https://www.reddit.com/r/scottmotorraddrinks/) to keep up with these reviews and my other whiskey-centric adventures.

@@ -4,7 +4,7 @@ date: 2018-10-29 21:55:04
 tags:
 - heaven hill
 - wheat
-- 5
+- 0 stars
 - kentucky
 ---
 
@@ -38,7 +38,7 @@ Well I definitely need to taste more wheat whiskies, I was terrible at this haha
 
 **TL;DR:** Different, not my favorite, curious about the wheat whiskey category.
 
-[**5**](https://atxbourbon.com/tags/5/) - a whiskey with notable strengths but also held back by some flaws
+**0 Stars** - **Poor to Fine:** I would not specifically choose to drink this
 
 #### [Scale](http://atxbourbon.com/Scale/)
 

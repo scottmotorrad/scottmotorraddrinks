@@ -4,12 +4,10 @@ date: 2019-12-01 14:26:03
 tags:
 - whiskey advocate top 20 
 - whiskey advocate top 20 2018
-- 7
-- 8
+- 1 star
+- 2 stars
 - heaven hill
-- 7 year
 - lux row
-- barrel proof
 - bottled in bond
 ---
 When Heaven Hill discontinued the beloved 6 year Bottled in Bond we knew it was just a matter of time until they released a very similar product at a significantly higher price and a couple weeks ago that time hit central Texas! I enjoyed the old 6 year, especially for the price, and was excited to see if an extra year of aging made a big difference. I've also been waiting to compare Luxco's Old Ezra 7, thought to be sourced from Heaven Hill, with the distillery's release. So let's see if this shiny, expensive new release is worth it.
@@ -30,9 +28,8 @@ When Heaven Hill discontinued the beloved 6 year Bottled in Bond we knew it was 
 
 **Finish**: Medium length finish with warm spice and more of that peanut note.
 
-[**7**](https://atxbourbon.com/tags/7/) - a great whiskey I'd order at a bar
+**1 Star** - **Good whiskey:** I would choose to drink this over readily available whiskies
 
-[**Poor**](https://atxbourbon.com/tags/poor-value/) - Overpriced, not worth the money
 
 ## Old Ezra 7 year
 **Age**: 7 years
@@ -48,9 +45,8 @@ When Heaven Hill discontinued the beloved 6 year Bottled in Bond we knew it was 
 
 **Finish**: Medium to long finish that is sweet, nutty and a bit spicy.
 
-[**8**](https://atxbourbon.com/tags/8/) - an excellent bottle I'd like to have at home
+**2 Stars** - **Very good whiskey:** I would want to have a bottle
 
-[**Great**](https://atxbourbon.com/tags/great-value/) - A great deal, I'd buy it again
 
 
 ## Conclusion
@@ -61,11 +57,6 @@ All that said they both lost individually and in a 3 pour blind against the Old 
 
 
 **TL;DR:** The Heaven Hill BiB 7 is solid if overpriced but the Ezra is clearly better.
-
-
-[**8**](https://atxbourbon.com/tags/8/) - an excellent bottle I'd like to have at home
-
-[**Great**](https://atxbourbon.com/tags/great-value/) - A great deal, I'd buy it again
 
 
 #### [Scale](http://atxbourbon.com/Scale/)

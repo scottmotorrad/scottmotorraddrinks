@@ -3,9 +3,8 @@ title: 'Review #64: Nikka Whisky From The Barrel'
 date: 2019-01-15 14:33:52
 tags:
 - japan
-- 8
+- 3 stars
 - nikka
-- barrel proof
 - whiskey advocate top 20 
 - whiskey advocate top 20 2018
 ---
@@ -40,7 +39,7 @@ In August 2018 Nikka from the Barrel was finally released in the US! I had the g
 ## Conclusion
 Ah this was a hard one. When I nosed, tasted and mouthfelt(?) this whiskey I wanted to give it a 9 but then I was disappointed by the short and simple finish :( Still this is great whiskey, an awesome intro to higher proofs and I'm very glad I can get it in the US now! That said it wasn't my 2018 whiskey of the year or even in my top tier of whiskies. I wouldn't hunt for it but if you see it a retail it's definitely worth picking up.
 
-[**8**](https://atxbourbon.com/tags/8/) - an excellent bottle I'll buy from time to time
+**3 Stars** - **Excellent whiskey:** I would be willing to hunt down a bottle
 
 On a side note this whiskey on the rocks is my wife's favorite whiskey of all time. She prefers short finishes for some reason I have yet to understand.
 

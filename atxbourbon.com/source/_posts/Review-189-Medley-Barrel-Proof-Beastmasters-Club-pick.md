@@ -4,10 +4,7 @@ date: 2019-12-23 16:28:39
 tags:
 - beast masters club
 - wathens
-- 3
-- poor value
-- kentucky
-- 8 year
+- 0 stars
 - bourbon
 ---
 
@@ -39,9 +36,8 @@ Well now I have this bottle so let's see how it is.
 **TL;DR:** Taste like an extra hot Old Ezra 7 that someone tipped cinnamon into.
 
 
-[**3**](https://atxbourbon.com/tags/3/) - Better than not drinking whiskey but just barely
+**0 Stars** - **Poor to Fine:** I would not specifically choose to drink this
 
-[**Poor**](https://atxbourbon.com/tags/poor-value/) - Overpriced, not worth the money
 
 
 #### [Scale](http://atxbourbon.com/Scale/)

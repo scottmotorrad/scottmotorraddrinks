@@ -3,12 +3,9 @@ title: 'Review #66: Evan Williams Bottled in Bond'
 date: 2019-01-30 18:54:22
 tags:
 - heaven hill
-- evan williams
 - bottled in bond
-- 3
+- 0 stars
 - bourbon
-- kentucky
-- fair value
 ---
 
 {% asset_img image.jpg "Evan Williams BiB"%}
@@ -45,14 +42,12 @@ I'm in Seattle this week for a work trip and good whiskey is stupid expensive he
 
 **Finish**: A nice blend of cola and oak
 
+
 ## Conclusion
-The nose on this improved significantly with resting. When I cracked the bottle and poured the first dram it was very harsh. Overall I was all little disappointed with this one and found it bitter and a bit harsh. It makes an excellent mixer, especially given the proof and price.
+The nose on this improved significantly with resting. When I cracked the bottle and poured the first dram it was very harsh. Overall I was all little disappointed with this one and found it bitter and a bit harsh. It makes an good mixer, especially given the proof and price.
 
-### Quality
-**3** - Better than not drinking whiskey but just barely
+**0 Stars** - **Poor to Fine:** I would not specifically choose to drink this
 
-### Value based on what I paid
-**Fair** - Worth the money, happy with my purchase
 
 You can also follow me on [Instagram(@atxbourbon)](https://www.instagram.com/atxbourbon/) or [reddit](https://www.reddit.com/r/scottmotorraddrinks/) to keep up with these reviews and my other whiskey-centric adventures.
 

@@ -4,11 +4,10 @@ date: 2018-10-20 16:01:02
 tags:
 - scotch
 - single malt
-- 12 year
 - glenmorangie
 - sherry finish
-- 5
-- highlands
+- 0 stars
+- highland
 ---
 {% asset_img image.jpg "Glenmorangie Lasant"%}
 
@@ -40,7 +39,8 @@ After a long string of bourbon reviews it felt like it was time to branch out in
 ## Conclusion 
 Overall this one has some ups and downs for me. It's a bit too aggressively sweet especially when neat but there are some more interesting notes in there as well. Overall a solid whiskey but there are definitely similarly priced whiskies I prefer, such as Glenfarclas 12, and going vertical the Quinta Ruban is a big step up and I'd pretty much always suggest spending the extra few bucks.
 
-[**5**](https://atxbourbon.com/tags/5/) - a whiskey with notable strengths but also held back by some flaws
+**0 Stars** - **Poor to Fine:** I would not specifically choose to drink this
+
 
 #### [Scale](http://atxbourbon.com/Scale/)
 

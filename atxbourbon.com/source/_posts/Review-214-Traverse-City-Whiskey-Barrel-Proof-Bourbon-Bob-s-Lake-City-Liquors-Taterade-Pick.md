@@ -6,11 +6,8 @@ date: 2020-03-07 00:57:20
 tags:
 - mgp
 - bobs lake city
-- indiana
 - traverse city
-- single barrel
-- barrel proof
-- 9
+- 3 stars
 ---
 
 When I went to my first bourbon tasting in Seattle there was a ton of amazing bourbon. A handful of bottles stood out among the crowd. One was the Four Roses 17 Year 'Mutant Yeast' but that is nigh impossible to acquire. Among the non-unicorn bottles a local Traverse City pick was quite tasty and had the perfect tater sticker. Thankfully the owner of the shop that did the pick was there and he generously agreed to dig a bottle out of his bunker for me. Several months and half the bottle later let's see if this is as good as I remember.
@@ -44,7 +41,7 @@ As far as Traverse City goes this barrel definitely feels like an outlier to me.
 **TL;DR:** Excellent MGP single barrel, nice cinnamon note, excellent mouthfeel
 
 
-[**9**](https://atxbourbon.com/tags/9/) - a favorite I always try to keep on my shelf
+**3 Stars** - **Excellent whiskey:** I would be willing to hunt down a bottle
 
 &nbsp;
 

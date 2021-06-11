@@ -4,10 +4,8 @@ date: 2018-08-23 22:30:07
 tags: 
 - bourbon
 - rye
-- 3
-- 6
+- 0 stars
 - jim beam
-- basil haydens
 ---
 
 {% asset_img image.jpg "Basil Hayden"%}
@@ -73,11 +71,11 @@ I've mostly been writing reviews of whiskey that I love so far so I thought I'd 
 Basil Hayden's straight bourbon is solid but completely unremarkable; nothing wrong with it but nothing exciting either. I used to really enjoy it but as I've learned to appreciate more complex and stronger flavors it's fallen by the wayside. I still usually have a bottle on my shelf since it's a good entry point for newer folks and because my dad likes it. THe Dark Rye on the other hand is awful. Easily the worst whiskey over $20 for a bottle I've ever had. I poured out the rest of my glass after writing this. I think it's discontinued in favor of their Darker Rye and Two by Two but if you do see it don't buy it just to be safe.
 
 ### Straight Bourbon
-[**6**](https://atxbourbon.com/tags/6/) - a good whiskey I'm still happy to drink
+**0 Stars** - **Poor to Fine:** I would not specifically choose to drink this
 
 ### Dark Rye
 
-[**2**](https://atxbourbon.com/tags/2/) - Mixer only
+**0 Stars** - **Poor to Fine:** I would not specifically choose to drink this
 
 #### [Scale](http://atxbourbon.com/Scale/)
 

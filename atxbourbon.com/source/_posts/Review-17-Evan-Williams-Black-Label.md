@@ -4,9 +4,7 @@ date: 2018-09-22 19:15:24
 tags: 
 - bourbon
 - heaven hill
-- 3
-- evan williams
-- kentucky
+- 0 stars
 ---
 
 {% asset_img image.jpg Evan Williams%}
@@ -46,6 +44,6 @@ Mixed roughly 1:1:1 bourbon:cola:ice
 ## Conclusion
 Not really a fan of this one neat or on ice as I couldn't really find any interesting notes and the finish just wasn't there for me. That said there's nothing wrong with it, everything I did taste was good and that alcoholic burn on the neat nose faded over time. All of that said it makes an excellent mixer with the low price, strong oak and little bit of extra proof.
 
-**3** - Better than not drinking whiskey but just barely 
+**0 Stars** - **Poor to Fine:** I would not specifically choose to drink this
 
 ### [Scale](http://atxbourbon.com/Scale/)

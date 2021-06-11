@@ -3,10 +3,8 @@ title: 'Review #105: Wathen''s Barrel Proof Oak Liquor Cabinet Pick'
 date: 2019-04-11 16:44:25
 tags:
 - wathens
-- barrel proof
-- oak liquor cabinet
 - bourbon
-- 5
+- 0 stars
 ---
 
 I'd never heard of Wathen's before my local shop got a barrel pick in. I was curious and looked into them a bit but pretty all we know about this bottle is what's on the label. It's Kentucky Straight Bourbon and it's sourced from somewhere. The owner/picker described this one as 'liquid candy' so let's see if it live up to that tag line.
@@ -41,9 +39,8 @@ I'd never heard of Wathen's before my local shop got a barrel pick in. I was cur
 ## Conclusion
 Red Hots are a candy and this reminded me a lot of a liquid version of those so I'd definitely say it lived up to the tag line. It was very easy to drink especially given the proof. Unfortunately cinnamon isn't my favorite note so this wasn't the best fit for me especially given the price. That said if you like cinnamon candy and deceptively high proof bourbon this might be the bottle for you.
 
-[**5**](https://atxbourbon.com/tags/5/) - a whiskey with notable strengths but also held back by some flaws
+**0 Stars** - **Poor to Fine:** I would not specifically choose to drink this
 
-[**Poor**](https://atxbourbon.com/tags/poor-value/) - Overpriced, not worth the money
 
 #### [Scale](http://atxbourbon.com/Scale/)
 

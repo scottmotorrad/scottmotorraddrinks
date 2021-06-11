@@ -2,10 +2,9 @@
 title: 'Reviews #205-206: Four Roses 130th and Four Roses 2019 Limited Edition'
 date: 2020-01-27 17:38:57
 tags:
-- 9
-- 10
+- 3 stars
+- 4 stars
 - four roses
-- kentucky
 - bourbon
 ---
 
@@ -49,7 +48,7 @@ For this tasting I did another [blind tasting video](https://www.instagram.com/t
 
 **Ranking**: #2
 
-[**9**](https://atxbourbon.com/tags/9/) - a favorite I always try to keep on my shelf
+**3 Stars** - **Excellent whiskey:** I would be willing to hunt down a bottle
 
 ## Four Roses Small Batch Limited Edition 2019
 **Age**: 11-21 years
@@ -65,7 +64,7 @@ For this tasting I did another [blind tasting video](https://www.instagram.com/t
 
 **Ranking**: #1
 
-[**10**](https://atxbourbon.com/tags/10/) - an all time favorite, must buy/hunt
+**4 Stars** - **Extraordinary whiskey:** An all time favorite
 
 ## Conclusion
 

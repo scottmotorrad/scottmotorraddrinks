@@ -3,11 +3,9 @@ title: 'Reviews #152-154: New Riff Vertical'
 date: 2019-10-16 17:26:08
 tags:
 - new riff
-- kentucky
-- single barrel
-- 4
-- 6
-- 8
+- bourbon
+- 0 stars
+- 2 stars
 - bourbon
 ---
 
@@ -31,9 +29,8 @@ In preparation for this month's r/bourbon pick at New Riff I decided I should pr
 
 **Finish**: Short to medium finish that starts with a vanilla sweetness and fades to baking spice.
 
-[**4**](https://atxbourbon.com/tags/4/) - a fine whiskey that does not standout in either direction
+**0 Stars** - **Poor to Fine:** I would not specifically choose to drink this
 
-[**Poor**](https://atxbourbon.com/tags/poor-value/) - Overpriced, not worth the money
 
 ## New Riff Single Barrel Fall 2014
 **Age**: 4 years
@@ -51,9 +48,8 @@ In preparation for this month's r/bourbon pick at New Riff I decided I should pr
 
 **Finish**: Medium length spicy finish with just enough vanilla to balance the spice.
 
-[**6**](https://atxbourbon.com/tags/6/) - a good whiskey I'm still happy to drink
+**0 Stars** - **Poor to Fine:** I would not specifically choose to drink this
 
-[**Fair**](https://atxbourbon.com/tags/fair-value/) - Worth the money, happy with my purchase
 
 ## New Riff Single Barrel The Party Source Pick
 **Age**: 4 years and 5 days
@@ -71,9 +67,8 @@ In preparation for this month's r/bourbon pick at New Riff I decided I should pr
 
 **Finish**: Medium length, warm, dry and balanced finish with sweet vanilla, warm spice and faint oak
 
-[**8**](https://atxbourbon.com/tags/8/) - an excellent bottle I'll buy from time to time
+**2 Stars** - **Very good whiskey:** I would want to have a bottle
 
-[**Fair**](https://atxbourbon.com/tags/fair-value/) - Worth the money, happy with my purchase
 
 ## Conclusion
 
@@ -88,10 +83,5 @@ This isn't exactly surprising given my understanding of how New Riff does things
 **TL;DR:** Skip the BiB, the SiBs are solid but keep an eye out for a good store pick.
 
 #### [Scale](http://atxbourbon.com/Scale/)
-
-#### [Scale](https://www.reddit.com/r/atxbourbon/comments/c9zarn/updated_review_scale/)
-
-You can also read this and my other reviews at [atxbourbon.com](http://atxbourbon.com) or follow me on [Instagram(@atxbourbon)](https://www.instagram.com/atxbourbon/) to keep up with these reviews and my other whiskey-centric adventures.
-
 
 You can also follow me on [Instagram(@atxbourbon)](https://www.instagram.com/atxbourbon/) or [reddit](https://www.reddit.com/r/atxbourbon/) to keep up with these reviews and my other whiskey-centric adventures.

@@ -7,8 +7,9 @@ tags:
 - high west
 - madeira finish
 - muscat finish
-- 8
-- 3
+- 2 stars
+- 0 stars
+- bourbon
 - finished
 ---
 
@@ -34,9 +35,8 @@ For part 26 of the finished whiskey series we are back in Utah with High West ta
 
 **Finish**: Long sweet and warm finish as caramel and cherry give way to baking spices and oak
 
-[**8**](https://atxbourbon.com/tags/8/) - an excellent bottle I'll buy from time to time
+**2 Stars** - **Very good whiskey:** I would want to have a bottle
 
-[**Great**](https://atxbourbon.com/tags/great-value/) - A great deal, I'd buy it again
 
 ## High West American Prairie Bourbon Barrel Select Distillery
 **Age**: NAS finished for 1 year 2 months
@@ -56,9 +56,8 @@ For part 26 of the finished whiskey series we are back in Utah with High West ta
 
 **Finish**: Short to medium finish with lingering mineral and vaguely sweet notes
 
-[**3**](https://atxbourbon.com/tags/3/) - Better than not drinking whiskey but just barely
+**0 Stars** - **Poor to Fine:** I would not specifically choose to drink this
 
-[**Poor**](https://atxbourbon.com/tags/poor-value/) - Overpriced, not worth the money
 
 ## Conclusion
 

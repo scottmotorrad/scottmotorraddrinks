@@ -4,9 +4,7 @@ date: 2019-03-28 17:38:15
 tags:
 - wild turkey
 - bourbon
-- 8
-- barrel proof
-- rare breed
+- 2 stars
 ---
 
 This the second review in a five part verticalish series on Wild Turkey bourbon comparing 5 of their relatively recent releases and one dusty against each other and my favorite Wild Turkey juice of all time: [Moonshine Grill's Russell's Reserve pick](https://atxbourbon.com/2019/02/19/Reviews-76-77-Russel-s-Reserve-Single-Barrel-Showdown-Moonshine-vs-Tejas/).
@@ -38,11 +36,8 @@ Somehow this was both higher proof, more flavorful and less harsh than the 101 w
 
 Overall this is great bourbon at a good price and is a great into to barrel proof bourbons for folks looking to get into them. All in all this is a whiskey that does everything right but doesn't do something special to put it over into the 9 or 10 range for me.
 
-### Quality
-**7** - a great whiskey I'd order at a bar
+**2 Stars** - **Very good whiskey:** I would want to have a bottle
 
-### Value based on what I paid
-**Fair** - Worth the money, happy with my purchase
 
 You can also follow me on [Instagram(@atxbourbon)](https://www.instagram.com/atxbourbon/) or [reddit](https://www.reddit.com/r/scottmotorraddrinks/) to keep up with these reviews and my other whiskey-centric adventures.
 

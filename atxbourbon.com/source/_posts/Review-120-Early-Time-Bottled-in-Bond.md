@@ -2,10 +2,8 @@
 title: 'Review #120: Early Times Bottled in Bond'
 date: 2019-06-17 16:59:49
 tags:
-- early times
 - bottled in bond
-- 4
-- fair value
+- 0 stars
 - brown-forman
 - bourbon
 - kentucky
@@ -38,11 +36,7 @@ All that said, if you're looking for decent, cheap drinker with some classic not
 
 **TL;DR:** Nothing special, good price. I prefer it to EW BiB.
 
-### Quality
-**4** - a fine whiskey that does not standout in either direction
-
-### Value based on what I paid
-**Fair** - Worth the money, happy with my purchase
+**0 Stars** - **Poor to Fine:** I would not specifically choose to drink this
 
 You can also follow me on [Instagram(@atxbourbon)](https://www.instagram.com/atxbourbon/) or [reddit](https://www.reddit.com/r/scottmotorraddrinks/) to keep up with these reviews and my other whiskey-centric adventures.
 

@@ -2,8 +2,7 @@
 title: 'Reviews #191-194: The Four Horseman MGP Light Whiskies'
 date: 2019-12-30 09:18:55
 tags:
-- 1
-- 6
+- 0 stars
 - mgp
 - backbone
 - light whiskey
@@ -30,7 +29,7 @@ Also based on the advise of a more experience light whiskey drinker I let these 
 
 **Finish**: A welcome rush of sweet vanilla and then a faint lingering burn.
 
-[**1**](https://atxbourbon.com/tags/6/) - Pouring out the bottle, Coke Zero deserves better
+**0 Stars** - **Poor to Fine:** I would not specifically choose to drink this
 
 ## Conquest
 **Age**: 11 years
@@ -44,7 +43,7 @@ Also based on the advise of a more experience light whiskey drinker I let these 
 
 **Finish**: Long and lingering with spice and vanilla notes. 
 
-[**6**](https://atxbourbon.com/tags/6/) - a good whiskey I'm still happy to drink
+**0 Stars** - **Poor to Fine:** I would not specifically choose to drink this
 
 ## War
 **Age**: 11 years
@@ -58,7 +57,7 @@ Also based on the advise of a more experience light whiskey drinker I let these 
 
 **Finish**: Shorter finish with warm spice and faint caramel.
 
-[**6**](https://atxbourbon.com/tags/6/) - a good whiskey I'm still happy to drink
+**0 Stars** - **Poor to Fine:** I would not specifically choose to drink this
 
 ## Famine
 **Age**: 11 years
@@ -72,7 +71,7 @@ Also based on the advise of a more experience light whiskey drinker I let these 
 
 **Finish**: Medium to long finish with more of the weird notes.
 
-[**1**](https://atxbourbon.com/tags/6/) - Pouring out the bottle, Coke Zero deserves better
+**0 Stars** - **Poor to Fine:** I would not specifically choose to drink this
 
 
 ## Conclusion
@@ -80,9 +79,7 @@ Well that was something. The Death was aptly named and was one of, if not the wo
 
 I think I am done with light whiskey for a while at least. Bourbon, rye and scotch are more my kinds of whiskey.
 
-On the plus side these are my first and second 1 point scores!
-
-**TL;DR:** Conquest and War are what High West's Light Whiskey should have been. Death and Famine were drain pours.
+**TL;DR:** Conquest and War are what High West's Light Whiskey should have been. Death and Famine were drain pours. None impressed
 
 
 #### [Scale](http://atxbourbon.com/Scale/)

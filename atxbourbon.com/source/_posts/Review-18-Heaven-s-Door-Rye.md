@@ -4,7 +4,7 @@ date: 2018-09-23 20:58:26
 tags:
 - rye
 - heavens door
-- 2
+- 0 stars
 - mgp
 ---
 
@@ -36,7 +36,7 @@ Heaven's Door is a whiskey line that is somehow associated with Bob Dylan and wh
 ## Conclusion
 Overall I wasn't a fan. I don't generally like heavy herbal notes in whiskey especially dill or coriander though the sweet and spicy finish on the neat pour was a highlight. This is actually the only bottle in my collection that I currently regret buying, my wife bought the Dark Rye :). It tastes like under aged MGP to me with heavy emphasis on the dill notes. Especially for the price I was expecting a lot more. If I'm looking for pricey sourced rye I'll probably stick with High West's [A Mid Winter Night's Dram](http://atxbourbon.com/2018/09/19/Review-16-A-Mid-Winter-Night-s-Dram-Act-5-Scene-3-Mystery-Sample/) or Yipee Kay Yay.
 
-[**2**](https://atxbourbon.com/tags/2/) - Mixer only
+**0 Stars** - **Poor to Fine:** I would not specifically choose to drink this
 
 
 #### [Scale](http://atxbourbon.com/Scale/)

@@ -5,10 +5,8 @@ tags:
 - high west
 - rye
 - mgp
-- 10
+- 4 stars
 - port finish
-- single barrel
-- utah
 ---
 
 {% asset_img image.jpg "Rendezvous Rye"%}
@@ -38,7 +36,7 @@ This was amazing. It was a combination of the best parts of a good rye whiskey a
 
 Oh and the brunch was good too.
 
-[**10**](https://atxbourbon.com/tags/10/) - an all time favorite, must buy/hunt
+**4 Stars** - **Extraordinary whiskey:** An all time favorite
 
 #### [Scale](http://atxbourbon.com/Scale/)
 

@@ -5,9 +5,7 @@ tags:
 - dickel
 - tennessee whiskey
 - bottled in bond
-- 6
-- 13 year
-- great value
+- 1 star
 - whiskey advocate top 20 
 - whiskey advocate top 20 2019
 ---
@@ -41,11 +39,8 @@ It is very comparable to the new 13 year Smooth Ambler Old Scout Single Barrel S
 
 On a side note some folks are concerned about the lack of age statement on the label; it's on the website and in their press materials. I think that's just for classic marketing bs so they can reduce the age of future releases without having to change the label but who knows.
 
-### Quality
-**6** - a good whiskey I'm still happy to drink
+**1 Star** - **Good whiskey:** I would choose to drink this over readily available whiskies
 
-### Value based on what I paid
-**Great** - A great deal, I'd buy it again
 
 You can also follow me on [Instagram(@atxbourbon)](https://www.instagram.com/atxbourbon/) or [reddit](https://www.reddit.com/r/scottmotorraddrinks/) to keep up with these reviews and my other whiskey-centric adventures.
 

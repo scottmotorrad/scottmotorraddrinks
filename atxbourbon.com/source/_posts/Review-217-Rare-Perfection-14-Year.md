@@ -2,6 +2,8 @@
 title: 'Review #217: Rare Perfection 14 Year'
 date: 2020-03-19 14:48:02
 tags:
+-  0 stars
+- preservation distillery
 ---
 
 To set the scene I don't particularly care for Canadian whiskey apart from some ryes such as whatever Whistle Pig and Treaty Oak are sourcing. So when these Canadian Rare Perfections and Old St Nicks hit I initially trusted my instincts and ignored them. Then I got curious with all the drama and wildly varying reviews so when I got the chance to get a bottle for below retail I figured it was a 14 year old whiskey, it can't be bad even if I do end up overpaying for the quality. So I bought one and let's find out how wrong I was...
@@ -31,10 +33,8 @@ Well that was bad. I added some Coke Zero and it got worse somehow. I don't have
 
 **TL;DR:** I liked the finish but nothing else
 
+**0 Stars** - **Poor to Fine:** I would not specifically choose to drink this
 
-[**1**](https://atxbourbon.com/tags/1/) - Pouring out the bottle, Coke Zero deserves better
-
-[**Poor**](https://atxbourbon.com/tags/poor-value/) - Overpriced, not worth the money
 
 &nbsp;
 

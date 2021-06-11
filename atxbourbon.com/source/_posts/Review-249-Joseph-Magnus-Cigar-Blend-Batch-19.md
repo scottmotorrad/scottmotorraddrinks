@@ -3,8 +3,7 @@ title: 'Review #249: Joseph Magnus Cigar Blend Batch 19'
 date: 2020-07-18 12:43:13
 tags:
 - cigar blend
-- 10
-- great value
+- 4 stars
 - mgp
 - joseph magnus
 - bourbon
@@ -48,9 +47,8 @@ As far as cost goes this is obviously an expensive bottle but for me it delivers
 **TL;DR:** My easily in my top 2 Cigar Blend Batches, definitely going to look for another bottle
 
 
-[**10**](https://atxbourbon.com/tags/10/) - an all time favorite, must buy/hunt
+**4 Stars** - **Extraordinary whiskey:** An all time favorite
 
-[**Great**](https://atxbourbon.com/tags/great-value/) - A great deal, I'd buy it again
 
 #### [Scale](http://atxbourbon.com/Scale/)
 

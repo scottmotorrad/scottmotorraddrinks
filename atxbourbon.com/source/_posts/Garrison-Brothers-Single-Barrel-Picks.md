@@ -3,10 +3,8 @@ title: Austin Bourbon Hunters Garrison Brothers Single Barrel Picks
 date: 2019-08-05 16:46:20
 tags:
 - garrison brothers
-- texas
 - bourbon
 - wheater
-- distillery
 - atxbourbon selection
 ---
 

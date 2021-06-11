@@ -5,8 +5,7 @@ tags:
 - rye
 - mgp
 - sagamore spirit
-- 5
-- indiana
+- 0 stars
 ---
 
 This is a NAS cask strength rye from [Sagamore Spirits](https://sagamorespirit.com/spirits/cask-strength-rye-whiskey/?age-verified=fa8426e080). It ironically is loaded with marketing language about Maryland and insists that there are "no shortcuts here" when it is sourced from MGP. I was hoping we were getting away from this sort of thing in the craft spirits scene but alas we are not. Well let's see if the taste makes up for it!
@@ -43,7 +42,8 @@ I wouldn't drink this neat and was ready to give it a harsh review but the ice r
 
 I'd be interested to taste that 2017 batch that won Double Gold at the SF Spirits Competition and their Port Finish though. 
 
-[**5**](https://atxbourbon.com/tags/5/) - a whiskey with notable strengths but also held back by some flaws
+**0 Stars** - **Poor to Fine:** I would not specifically choose to drink this
+
 
 #### [Scale](http://atxbourbon.com/Scale/)
 

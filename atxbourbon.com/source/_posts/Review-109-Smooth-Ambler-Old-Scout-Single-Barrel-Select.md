@@ -4,11 +4,8 @@ date: 2019-04-22 17:18:53
 tags:
 - dickel
 - smooth ambler
-- old scout
-- single barrel
 - bourbon
-- cask strength
-- 8
+- 1 star
 ---
 Smooth Ambler generated a lot of hype with their MGP sourced single barrel line, disappointed with their own distillate and recently released a new Old Scout Single Barrel Select, this time sourced from Dickel. I tend to like well aged Dickel well enough and loved the [MGP Old Scout](https://atxbourbon.com/2019/03/19/Review-93-Smooth-Amber-Old-Scout-Straight-Bourbon/) so I was cautiously optimistic for dram. Let's see if it lives up to the name! 
 
@@ -46,9 +43,8 @@ On the other hand when I compared it too the MGP Old Scout Single Barrel the Sel
 
 Overall I enjoyed the bottle even if it didn't live up to its namesake though I won't be tracking down another bottle right now though I'd be interested in trying the next batch or a store pick.
 
-[**7**](https://atxbourbon.com/tags/7/) - a great whiskey I'd order at a bar
+**1 Star** - **Good whiskey:** I would choose to drink this over readily available whiskies
 
-[**Fair**](https://atxbourbon.com/tags/fair-value/) - Worth the money, happy with my purchase
 
 ### [Scale](http://atxbourbon.com/Scale/)
 

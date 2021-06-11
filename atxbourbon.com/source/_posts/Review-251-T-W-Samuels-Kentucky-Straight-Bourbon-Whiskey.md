@@ -2,10 +2,8 @@
 title: 'Review #251: T.W. Samuels Kentucky Straight Bourbon Whiskey'
 date: 2020-07-25 11:47:29
 tags:
-- kentucky
 - bourbon
-- 3
-- poor value
+- 0 stars
 ---
 
 A local store got in a shipment of T.W. Samuel's Straight Bourbon Whiskey which is usually not available here in Texas. When I was trying to buy something else they told me I should really get this, it was super good, very cheap, etc. I was skeptical but since it was only $10.99 for a liter I went ahead and bought it. Let's see if it's any good.
@@ -44,18 +42,11 @@ I'm not a fan of this one. Thankfully it didn't have any offensive notes but it 
 **TL;DR:** Thin, grainy and boring. Well that was disappointing.
 
 
-[**3**](https://atxbourbon.com/tags/3/) - Better than not drinking whiskey but just barely
+**0 Stars** - **Poor to Fine:** I would not specifically choose to drink this
 
-[**Poor**](https://atxbourbon.com/tags/poor-value/) - Overpriced, not worth the money
 
 #### [Scale](http://atxbourbon.com/Scale/)
 
 &nbsp;
 
 You can also follow me on [Instagram(@atxbourbon)](https://www.instagram.com/atxbourbon/) or [reddit](https://www.reddit.com/r/atxbourbon/) to keep up with these reviews and my other whiskey-centric adventures.
-
-#### [Scale](https://www.reddit.com/r/atxbourbon/comments/c9zarn/updated_review_scale/)
-
-&nbsp;
-
-You can also read this and my other reviews at [atxbourbon.com](http://atxbourbon.com) or follow me on [Instagram(@atxbourbon)](https://www.instagram.com/atxbourbon/) to keep up with these reviews and my other whiskey-centric adventures.

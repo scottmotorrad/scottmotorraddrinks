@@ -9,9 +9,9 @@ tags:
 - stagg
 - bourbon
 - kentucky
-- 10
-- 9
-- 7
+- 4 stars
+- 3 stars
+- 1 star
 ---
 
 I tried to taste all of last year's Buffalo Trace Antique Collection but never tracked down the Saz 18 so this year I jumped on it as soon as they dropped in Austin. I hit drink.well, Nickel City, Moonshine and my home bar to try everything and while it wasn't cheap I do think it was worth it.
@@ -36,7 +36,7 @@ The reviews are in the order I tasted them so let's get to it.
 
 **Finish**: Extremely long, spicier than I expected, and with more of all the good notes from the taste
 
-[**10**](https://atxbourbon.com/tags/10/) - an all time favorite, must buy/hunt
+**4 Stars** - **Extraordinary whiskey:** An all time favorite
 
 ## Eagle Rare 17
 **Age**: 17 years 3 months
@@ -50,7 +50,7 @@ The reviews are in the order I tasted them so let's get to it.
 
 **Finish**: Long sweet and oaky.
 
-[**9**](https://atxbourbon.com/tags/9/) - a favorite I always try to keep on my shelf
+**4 Stars** - **Extraordinary whiskey:** An all time favorite
 
 ## Sazerac 18
 **Age**: 18 years 4 months
@@ -64,7 +64,7 @@ The reviews are in the order I tasted them so let's get to it.
 
 **Finish**: Medium length with spicy and herbal notes with a distinct mintiness 
 
-[**7**](https://atxbourbon.com/tags/7/) - a great whiskey I'd order at a bar
+**1 Star** - **Good whiskey:** I would choose to drink this over readily available whiskies
 
 ## Thomas Handy Sazerac
 **Age**: 6 years 2 months
@@ -78,7 +78,7 @@ The reviews are in the order I tasted them so let's get to it.
 
 **Finish**: Very long and a somewhat hot with more cinnamon and rye spice 
 
-[**7**](https://atxbourbon.com/tags/7/) - a great whiskey I'd order at a bar
+**1 Star** - **Good whiskey:** I would choose to drink this over readily available whiskies
 
 ## George T Stagg
 **Age**: 15 years 3 months
@@ -92,7 +92,7 @@ The reviews are in the order I tasted them so let's get to it.
 
 **Finish**: Long finish with cherry and baking spice notes
 
-[**9**](https://atxbourbon.com/tags/9/) - a favorite I always try to keep on my shelf 
+**3 Stars** - **Excellent whiskey:** I would be willing to hunt down a bottle
 
 ## Conclusion
 I really enjoyed all 3 of bourbons this year. The WLW is absolutely phenomenal and a step up from last year. Definitely one of my favorite releases this year and easily the best of the antique collection for me. The Eagle Rare 17 was everything I liked about regular 10 year Eagle Rare dialed way up, especially the oak and earthy notes. The low proof Stagg was also excellent. It absolutely nailed the classic bourbon profile, was loaded with flavor and wasn't as challenging as previous years. 

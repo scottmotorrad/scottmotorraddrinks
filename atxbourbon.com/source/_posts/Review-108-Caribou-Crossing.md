@@ -4,8 +4,7 @@ date: 2019-04-19 16:59:19
 tags:
 - caribou crossing
 - canada
-- 3
-- poor value
+- 0 stars
 ---
 
 Caribou Crossing is credited as being the first Canadian Single barrel and has also been described as the bottle from Rock Hill Farms with the [Blanton's](https://atxbourbon.com/2019/04/16/Review-107-Blanton-s-Single-Barrel/) topper or simply as Canadian Blanton's. I finally snagged a bottle to see if it loved up to the hype!
@@ -31,9 +30,8 @@ Caribou Crossing is credited as being the first Canadian Single barrel and has a
 ## Conclusion
 This one did not do it for me. It had those distinct ethanol and maple notes I get from most Canadian whiskies and did not remind me of Blanton's at all. That said this was better than most Canadian's I've had so if you like that style of whiskies this might be for you but it's not for me. On the plus side I can cross another hard to find bottle off my hunting list and I was able to finish my pour with a little Coke Zero :)
 
-[**3**](https://atxbourbon.com/tags/3/) - Better than not drinking whiskey but just barely
+**0 Stars** - **Poor to Fine:** I would not specifically choose to drink this
 
-[**Poor**](https://atxbourbon.com/tags/poor-value/) - Overpriced, not worth the money
 
 ### [Scale](http://atxbourbon.com/Scale/)
 

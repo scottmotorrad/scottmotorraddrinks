@@ -4,8 +4,8 @@ date: 2018-12-31 07:20:07
 tags:
 - high west
 - light whiskey
-- utah
-- 5
+- mgp
+- 0 stars
 ---
 
 {% asset_img image.jpg "High West Light Whiskey"%}
@@ -39,9 +39,8 @@ I'm visiting Utah this week so obviously I'm going to High West's various locati
 ## Conclusion
 This one was hard to rate given how different it is and since it is my first 'light whiskey' but I was very glad to try it, would probably occasionally order it at a bar as a change up and definitely want to share with other whiskey loving friends. Overall it was great to try it in an unblended state and it's a unique spirit that tastes good if somewhat one note.
 
-[**5**](https://atxbourbon.com/tags/5/) - a whiskey with notable strengths but also held back by some flaws
+**0 Stars** - **Poor to Fine:** I would not specifically choose to drink this
 
-[**Poor**](https://atxbourbon.com/tags/poor-value/) - Overpriced, not worth the money
 
 #### [Scale](http://atxbourbon.com/Scale/)
 

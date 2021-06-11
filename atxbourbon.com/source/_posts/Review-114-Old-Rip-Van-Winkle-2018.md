@@ -4,9 +4,8 @@ date: 2019-05-19 17:06:05
 tags:
 - van winkle
 - buffalo trace
-- 10
+- 4 stars
 - wheater
-- 10 year
 - bourbon
 ---
 
@@ -37,11 +36,10 @@ This was delicious. It's everything I want from a wheated bourbon very sweet wit
 
 This was definitely a significant step up from the other 107 proof Buffalo Trace wheater, Old Weller Antique, and while it shared some of the same basic characteristics the extra aged does it a lot of favors. I am going try and grab some samples of a couple OWA store picks and do a blind tasting to control for the hype factor.
 
-I would immediately buy another bottle at $150 though I'm not sure I'll ever have the chance.
+I would immediately buy another bottle at ~$250 though I'm not sure I'll ever have the chance.
 
-**10** - an all time favorite, must buy/hunt
+**4 Stars** - **Extraordinary whiskey:** An all time favorite
 
-**Great** - A steal at this price point
 
 You can also follow me on [Instagram(@atxbourbon)](https://www.instagram.com/atxbourbon/) or [reddit](https://www.reddit.com/r/scottmotorraddrinks/) to keep up with these reviews and my other whiskey-centric adventures.
 

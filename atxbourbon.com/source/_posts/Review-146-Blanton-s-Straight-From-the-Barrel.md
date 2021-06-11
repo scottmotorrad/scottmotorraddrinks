@@ -4,10 +4,7 @@ date: 2019-09-24 19:28:16
 tags:
 - buffalo trace
 - bourbon
-- kentucky
-- blantons
-- barrel proof
-- 9
+- 3 stars
 ---
 After my review of Blanton's Gold fellow r/bourbon member u/supercondriac traded me a bottle of Straight From the Barrel, the only regular Blanton's release I hadn't been able to taste yet. As the name indicates this expression of Blanton's is uncut and unfiltered. I'd read a lot of really positive stuff about this one alongside a few, quieter remarks about it being a little harsh. I was a little nervous about a NAS straight from the barrel bourbon but I was also excited to try it. Let's see if it was better than the Gold!
 
@@ -41,7 +38,7 @@ I also ended up with 2 samples of other barrels of SFTB a 130.3 proofer and a 13
 
 **TL;DR:** Great bourbon with a truly amazing finish; I prefer it with a couple drops of water or a splash Blanton's SiB.
 
-[**9**](https://atxbourbon.com/tags/9/) - a favorite I'd like to keep on my shelf
+**3 Stars** - **Excellent whiskey:** I would be willing to hunt down a bottle
 
 #### [Scale](http://atxbourbon.com/Scale/)
 

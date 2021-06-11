@@ -4,12 +4,9 @@ date: 2020-04-21 16:23:36
 tags:
 - scotch
 - single malt
-- highlands
+- highland
 - glendronach
-- single cask
-- cask strength
-- sherry cask
-- 9
+- 4 stars
 ---
 
 
@@ -45,12 +42,11 @@ While I won't be buying another bottle of this specific cask, when this gets low
 
 &nbsp;
 
-**TL;DR:** Very good, very pricey
+**TL;DR:** Very good, very pricey but no regrets
 
 
-[**9**](https://atxbourbon.com/tags/9/) - a favorite I always try to keep on my shelf
+**4 Stars** - **Extraordinary whiskey:** An all time favorite
 
-[**Fair**](https://atxbourbon.com/tags/fair-value/) - Worth the money, happy with my purchase
 
 &nbsp;
 

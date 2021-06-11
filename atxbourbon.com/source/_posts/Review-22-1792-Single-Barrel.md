@@ -3,10 +3,8 @@ title: 'Review #22: 1792 Single Barrel'
 date: 2018-09-30 00:17:05
 tags:
 - bourbon
-- 1792
+- 0 stars
 - barton
-- single barrel
-- 5
 ---
 {% asset_img image.jpg "1792"%}
 
@@ -37,7 +35,7 @@ Next up in the 1792 series is their midrange bottle the Single Barrel. It sits b
 
 Overall this whiskey is fine but it's sort of the odd man out of the 1792 family. The Full Proof is a little pricier but it's higher proof and better which makes sense but then the Small Batch is somehow cheaper and better. They all have pretty similar notes My baseless theory is that they save the best barrels for full proof store picks so the basic Single Barrel doesn't hold up. 
 
-[**5**](https://atxbourbon.com/tags/5/) - a whiskey with notable strengths but also held back by some flaws
+**0 Stars** - **Poor to Fine:** I would not specifically choose to drink this
 
 #### [Scale](http://atxbourbon.com/Scale/)
 

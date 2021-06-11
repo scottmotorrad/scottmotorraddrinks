@@ -3,11 +3,8 @@ title: 'Review #170: Remus Volstead Reserve'
 date: 2019-12-06 23:49:08
 tags:
 - mgp
-- remus
-- 14 year
-- 10
+- 4 stars
 - bourbon
-- indiana
 - bottled in bond
 ---
 
@@ -44,10 +41,7 @@ Despite the high price I will be getting a backup bottle.
 
 **TL;DR:** Fantastic MGP with a bonus nutty note, worth the high price of admission
 
-
-[**10**](https://atxbourbon.com/tags/10/) - an all time favorite, must buy/hunt
-
-[**Fair**](https://atxbourbon.com/tags/fair-value/) - Worth the money, happy with my purchase
+**4 Stars** - **Extraordinary whiskey:** An all time favorite
 
 
 #### [Scale](http://atxbourbon.com/Scale/)

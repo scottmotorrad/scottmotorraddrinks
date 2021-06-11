@@ -3,11 +3,8 @@ title: 'Review #140: Woodford Reserve Kentucky Straight Rye'
 date: 2019-08-31 11:49:20
 tags:
 - brown-forman
-- woodford reserve
 - rye
-- kentucky
-- 4
-- poor value
+- 0 stars
 ---
 
 On to part 4 of the Woodford Reserve series with the first and only rye in the series. This is a barely legal rye with 53% rye in the mashbill. I haven't seen this bottle around much and hadn't tried it before a Woodford range tasting I had with a friend a few weeks ago. I was underwhelmed tasting it that night but hung onto a sample to sit down with later for a more focused drink. 
@@ -35,9 +32,8 @@ Next up will be a side by side of Woodford Double Oaked and a store pick!
 
 **TL;DR:** Underwhelming rye, stick with their other offerings
 
-[**4**](https://atxbourbon.com/tags/4/) - a fine whiskey that does not standout in either direction
+**0 Stars** - **Poor to Fine:** I would not specifically choose to drink this
 
-[**Poor**](https://atxbourbon.com/tags/poor-value/) - Overpriced, not worth the money
 
 #### [Scale](http://atxbourbon.com/Scale/)
 

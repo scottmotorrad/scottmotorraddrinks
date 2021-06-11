@@ -5,12 +5,9 @@ title: >-
 date: 2020-06-01 11:25:24
 tags:
 - jim beam
-- kentucky
 - bourbon
-- 4
-- 6
-- 7
-- poor value
+- 0 stars
+- 1 star
 ---
 
 Jim Beam recently updated their Single Barrel and Baker's products. The single barrel is now higher proof, NCF and supposedly older while Baker's has moved to a single barrel. The first drop of the new Baker's single barrels here in central Texas were over 8 year old. I waited to long to grab one but I did get a sample of an 8 year 6 month bottle to compare with the new Single Barrel. I've also included a sample of Distiller's Cut to use as a baseline.
@@ -35,9 +32,7 @@ Jim Beam recently updated their Single Barrel and Baker's products. The single b
 
 **Finish**: Medium to short with vanilla and warm spice notes
 
-[**4**](https://atxbourbon.com/tags/4/) - a fine whiskey that does not standout in either direction
-
-[**Fair**](https://atxbourbon.com/tags/fair-value/) - Worth the money, happy with my purchase
+**0 Stars** - **Poor to Fine:** I would not specifically choose to drink this
 
 ## Jim Beam Single Barrel
 **Age**: NAS (Old ones were supposedly 5-7 and the news ones are apparently "older")
@@ -53,9 +48,8 @@ Jim Beam recently updated their Single Barrel and Baker's products. The single b
 
 **Finish**: Medium length spicy finish with a bit of nuts and vanilla
 
-[**6**](https://atxbourbon.com/tags/6/) - a good whiskey I'm still happy to drink
+**0 Stars** - **Poor to Fine:** I would not specifically choose to drink this
 
-[**Fair**](https://atxbourbon.com/tags/fair-value/) - Worth the money, happy with my purchase
 
 ## Baker's 7 Year Single Barrel
 **Age**: 8 years 6 months
@@ -71,9 +65,7 @@ Jim Beam recently updated their Single Barrel and Baker's products. The single b
 
 **Finish**: Medium length finish with oak, warm spice and caramel
 
-[**7**](https://atxbourbon.com/tags/7/) - a great whiskey I'd order at a bar 
-
-[**Poor**](https://atxbourbon.com/tags/poor-value/) - Overpriced, not worth the money
+**1 Star** - **Good whiskey:** I would choose to drink this over readily available whiskies
 
 ## Conclusion
 
@@ -83,7 +75,7 @@ I enjoyed all of these but I'm not in a hurry to go buy any of them. If you are 
 
 &nbsp;
 
-**TL;DR:** Baker's > SiB > Distiller's > EW BiB. Baker's is too pricey for what it is.
+**TL;DR:** Baker's > SiB > Distiller's > EW BiB. Baker's is good but too pricey for what it is.
 
 #### [Scale](http://atxbourbon.com/Scale/)
 

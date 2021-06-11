@@ -5,8 +5,7 @@ tags:
 - wheat
 - oat
 - high west
-- 5
-- utah
+- 0 stars
 ---
 
 {% asset_img image.jpg "High West Valley Tan"%}
@@ -39,9 +38,8 @@ Valley Tan is a Utah whiskey that is actually made from 100% High West distillat
 ## Conclusion
 Oddly this one reminds me more of a mid to low end blended scotch than an American whiskey. I don't get much of what I expected from the wheat and oat whiskies this is blended from. I tried my best to pick notes out but it's relatively smooth and a bit generic tasting. Overall it was better than not drinking whiskey but especially given the price I'd pass on this one.
 
-[**5**](https://atxbourbon.com/tags/5/) - a whiskey with notable strengths but also held back by some flaws
+**0 Stars** - **Poor to Fine:** I would not specifically choose to drink this
 
-[**Poor**](https://atxbourbon.com/tags/poor-value/) - Overpriced, not worth the money
 
 #### [Scale](http://atxbourbon.com/Scale/)
 

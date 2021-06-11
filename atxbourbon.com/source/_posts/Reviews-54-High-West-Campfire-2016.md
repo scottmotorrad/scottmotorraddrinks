@@ -3,10 +3,8 @@ title: 'Reviews #54: High West Campfire 2016'
 date: 2018-12-20 00:28:45
 tags:
 - high west
-- mgp
-- single malt
 - blend
-- 5
+- 0 stars
 - whiskey advocate top 20 
 - whiskey advocate top 20 2017
 ---
@@ -48,9 +46,8 @@ Well I put off the Campfire and Double Rye! to the end but here we are with only
 ## Conclusion
 Ah the black sheep of the High West family. I'll start with the best part: the taste is dead on with the name and it's fine to drink. To me it was this sort middling blend of bourbon, rye and peated malt which has the the basic elements of each but none of what makes them great. It's an interesting whiskey and I'd definitely suggest ordering it at a bar at some point to try it but for me it wasn't worth a bottle purchase. Yay for 375s! Also similar to the anecdote on the back of the label about being inspired by the smell of peat to make this blend I was inspired by this blend to make my own; see the bonus section below :)
 
-[**5**](https://atxbourbon.com/tags/5/) - a whiskey with notable strengths but also held back by some flaws
+**0 Stars** - **Poor to Fine:** I would not specifically choose to drink this
 
-[**Poor**](https://atxbourbon.com/tags/poor-value/) - Overpriced, not worth the money
 
 #### [Scale](http://atxbourbon.com/Scale/)  
 

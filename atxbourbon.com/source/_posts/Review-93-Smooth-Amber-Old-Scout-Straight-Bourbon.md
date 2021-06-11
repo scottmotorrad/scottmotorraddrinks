@@ -4,11 +4,9 @@ date: 2019-03-19 18:12:40
 tags:
 - mgp
 - bourbon
-- 10 year
-- 9
+- 4 stars
 - smooth ambler
-- single barrel
-- barrel proof
+
 ---
 
 I've always been a bit lukewarm on [MGP bourbon](https://atxbourbon.com/tags/mgp/), especially the [10 years I've tried](https://atxbourbon.com/2019/03/14/Review-90-91-O-K-I-10-Year-Batch-33-and-Blaum-Bros-Old-Fangled-Knotter-10-Year/), and had only tried Smooth Ambler's own distillate before but with the Old Scout straight bourbon going away a friend told me I had to try it so I cashed in on a relationship with a local shop owner to get a bottle at retail. I will admit that I was tempted to trade it away but I stayed strong and cracked it as soon I got home. Let's see if that was the right choice! 
@@ -49,9 +47,8 @@ Wow! That was excellent. It reminds me of Old Rip Van Winkle in all the right wa
 
 On another note I can finally understand some of the hype around MGP bourbon after this guy!
 
-[**9**](https://atxbourbon.com/tags/9/) - a favorite I'd like to keep on my shelf
+**4 Stars** - **Extraordinary whiskey:** An all time favorite
 
-[**Great**](https://atxbourbon.com/tags/great-value/) - A great deal, I'd buy it again
 
 #### [Scale](http://atxbourbon.com/Scale/)
 
