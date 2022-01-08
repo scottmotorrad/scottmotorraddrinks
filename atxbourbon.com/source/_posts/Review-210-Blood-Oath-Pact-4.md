@@ -7,7 +7,7 @@ tags:
 - kentucky
 - bourbon
 - finished
-- toasted barrel finish
+- toasted barrel
 ---
 
 Our second bottle on the finished whiskey series is Lux Row's Blood Oath Pact 4, another NDP who is blending and finishing but this time from an unknown Kentucky distillery that is almost assuredly Heaven Hill instead of from MGP. 
