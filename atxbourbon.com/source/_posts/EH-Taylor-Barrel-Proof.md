@@ -4,6 +4,7 @@ date: 2021-11-22 23:56:27
 tags:
 - buffalo trace
 - bourbon
+- 3 stars
 ---
 I managed to snag a bottle of this year's EH Taylor Barrel Proof a few weeks ago and even got to blind it in a flight with the previous two releases. Needless to say it's a great bottle.
 
