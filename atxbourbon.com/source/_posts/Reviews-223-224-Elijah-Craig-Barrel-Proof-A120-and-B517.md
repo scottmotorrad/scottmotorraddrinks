@@ -2,14 +2,10 @@
 title: 'Reviews #223-224: Elijah Craig Barrel Proof A120 and B517'
 date: 2020-04-13 16:39:01
 tags:
-- elijah craig
 - heaven hill
-- 12 year
-- poor value
-- great value
-- 5
-- 8
 - kentucky
+- 0 stars
+- 2 stars
 ---
 
 
@@ -33,9 +29,7 @@ I recently got a sample of Heaven Hill's latest Elijah Craig Barrel Proof batch 
 
 **Finish**: Medium length hot finish with some cinnamon notes.
 
-[**5**](https://atxbourbon.com/tags/5/) - a whiskey with notable strengths but also held back by some flaws
-
-[**Poor**](https://atxbourbon.com/tags/poor-value/) - Overpriced, not worth the money
+**0 Stars** - **Poor to Fine:** I would not specifically choose to drink this
 
 ## Review #223 Elijah Craig Barrel Proof B517
 **Age**: 12 years
@@ -51,9 +45,7 @@ I recently got a sample of Heaven Hill's latest Elijah Craig Barrel Proof batch 
 
 **Finish**: Long and warm with baking spices, vanilla and subtler oak notes. 
 
-[**8**](https://atxbourbon.com/tags/8/) - an excellent bottle I'd like to have at home
-
-[**Great**](https://atxbourbon.com/tags/great-value/) - A great deal, I'd buy it again
+**2 Stars** - **Very good whiskey:** I would want to have a bottle
 
 ## Conclusion
 
@@ -61,13 +53,4 @@ The A120 was just too hot for me to really enjoy neat and while it was good on a
 
 C919 and A120 have cemented ECBP as a try before you buy for me and thankfully finding it at a bar around here or getting a sample is pretty easy. I'll continue to love the more drinkable batches and let the heat monsters stay on the shelf for someone else who will appreciate them.
 
-&nbsp;
-
 **TL;DR:** B517 > A120. A120 was too hot neat; it was quite good on a rock though.
-
-
-&nbsp;
-
-#### [Scale](http://atxbourbon.com/Scale/)
-
-You can also follow me on [Instagram(@atxbourbon)](https://www.instagram.com/atxbourbon/) or [reddit](https://www.reddit.com/r/atxbourbon/) to keep up with these reviews and my other whiskey-centric adventures.

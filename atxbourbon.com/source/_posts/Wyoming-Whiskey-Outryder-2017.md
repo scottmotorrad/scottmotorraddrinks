@@ -3,7 +3,7 @@ title: Wyoming Whiskey Outryder 2019
 date: 2021-02-11 18:37:44
 tags:
 - wyoming whiskey
-- wyoming
+- 1 star
 ---
 
 Wyoming Whiskey has been up in Wyoming making whiskey for a long time now with relatively little fan fair. They initially only had a wheated mashbill but eventually they started a line of Straight American Whiskey using rye. The Outryder is a series of releases all using whiskey distilled in 2011 from two mashbills. The first is a pretty stand high bourbon of 68/20/12 corn/rye/malted barley while the second is an unusual mashbill with no majority grain of 48/40/12 rye/corn/malted barley. 
@@ -43,12 +43,6 @@ There are supposed to be 3 more Outryder releases with each one being older than
 **TL;DR:** Good stuff especially for a craft distillery. 
 
 **1 Star** - **Good whiskey:** I would choose to drink this over readily available whiskies
-
-#### [Scale](http://atxbourbon.com/Scale/)
-
-&nbsp;
-
-You can also follow me on [Instagram(@atxbourbon)](https://www.instagram.com/atxbourbon/) or [reddit](https://www.reddit.com/r/atxbourbon/) to keep up with these reviews and my other whiskey-centric adventures.
 
 
 

@@ -4,12 +4,8 @@ date: 2019-03-24 21:23:56
 tags:
 - speyside
 - glenfarclas
-- 8 
-- oloroso
-- sherry cask
-- 21 year
+- 2 stars
 - single malt
-- scotch
 ---
 
 This is the third and final in a 3 part series tasting my way up the Glenfarclas lineup with the 12 year, 17 year and 21 year. This mini series has been a lot of fun and doing more scotch reviews is building my hype for my trip in May! So let's see the last one of these Glenfarclas stacks up.
@@ -37,10 +33,4 @@ First off another great single malt from Glenfarclas. I wish I had discovered th
 
 Overall I preferred the 17 year from these 3, especially given the price difference. I'll be reviewing 2 more 21 year Speyside single malts to see how they compare with the Glenfarclas.
 
-[**8**](https://atxbourbon.com/tags/8/) - an excellent bottle I'll buy from time to time
-
-[**Great**](https://atxbourbon.com/tags/great-value/) - A great deal, I'd buy it again
-
-You can also follow me on [Instagram(@atxbourbon)](https://www.instagram.com/atxbourbon/) or [reddit](https://www.reddit.com/r/scottmotorraddrinks/) to keep up with these reviews and my other whiskey-centric adventures.
-
-#### [Scale](http://atxbourbon.com/Scale/)
+**2 Stars** - **Very good whiskey:** I would want to have a bottle

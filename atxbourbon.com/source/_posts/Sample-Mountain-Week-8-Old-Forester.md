@@ -4,8 +4,6 @@ date: 2021-02-28 14:40:34
 tags:
 - sample mountain
 - old forester
-- the austin shaker
-- birthday bourbon
 ---
 
 I went to grab Glencairns for Week 8 of Sample Mountain and the first one I grabbed happened to be branded by Old Forester so naturally it had to be Old Forester Week. These were tasted from lowest to highest proof starting with 2019 Old Forester Birthday Bourbon, the 150th Anniversary Batch 2 and lastly The Austin Shaker's 2021 pick.

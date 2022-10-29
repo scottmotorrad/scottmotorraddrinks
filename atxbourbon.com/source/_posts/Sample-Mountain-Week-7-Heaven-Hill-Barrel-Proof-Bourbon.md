@@ -2,10 +2,7 @@
 title: 'Sample Mountain Week 7: Heaven Hill Barrel Proof Bourbon'
 date: 2021-02-21 14:39:13
 tags:
-- parkers heritage
-- william heaven hill
 - heaven hill
-- elijah craig
 - sample mountain
 ---
 

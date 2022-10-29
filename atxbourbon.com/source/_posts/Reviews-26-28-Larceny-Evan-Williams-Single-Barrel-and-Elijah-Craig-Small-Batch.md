@@ -6,12 +6,8 @@ date: 2018-10-06 22:59:06
 tags:
 - heaven hill
 - bourbon
-- elijah craig
-- 6
-- 7
-- wheater
-- kentucky
-- evan williams
+- 0 stars
+- 1 star
 ---
 {% asset_img image.jpg "Heaven hill Tasting Experience"%}
 
@@ -83,10 +79,13 @@ After the r/bourbon community review of Evan Williams Black Label I realized I h
 ## Conclusion
 This tasting flight was definitely an adventure. To start with I was disappointed with the Larceny, it wasn't bad but I'd prefer any of the Weller lineup for a wheater. I honestly surprised by how good the Evan Williams Single Barrel was. I'd love to try a barrel proof version of this. The Elijah Craig Small Batch was exactly what I expected, having had it before haha, it's always enjoyable though once you've had the barrel proof the small batch is a little underwhelming.
 
-**Larceny - 4** - a fine whiskey that does not standout in either direction 
+**Larceny** - **0 Stars** - **Poor to Fine:** I would not specifically choose to drink this
+ 
 
-**Evan Williams Single Barrel - 6** - a good whiskey I’m still happy to drink
+**Evan Williams Single Barrel** - **1 Star** - **Good whiskey:** I would choose to drink this over readily available whiskies
 
-**Elijah Craig Small Batch - 6** - a good whiskey I’m still happy to drink
+
+**Elijah Craig Small Batch** - **1 Star** - **Good whiskey:** I would choose to drink this over readily available whiskies
+
 
 ### [Scale](http://atxbourbon.com/Scale/)

@@ -3,10 +3,7 @@ title: 'Review #270: Russell''s Reserve 2003'
 date: 2020-11-09 16:00:43
 tags:
 - wild turkey
-- russells reserve
-- 16 year
-- 8
-- poor value
+- 1 star
 ---
 
 
@@ -38,17 +35,7 @@ This is an excellent whiskey and is very well balanced. That said the low proof 
 
 Overall I'd give a slight edge to the Master's Keep 17 Year Bottled in Bond if you had to pick one of this year's high end Turkey releases and I don't think this bottle justifies the price. I am going to enjoy drinking it though.
 
-&nbsp;
+**1 Star** - **Good whiskey:** I would choose to drink this over readily available whiskies
 
 **TL;DR:** Great whiskey at an unfortunately low proof and too high a price.
 
-
-[**8**](https://atxbourbon.com/tags/8/) - an excellent bottle I'd like to have at home
-
-[**Poor**](https://atxbourbon.com/tags/poor-value/) - Overpriced, not worth the money
-
-#### [Scale](http://atxbourbon.com/Scale/)
-
-&nbsp;
-
-You can also follow me on [Instagram(@atxbourbon)](https://www.instagram.com/atxbourbon/) or [reddit](https://www.reddit.com/r/atxbourbon/) to keep up with these reviews and my other whiskey-centric adventures.

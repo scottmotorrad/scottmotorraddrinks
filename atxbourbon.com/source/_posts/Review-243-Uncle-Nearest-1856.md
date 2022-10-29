@@ -4,8 +4,7 @@ date: 2020-06-19 11:44:59
 tags:
 - whiskey
 - tennessee
-- black owned
-- 5
+- 0 stars
 ---
 
 Today is Juneteenth and in honor of that I'll be reviewing Uncle Nearest 1856. Uncle Nearest is a relatively new whiskey brand from Tennessee [that in their own words](https://unclenearest.com/#history) "is inspired by the best whiskey-maker the world never knew, the first known African-American master distiller, Nathan “Nearest” Green." It is a black owned distillery and was the easiest bottle to procure [from this list](https://www.whiskyadvocate.com/black-owned-whisky/).
@@ -40,16 +39,7 @@ From tasting I certainly believe a large portion of the distillate, but not all 
 
 This won't be a regular sipper for me but it was interesting to taste and I'm curious to see what their own distillate ends up tasting like.
 
-&nbsp;
+**0 Stars** - **Poor to Fine:** I would not specifically choose to drink this
 
 **TL;DR:** Dickely, doesn't stand out, an unfortunate note on the finish knocks it down a point
 
-
-[**5**](https://atxbourbon.com/tags/5/) - a whiskey with notable strengths but also held back by some flaws
-
-
-#### [Scale](http://atxbourbon.com/Scale/)
-
-&nbsp;
-
-You can also follow me on [Instagram(@atxbourbon)](https://www.instagram.com/atxbourbon/) or [reddit](https://www.reddit.com/r/atxbourbon/) to keep up with these reviews and my other whiskey-centric adventures.

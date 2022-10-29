@@ -4,10 +4,7 @@ date: 2019-05-27 15:09:03
 tags:
 - heaven hill
 - bourbon
-- 9 year
-- 9
-- bottled in bond
-- old fitzgerald
+- 3 stars
 - wheater
 - kentucky
 ---
@@ -37,13 +34,4 @@ Overall I am big fan of this whiskey which hits all the right wheated bourbon no
 
 I'm pretty confident I prefer this to the 11 year though I never had the chance to try them side by side to be sure. While the ship has likely sailed on the 11 year, I know there are still some of the new 13 year olds out there in Austin so I'll be on the hunt to see if I can get one at a more reasonable price than I did with this guy.
 
-
-### Quality
-**9** - a favorite I'd like to keep on my shelf
-
-### Value based on what I paid
-**Poor** - Overpriced, not worth the money
-
-You can also follow me on [Instagram(@atxbourbon)](https://www.instagram.com/atxbourbon/) or [reddit](https://www.reddit.com/r/scottmotorraddrinks/) to keep up with these reviews and my other whiskey-centric adventures.
-
-## [Scale](http://atxbourbon.com/Scale/)
+**3 Stars** - **Excellent whiskey:** I would be willing to hunt down a bottle

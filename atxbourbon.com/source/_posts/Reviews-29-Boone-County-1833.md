@@ -3,7 +3,6 @@ title: 'Review #29: Boone County 1833'
 date: 2018-10-11 21:57:30
 tags:
 - boone county
-- 1833
 - bourbon
 - 6
 - mgp

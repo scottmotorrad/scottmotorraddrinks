@@ -2,11 +2,8 @@
 title: 'Review #276: Elijah Craig Beast Masters Club Beaver pick'
 date: 2020-12-01 19:34:01
 tags:
-- elijah craig
+- heaven hill
 - beast masters club
-- 10 year
-- 7
-- kentucky
 - bourbon
 ---
 
@@ -38,7 +35,7 @@ Beast Masters Club released a series of 3 Elijah Craig picks this year "Smell", 
 **TL;DR:** About what you would expect from an EC pick.
 
 
-[**7**](https://atxbourbon.com/tags/7/) - a great whiskey I'd order at a bar
+**1 Star** - **Good whiskey:** I would choose to drink this over readily available whiskies
 
 
 #### [Scale](http://atxbourbon.com/Scale/)

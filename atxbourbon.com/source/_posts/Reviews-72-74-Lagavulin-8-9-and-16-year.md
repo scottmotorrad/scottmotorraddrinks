@@ -3,17 +3,8 @@ title: 'Reviews #72-74: Lagavulin 8, 9 and 16 year'
 date: 2019-02-09 17:31:41
 tags:
 - lagavulin
-- scotch
 - single malt
 - islay
-- peat
-- game of thrones
-- vertical
-- blind
-- 6
-- 8
-- 9
-- diageo
 ---
 
 I finally picked up a bottle of Lagavulin 8 year recently to do a little side by side comparison with the Game of Thrones Lagavulin 9 Year House Lannister release. I broke out the black Norlan glasses I got for Christmas to do a blind tasting and then compared them both against the 16 year(which I realized I hadn't yet posted a review of so I included that here too). Let's get to the review:

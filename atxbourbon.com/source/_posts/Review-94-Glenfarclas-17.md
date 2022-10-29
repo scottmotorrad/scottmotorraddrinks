@@ -4,12 +4,8 @@ date: 2019-03-21 21:29:46
 tags:
 - speyside
 - glenfarclas
-- 7 
-- oloroso
-- sherry cask
-- 17 year
+- 2 stars
 - single malt
-- scotch
 ---
 
 This is the second in a 3 part series tasting my way up the Glenfarclas lineup with the 12 year, 17 year and 21 year. 
@@ -37,10 +33,5 @@ This is the second in a 3 part series tasting my way up the Glenfarclas lineup w
 ## Conclusion
 This is another great whiskey from Glenfarclas with strong sherry notes and softer edges than [the 12 year](https://atxbourbon.com/2019/03/16/Review-92-Glenfarclas-12/).  The oak notes are more developed throughout bringing in another dimension and bringing it up a notch. Glenfiddich takes the belt back at this price range though the [outstanding Glenfiddich 18](https://atxbourbon.com/2018/11/20/Review-43-Glenfiddich-18/). All in all another great sherried single malt from Glenfarclas.
 
-[**7**](https://atxbourbon.com/tags/7/) - a great whiskey I'd order at a bar
+**2 Stars** - **Very good whiskey:** I would want to have a bottle
 
-[**Fair**](https://atxbourbon.com/tags/fair-value/) - Worth the money, happy with my purchase
-
-#### [Scale](http://atxbourbon.com/Scale/)
-
-You can also follow me on [Instagram(@atxbourbon)](https://www.instagram.com/atxbourbon/) or [reddit](https://www.reddit.com/r/scottmotorraddrinks/) to keep up with these reviews and my other whiskey-centric adventures.

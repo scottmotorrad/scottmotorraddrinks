@@ -2,10 +2,10 @@
 title: Russell's Reserve Beastmaster's Club Stachey Spice
 date: 2021-01-15 13:01:59
 tags:
-- russells reserve
 - wild turkey
 - beast masters club
 - 2 stars
+- bourbon
 ---
 
 Spicy Girls #2 is a Russell's Reserve pick from Beastmaster's Club that came out back in 2019. It's a Camp Nelson A bottle from Floor 4 and was supposedly 111 proof out of the barrel so it's pretty much cask strength at 110. I didn't open this bottle right away but it has been open for some time now and was hovering at 50% full when I wrote this.

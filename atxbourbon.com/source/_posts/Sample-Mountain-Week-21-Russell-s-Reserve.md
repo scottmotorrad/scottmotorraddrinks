@@ -4,9 +4,7 @@ date: 2021-05-30 15:23:57
 tags:
 - sample mountain
 - wild turkey
-- kentucky
 - bourbon
-- russells reserve
 ---
 
 Week 21 of sample moutain is Russell's Reserve week! Featuring a warehouse E pick(one of my favorite warehouses) and two picks that got a lot of social media attention down here in Texas. So let's see ho this 'random' E sample stack up against the hype bottles. For my "would I buy this?" question this week I am comparing trying to get one of these picks vs just grabbing an arbitary Russell's pick from a local big box store ie Total Wine.

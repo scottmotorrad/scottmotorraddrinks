@@ -2,15 +2,12 @@
 title: 'Reviews #76-77: Russell''s Reserve Single Barrel Showdown: Moonshine vs Tejas'
 date: 2019-02-19 23:20:09
 tags:
-- russells reserve
 - tejas liquor
 - moonshine
-- single barrel
-- blind
-- 8
-- 9
 - wild turkey
 - bourbon
+- 2 stars
+ - 4 stars
 ---
 
 A local whiskey bar/restaurant, Moonshine Grill, does a ton of barrel picks and they have a system where each time you order a pour of one of their barrels you get a raffle ticket to be able to buy a bottle at retail(lpt: you can also order your wife a whiskey sour with their cheapest barrel pick to get extra tickets). So I got super lucky tonight(or drank way too much over the last few weeks to stack the deck) and won the raffle for their latest Russel's Reserve single barrel. I went down there after work to pick it up and couldn't wait to do a blind side by side with the Tejas Liquor Russel's Reserve pick I had at home and my thankfully my wife could tell how excited I was an went along with my antics. Moonshine and Wild Turkey named this pick "Cheesy Gold Foil" after the original Wild Turkey 12 year bottles with their distinct gold foil label.
@@ -67,14 +64,10 @@ I was nervous going into my first blind bourbon review(side note my [first blind
 
 ### Tejas Liquor by Prince
 
-[**8**](https://atxbourbon.com/tags/8/) - an excellent bottle I'll buy from time to time
+**2 Stars** - **Very good whiskey:** I would want to have a bottle
 
 ### Moonshine Grill 15th Anniversary Cheesy Gold
 
-[**9**](https://atxbourbon.com/tags/9/) - a favorite I'd like to keep on my shelf
+**4 Stars** - **Extraordinary whiskey:** An all time favorite
 
 I've also managed to track down a sample of an actual Wild Turkey 12 year and will be doing a side by side with the Moonshine pick in the near future.
-
-#### [Scale](http://atxbourbon.com/Scale/)
-
-You can also follow me on [Instagram(@atxbourbon)](https://www.instagram.com/atxbourbon/) or [reddit](https://www.reddit.com/r/scottmotorraddrinks/) to keep up with these reviews and my other whiskey-centric adventures.

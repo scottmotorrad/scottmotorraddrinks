@@ -2,13 +2,9 @@
 title: 'Review #220: Elijah Craig 18 Year'
 date: 2020-04-03 15:06:17
 tags:
-- elijah craig
 - heaven hill
-- 18 year
-- poor value
-- 7
-- single barrel
-- kentucky
+- bourbon
+- 1 star
 ---
 
 When I went to Kentucky for the r/bourbon New Riff pick last fall I also did a mad dash around various distilleries and snagged a few goodies along the way including a bottle of Elijah Craig 18. There was some sort of running event going on in the Bardstown area that day and it either finished or had a checkpoint or something at the Heaven Hill Bourbon Heritage Center so the parking lot was full of sweaty fit people but I persevered, made my way through the dank crowd and went inside anyway. I was rewarded with a lonesome bottle of Elijah Craig 18 in a glass case behind the counter so I sheepishly asked if it was for sale and it was! They also had William Heaven Hill 12 and Elijah Craig Barrel proof but the WHH was ludicrously expensive even by my standards and I don't have trouble getting ECBP at home so I happily went with the 18 year.
@@ -41,18 +37,7 @@ This was a great pour especially when I am in the mood for something easier to d
 
 It's expensive, hard to find, lower proof and a single barrel so a bit of a gamble. What's not to love?
 
-&nbsp;
-
 **TL;DR:** Expensive for what it is, also inexplicably low proof
 
 
-[**7**](https://atxbourbon.com/tags/7/) - a great whiskey I'd order at a bar
-
-[**Poor**](https://atxbourbon.com/tags/poor-value/) - Overpriced, not worth the money
-
-&nbsp;
-
-#### [Scale](http://atxbourbon.com/Scale/)
-
-
-You can also follow me on [Instagram(@atxbourbon)](https://www.instagram.com/atxbourbon/) or [reddit](https://www.reddit.com/r/atxbourbon/) to keep up with these reviews and my other whiskey-centric adventures.
+**1 Star** - **Good whiskey:** I would choose to drink this over readily available whiskies
