@@ -3,13 +3,10 @@ title: 'Reviews #171-173: Four Roses Private Selects OBSK v OESK'
 date: 2019-12-10 18:52:07
 tags:
 - four roses
-- obsk
-- oesk
-- single barrel
-- private select
-- 7
-- 5
-- 8
+- bourbon
+- 0 stars
+- 1 star
+- 2 stars
 ---
 
 This is the second yeast strain tasting in my Four Roses series with a blind tasting of the K yeast strain. I have 3 picks ranging from 8 to 10 years and from 108 to 118 proof. Only 1 bottle is from Texas this time with the other coming from Atlanta Georgia and the sample from Tennessee. Going into this I was of the opinion that K isn't one of my favorite yeast strains so we'll see how it goes!
@@ -32,7 +29,7 @@ For this tasting I did another [blind tasting video](https://www.instagram.com/t
 
 **Ranking**: #2
 
-[**7**](https://atxbourbon.com/tags/7/) - a great whiskey I'd order at a bar
+**1 Star** - **Good whiskey:** I would choose to drink this over readily available whiskies
 
 ## Four Roses OBSK Spec's Pick #4
 **Age**: 9 years 3 months
@@ -48,7 +45,7 @@ For this tasting I did another [blind tasting video](https://www.instagram.com/t
 
 **Ranking**: #3
 
-[**5**](https://atxbourbon.com/tags/5/) - a whiskey with notable strengths but also held back by some flaws
+**0 Stars** - **Poor to Fine:** I would not specifically choose to drink this  over other readily available options
 
 ## Four Roses OESK Citi Wine and Spirits Pick
 **Age**: 10 years 4 months
@@ -64,7 +61,7 @@ For this tasting I did another [blind tasting video](https://www.instagram.com/t
 
 **Ranking**: #1
 
-[**8**](https://atxbourbon.com/tags/8/) - an excellent bottle I'd like to have at home
+**2 Stars** - **Very good whiskey:** I would want to have a bottle
 
 ## Conclusion
 
@@ -75,9 +72,3 @@ This also reinforces that age tends to improve these picks for me but isn't the 
 Next up is the V yeast strain. I meant to post one of these each week but missed last week so hopefully the next one is out soon.
 
 **TL;DR:** K isn't my favorite yeast strain, 10+ years is still the sweet spot.
-
-
-#### [Scale](http://atxbourbon.com/Scale/)
-
-You can also follow me on [Instagram(@atxbourbon)](https://www.instagram.com/atxbourbon/) or [reddit](https://www.reddit.com/r/atxbourbon/) to keep up with these reviews and my other whiskey-centric adventures.
-

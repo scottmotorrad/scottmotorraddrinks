@@ -2,9 +2,8 @@
 title: 1792 Sweet Wheat
 date: 2021-04-17 13:12:18
 tags:
-- 1792
-- kentucky
-- wheater
+- barton 1792
+- bourbon
 - 1 star
 ---
 

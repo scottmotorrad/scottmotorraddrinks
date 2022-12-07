@@ -2,8 +2,6 @@
 title: 'Review #59: High West Valley Tan Batch 18G03'
 date: 2019-01-01 16:38:30
 tags:
-- wheat
-- oat
 - high west
 - 0 stars
 ---

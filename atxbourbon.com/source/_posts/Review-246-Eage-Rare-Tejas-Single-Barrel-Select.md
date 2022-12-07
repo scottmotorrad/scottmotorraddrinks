@@ -2,7 +2,7 @@
 title: 'Review #246: Eage Rare Tejas Single Barrel Select'
 date: 2021-01-24 00:58:21
 tags:
-- eagle rare
+- buffalo trace
 - tejas
 - 1 star
 ---

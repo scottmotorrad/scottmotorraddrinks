@@ -5,7 +5,7 @@ tags:
 - mgp
 - 4 stars
 - bourbon
-- bottled in bond
+- remus
 ---
 
 When MGP started releasing their own bottled and branded product through the Remus line I was excited to their vision for MGP's legendary bourbon. Unfortunately it came in the form of a fine but uninspired bottling, George Remus, and I largely forgot about the brand and moved on. I ignored their first Remus Repeal release and was fully intending to ignore the second until [@texasdrinker](https://www.instagram.com/texasdrinker/) convinced me it was worth a taste and he wasn't wrong. When Remus announced a 14 year old bottled in bond release I was intrigued but then I saw the price which made me hesitate. 

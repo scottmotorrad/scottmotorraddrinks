@@ -2,10 +2,8 @@
 title: Michter's 10 Rye 2020
 date: 2021-04-01 12:23:39
 tags:
-- kentucky
 - rye
 - michters
-- 10 year
 - 2 stars
 ---
 

@@ -5,12 +5,12 @@ tags:
 - bourbon
 - light whiskey
 - finished
-- honey finish
-- red wine finish
-- sauternes finish
-- 5
-- 8
-- 9
+- bull run
+- boone county
+- belle meade
+- 0 stars
+- 2 stars
+- 3 stars
 - mgp
 ---
 
@@ -37,7 +37,7 @@ For this sample set I did a [blind tasting of all 3](https://www.instagram.com/t
 
 **Finish**: Long cloyingly sweet finish with red fruit, honey, and a bit of oak.
 
-[**5**](https://atxbourbon.com/tags/5/) - a whiskey with notable strengths but also held back by some flaws
+**0 Stars** - **Fine:** I would not specifically choose to drink this  over other readily available options
 
 ### Boone County 10 Year Sauternes Finish Local Vine Pick
 **Age**: 10 years
@@ -51,7 +51,7 @@ For this sample set I did a [blind tasting of all 3](https://www.instagram.com/t
 
 **Finish**: Long finish with baking spices and sweet honey
 
-[**8**](https://atxbourbon.com/tags/8/) - an excellent bottle I'd like to have at home
+**2 Stars** - **Very good whiskey:** I would want to have a bottle
 
 ### Belle Meade Honey Cask
 **Age**: 8-11 years
@@ -65,21 +65,13 @@ For this sample set I did a [blind tasting of all 3](https://www.instagram.com/t
 
 **Finish**: Medium length with warm spices, honey, oak and caramel.
 
-[**9**](https://atxbourbon.com/tags/9/) - a favorite I always try to keep on my shelf
+**3 Stars** - **Excellent whiskey:** I would be willing to hunt down a bottle
+
 
 ## Conclusion
 
 First off the Belle Meade Honey lived up to the hype! That was fantastic. If I could buy a bottle for an even semi reasonable price I would jump on it. The Boone County was also a surprise as I thought the low proof would really hold it back but it did not. The Boone County is a special release from back in 2017 and before this I didn't realize Boone County had ever done a finished bourbon. The Bull Run was a definitely a let down and I'm not that surprised as MGP light whiskey tends not to be my thing.
 
-&nbsp;
-
 **TL;DR:** Belle Meade Honey > Boone County Sauternes >> Bull Run Pinot
 
 I've finally figured out how I am going to wrap this series up. We've got 3 more review style posts, a post on home finishing and then something I am excited for as the series wrap up.
-
-
-#### [Scale](http://atxbourbon.com/Scale/)
-
-&nbsp;
-
-You can also follow me on [Instagram(@atxbourbon)](https://www.instagram.com/atxbourbon/) or [reddit](https://www.reddit.com/r/atxbourbon/) to keep up with these reviews and my other whiskey-centric adventures.

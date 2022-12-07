@@ -3,20 +3,17 @@ title: 'Reviews #144-145: Milam and Greene Triple Cask Bourbon and Port Finished
 date: 2019-09-20 01:43:22
 tags:
 - milam and greene
-- texas
-- tennessee
 - dickel
 - bourbon
 - rye
 - mgp
-- port finish
 - 6
 - 5
 ---
 
 I was invited the Milam & Greene launch event this week and it was a lot of fun with whiskey, cocktails, charcuterie, a grilled cheese truck and even fireworks. That said I was there for the whiskey so let’s get straight to it! Milam & Greene launched their Triple Cask Bourbon and Port Finished Rye this and I was able to drink them both there and take home a few samples.
 
-Since I received these samples for free I won't be assigning a value rating to the review as I don't know how I would have felt if I bought them on my own.
+Since I received these samples for free I won't be assigning a rating to the review as I don't know how I would have felt if I bought them on my own.
 
 {% asset_img image.jpg "Milam and Greene" %}
 
@@ -60,17 +57,3 @@ The Port Finished Rye is a NAS rye sourced from MGP and then finished in Port ca
 Overall it’s always good to see a craft distillery, especially a Texas one, move away from purely sourcing to using their own distillate especially when that leads to a more unique product than just the sourced juice and a better product than the young craft distillate by itself. I am optimistic that Milam and Greene will get better with future, more aged release and hopefully access to better sourced stocks.
 
 **TL;DR:** The bourbon is a solid initial offering and a good take on what to do with young craft whiskey. The rye is slightly too young/harsh for me but has a nice balance between the port and MGP nots.
-
-### Triple Cask Bourbon
-
-[**6**](https://atxbourbon.com/tags/6/) - a good whiskey I'm still happy to drink
-
-### Port Finished Rye
-
-[**5**](https://atxbourbon.com/tags/5/) - a whiskey with notable strengths but also held back by some flaws
-
-
-#### [Scale](http://atxbourbon.com/Scale/)
-
-You can also follow me on [Instagram(@atxbourbon)](https://www.instagram.com/atxbourbon/) or [reddit](https://www.reddit.com/r/scottmotorraddrinks/) to keep up with these reviews and my other whiskey-centric adventures.
-

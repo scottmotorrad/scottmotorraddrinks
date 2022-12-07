@@ -3,9 +3,8 @@ title: Michter's 10 Bourbon 2020
 date: 2021-02-01 23:18:34
 tags:
 - michters
-- 10 year
 - bourbon
-- kentucky
+- 2 stars
 ---
 
 I was very fortunately able to grab both the Michter's 10 bourbon and rye last year and as the bottles start to dwindle it's time to review them starting with the bourbon.

@@ -5,7 +5,7 @@ tags:
 - traverse city
 - mgp
 - bourbon enthusiast
-- 2 Stars
+- 2 stars
 
 ---
 {% asset_img image.jpg "Traverse City Bourbon Enthusiast Single Barrel" %}

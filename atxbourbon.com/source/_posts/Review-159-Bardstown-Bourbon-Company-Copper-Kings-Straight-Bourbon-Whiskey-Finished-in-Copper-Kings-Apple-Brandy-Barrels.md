@@ -5,12 +5,8 @@ title: >-
 date: 2019-11-12 00:24:02
 tags:
 - bardstown bourbon company
-- indiana
-- apple brandy finish
-- brandy finish
 - mgp
-- 11 year
-- 9
+- 4 stars
 ---
 
 Bardstown Bourbon Company is a relatively new distillery out of Bardstown, Kentucky, hence the name. Unfortunately they don't distribute to Texas so I wasn't able to get a bottle until I went to Kentucky for the r/bourbon pick. Right now they have 3 main 'series' of whiskey: their discovery series which is sourced and blended, their fusion series which is a blend of their own distillate and sourced whiskey and their collaborative series which is sourced whiskey finished in collaboration with other local companies. So far they've released some interesting products and I like that they took route of doing more than just sourcing and bottling instead doing some interesting blending or finishing with plenty of transparency. I hope more craft distilleries take this route instead of just releasing a sourced product or releasing their own quite young young whiskey.
@@ -37,6 +33,8 @@ Since I didn't pay for this bottle I will not be giving it a 'Value' rating but 
 
 **Finish**: Incredibly long spicy finish with warm baking spice, tobacco, rich oak and just the barest hints of something sweet.
 
+**4 Stars** - **Extraordinary whiskey:** An all time favorite
+
 ## Conclusion
 
 The finish on this was the best part and reminds me a fair amount of one of my all time favorites [Joseph Magnus Cigar Blend Batch 12](https://atxbourbon.com/2019/10/06/Review-150-Joseph-Magnus-Cigar-Blend-Batch-12/) though it is a little spicier. Overall this was an amazing bourbon and I hope we see some more barrel finished MGP collaborations coming out of Bardstown! The nose was sweet, rich and complex, the finish was amazing and the taste was delicious if just a bit on the spicy side. The proof is in the fill level though as I've been back from Kentucky for just about 3 weeks and this is already ~2/3s gone making it easily the lowest level of the bottles I brought back from Kentucky.
@@ -46,9 +44,3 @@ Since this reminded me of Cigar Blend I went ahead and tried this paired with a 
 Given that this bottle is nearing the end of it's life and the current situation with Joseph Magnus changing distributors in Texas which may be impacting my supply of Cigar Blend I'm looking for pretty much any 9+ year old, 100+ proof MGP finished in some sort of brandy cask so let please let me know if you have something you think I should try!
 
 **TL;DR:** Cask strength 11 year old MGP finished in brandy casks; of course I love it.
-
-[**9**](https://atxbourbon.com/tags/9/) - a favorite I always try to keep on my shelf
-
-#### [Scale](http://atxbourbon.com/Scale/)
-
-You can also follow me on [Instagram(@atxbourbon)](https://www.instagram.com/atxbourbon/) or [reddit](https://www.reddit.com/r/atxbourbon/) to keep up with these reviews and my other whiskey-centric adventures.

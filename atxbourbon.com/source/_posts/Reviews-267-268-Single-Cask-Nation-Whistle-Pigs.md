@@ -6,7 +6,6 @@ tags:
 - 3 stars
 - whistle pig
 - single cask nation
-- finished
 - rye
 - mgp
 ---
@@ -62,8 +61,3 @@ Overall I am super happy with these releases and I wish I could have gotten a ba
 
 **TL;DR:** Great bottle, the rum and vermouth is an all time favorite rye
 
-#### [Scale](http://atxbourbon.com/Scale/)
-
-&nbsp;
-
-You can also follow me on [Instagram(@atxbourbon)](https://www.instagram.com/atxbourbon/) or [reddit](https://www.reddit.com/r/atxbourbon/) to keep up with these reviews and my other whiskey-centric adventures.

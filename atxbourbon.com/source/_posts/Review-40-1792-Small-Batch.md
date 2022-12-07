@@ -2,12 +2,9 @@
 title: 'Review #40: 1792 Small Batch'
 date: 2018-11-09 13:17:07
 tags:
-- 1792
-- kentucky
 - bourbon
-- barton
-- 6
-- fair value
+- barton 1792
+- 1 star
 ---
 
 {% asset_img image.jpg "1792"%}
@@ -37,11 +34,7 @@ Today I'm continuing my 1792 series with their cheapest expression and the one t
 
 **Finish**: Still short and sweet with just a touch of spice
 
+**1 Star** - **Good whiskey:** I would choose to drink this over readily available whiskies
+
 ## Conclusion
 It's a little thin on the mouthfeel and the notes aren't as strong as I like nowadays but it was a great intro in better bourbon and I love the [higher proof](https://atxbourbon.com/2018/09/24/Review-19-1792-Full-Proof/) and [extra aged variants](https://atxbourbon.com/2018/10/30/Review-35-1792-225th-Anniversary/). If you're early in your journey or looking for a great intro for newcomers I'd highly recommend this great, super affordable bourbon. I also usually have it on hand as a great to share whiskey :)
-
-[**6**](https://atxbourbon.com/tags/6/) - a good whiskey I'm still happy to drink
-
-[**Fair**](https://atxbourbon.com/tags/fair-value/) - Worth the money, happy with my purchase
-
-#### [Scale](http://atxbourbon.com/Scale/)

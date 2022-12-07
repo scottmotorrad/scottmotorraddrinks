@@ -3,11 +3,8 @@ title: 'Review #103: The Balvenie 21 PortWood'
 date: 2019-04-07 15:28:26
 tags:
 - balvenie
-- 21 year
-- 9
+- 2 stars
 - single malt
-- scotch
-- port finish
 - speyside
 ---
 
@@ -31,17 +28,11 @@ This is the third and final 21 year old Speyside single malt in this series. We 
 
 **Finish**: Long and sweet with honey, hints of dark fruit and gentle spice notes.
 
+**2 Stars** - **Very good whiskey:** I would want to have a bottle
+
 ## Conclusion
 This was easily my favorite of the 3 and the only one I'd semi-regularly pick over it's 17/18 year brethren which made me realize that I haven't written about the younger Balvenie selections yet so I'll have get on that. The Port influence was clear throughout and I'm a big fan of Ported whiskies so it was no surprise I loved this. It was primarily sweet and fruity with just enough spice to give it depth. 
 
 Apparently there is a duty free exclusive version of this that is NCF and 95.2 proof so I'll be keeping an eye out for that on my next international trip!
-
-[**9**](https://atxbourbon.com/tags/9/) - a favorite I'd like to keep on my shelf
-
-[**Fair**](https://atxbourbon.com/tags/fair-value/) - Worth the money, happy with my purchase
-
-#### [Scale](http://atxbourbon.com/Scale/)
-
-You can also follow me on [Instagram(@atxbourbon)](https://www.instagram.com/atxbourbon/) or [reddit](https://www.reddit.com/r/scottmotorraddrinks/) to keep up with these reviews and my other whiskey-centric adventures.
 
   

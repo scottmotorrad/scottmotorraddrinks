@@ -7,7 +7,7 @@ tags:
 - wild turkey
 - bourbon
 - 2 stars
- - 4 stars
+- 4 stars
 ---
 
 A local whiskey bar/restaurant, Moonshine Grill, does a ton of barrel picks and they have a system where each time you order a pour of one of their barrels you get a raffle ticket to be able to buy a bottle at retail(lpt: you can also order your wife a whiskey sour with their cheapest barrel pick to get extra tickets). So I got super lucky tonight(or drank way too much over the last few weeks to stack the deck) and won the raffle for their latest Russel's Reserve single barrel. I went down there after work to pick it up and couldn't wait to do a blind side by side with the Tejas Liquor Russel's Reserve pick I had at home and my thankfully my wife could tell how excited I was an went along with my antics. Moonshine and Wild Turkey named this pick "Cheesy Gold Foil" after the original Wild Turkey 12 year bottles with their distinct gold foil label.

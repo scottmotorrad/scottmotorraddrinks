@@ -3,9 +3,8 @@ title: 'Review #36: Bernheim Original'
 date: 2018-10-29 21:55:04
 tags:
 - heaven hill
-- wheat
+- wheat whiskey
 - 0 stars
-- kentucky
 ---
 
 {% asset_img image.jpg "Bernheim"%}
@@ -39,7 +38,3 @@ Well I definitely need to taste more wheat whiskies, I was terrible at this haha
 **TL;DR:** Different, not my favorite, curious about the wheat whiskey category.
 
 **0 Stars** - **Poor to Fine:** I would not specifically choose to drink this
-
-#### [Scale](http://atxbourbon.com/Scale/)
-
-You can also follow me on [Instagram(@atxbourbon)](https://www.instagram.com/atxbourbon/) or [reddit](https://www.reddit.com/r/scottmotorraddrinks/) to keep up with these reviews and my other whiskey-centric adventures.

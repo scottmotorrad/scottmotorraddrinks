@@ -5,8 +5,7 @@ title: >-
 date: 2019-03-05 22:40:49
 tags:
 - heavens door
-- basil haydens
-- 10 year
+- jim beam
 - 6
 - 7
 - tennessee whiskey
@@ -45,6 +44,8 @@ I ended up in possession of these two tater ten year bourbons via a questionable
 
 **Reveal**: Heaven's Door
 
+**0 Stars** - **Fine:** I would not specifically choose to drink this  over other readily available options
+
 ### Sample #2
 **Nose**:  Cherry and sweet honey notes with a touch of spice.
 
@@ -54,6 +55,8 @@ I ended up in possession of these two tater ten year bourbons via a questionable
 
 **Reveal**: Basil Hayden's
 
+**0 Stars** - **Fine:** I would not specifically choose to drink this  over other readily available options
+
 ## Conclusion
 The blind portion of this was pretty easy thanks to those classic Dickel notes and that equally classic thin Basil Hayden's mouthfeel. 
 
@@ -62,17 +65,3 @@ I really enjoyed the Heaven's Door 10 year would rank it somewhere between the D
 The Basil Hayden's was fine, just fine. It is a step up from the current NAS bottling but not enough to really make a difference. The notes were all pleasent and based on my taste for Booker's and Knob Creek I'm curious what a barrel proof or at least 100-110 proof version of Basil Hayden's would be like.
 
 The Heaven's Door was the clear winner here but neither was a triumph, or worth the money. That said I could see grabbing the Basil Hayden's 10 Year as a nice gift for someone who likes Basil Hayden's like my dad for example.
-
-### Heaven's Door 10 Year Tennessee Straight Bourbon
-[**7**](https://atxbourbon.com/tags/7/) - a great whiskey I'd order at a bar
-
-[**Poor**](https://atxbourbon.com/tags/poor-value/) - Overpriced, not worth the money
-
-### Basil Hayden's 10 Year Kentucky Straight Bourbon
-[**6**](https://atxbourbon.com/tags/6/) - a good whiskey I'm still happy to drink
-
-[**Poor**](https://atxbourbon.com/tags/poor-value/) - Overpriced, not worth the money
-
-#### [Scale](http://atxbourbon.com/Scale/)
-
-You can also follow me on [Instagram(@atxbourbon)](https://www.instagram.com/atxbourbon/) or [reddit](https://www.reddit.com/r/scottmotorraddrinks/) to keep up with these reviews and my other whiskey-centric adventures.

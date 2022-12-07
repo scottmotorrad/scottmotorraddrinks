@@ -3,9 +3,8 @@ title: 'Review #23: 291 Single Barrel Colorado Rye Whiskey'
 date: 2018-10-02 00:00:47
 tags:
 - rye
-- 291
-- single barrel
-- 8
+- distillery 291
+- 2 stars
 - colorado
 ---
 {% asset_img image.jpg "291 Rye"%}
@@ -35,11 +34,7 @@ This one is an interesting one: 291 Single Barrel Colorado Rye Whiskey. It's ext
 
 **Finish**: The already short finish is almost gone
 
+**2 Stars** - **Very good whiskey:** I would want to have a bottle
+
 ## Conclusion
-This lived up to the hype for me. I was shocked that a medium proof young whiskey could be so flavorful and still smooth. This whiskey has an incredibly unique nose to me that reminded me of being up in the aspens in Utah. I definitely think a a longer aged variant of this and even better an aged barrel proof variant would definitely crack the 9s. I'll be trying to hunt down the current barrel proof and I'm looking forward to future releases from these folks. All that said this is a bit pricey and a bit hard to find so probably don't go too far out of your way to find one but if you happen to be in Colorado it's definitely worth popping into a liquor store or two.
-
-[**8**](https://atxbourbon.com/tags/8/) - an excellent bottle I'll buy from time to time
-
-#### [Scale](http://atxbourbon.com/Scale/)
-
-You can also follow me on [Instagram(@atxbourbon)](https://www.instagram.com/atxbourbon/) or [reddit](https://www.reddit.com/r/scottmotorraddrinks/) to keep up with these reviews and my other whiskey-centric adventures.
+This lived up to the hype for me. I was shocked that a medium proof young whiskey could be so flavorful and still smooth. This whiskey has an incredibly unique nose to me that reminded me of being up in the aspens in Utah. I definitely think a a longer aged variant of this definitely score higher. I'll be trying to hunt down the current barrel proof and I'm looking forward to future releases from these folks. All that said this is a bit pricey and a bit hard to find so probably don't go too far out of your way to find one but if you happen to be in Colorado it's definitely worth popping into a liquor store or two.

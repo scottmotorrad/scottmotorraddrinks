@@ -2,11 +2,10 @@
 title: 'Review #24: Hakushu 12'
 date: 2018-10-03 00:32:21
 tags:
-- hakushu
 - suntory
-- 8
-- japan
-- 12 year
+- 2 stars
+- japanese whiskey
+- single malt
 ---
 {% asset_img image.jpg "Hakushu"%}
 
@@ -33,11 +32,7 @@ Hakushu 12 was the whisky that got me into Japanese whisky even though it has fa
 
 **Finish**: Unfortunately short but still sweet
 
+**2 Stars** - **Very good whiskey:** I would want to have a bottle
+
 ## Conclusion
 This whisky is still delightful but it does seem a little simple nowadays. I see why I liked it so much earlier in my whisky journey but it's not really in my top tier anymore. All that said I'd still highly recommend it to folks who prefer lower proof, smooth and sweet whiskies and anyone wanting and easy but delightful intro in Japanese. I'll continue to savor my remaining stock and enjoy the taste alongside the nostalgia.
-
-[**8**](https://atxbourbon.com/tags/8/) - an excellent bottle I'll buy from time to time
-
-#### [Scale](http://atxbourbon.com/Scale/)
-
-You can also follow me on [Instagram(@atxbourbon)](https://www.instagram.com/atxbourbon/) or [reddit](https://www.reddit.com/r/scottmotorraddrinks/) to keep up with these reviews and my other whiskey-centric adventures.

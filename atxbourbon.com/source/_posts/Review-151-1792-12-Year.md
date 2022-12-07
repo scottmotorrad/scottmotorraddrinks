@@ -2,12 +2,9 @@
 title: 'Review #151: 1792 12 Year'
 date: 2019-10-12 12:28:05
 tags:
-- 1792
-- barton
+- barton 1792
 - bourbon
-- kentucky
-- 7
-- 12 year
+- 0 stars
 ---
 
 
@@ -29,6 +26,8 @@ I'm still a fan of 1792 even though my initial 1792 craze has subsided now that 
 
 **Finish**: Dry and oaky finish with mere hints of vanilla.
 
+**0 Stars** - **Fine:** I would not specifically choose to drink this  over other readily available options
+
 ## Conclusion
 
 As expected for the first high age statement product released under the 1792 label this was very oaky. I still enjoyed it and this made me understand why Barton 1792 tends to release younger bourbon. I'm still glad I picked this up but I won't be getting another. There are too many good 1792 Full Proof and Bottled in Bond picks out there to justify hunting this down and if I am going to hunt 1792 I am looking for Sweet Wheat over this guy.
@@ -37,12 +36,3 @@ I'm surprised how well balanced [Cream of Kentucky](https://atxbourbon.com/2019/
 
 **TL;DR:** Oaky but good, [stick with store picks](https://atxbourbon.com/2018/12/19/Reviews-51-53-Oak-Liquor-Cabinet-1792-Picks/) or Sweet Wheat for 1792
 
-[**7**](https://atxbourbon.com/tags/7/) - a great whiskey I'd order at a bar
-
-[**Fair**](https://atxbourbon.com/tags/fair-value/) - Worth the money, happy with my purchase
-
-
-#### [Scale](http://atxbourbon.com/Scale/)
-
-
-You can also follow me on [Instagram(@atxbourbon)](https://www.instagram.com/atxbourbon/) or [reddit](https://www.reddit.com/r/atxbourbon/) to keep up with these reviews and my other whiskey-centric adventures.

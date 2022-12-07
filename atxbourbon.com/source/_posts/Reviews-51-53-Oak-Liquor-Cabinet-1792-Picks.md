@@ -2,10 +2,10 @@
 title: 'Reviews #51-53: Oak Liquor Cabinet 1792 Picks from 2018'
 date: 2018-12-19 00:18:06
 tags:
-- 1792
-- barton
-- oak liquor cabinet
-- single barrel
+- barton 1792
+- bourbon
+- 0 stars
+- 2 stars
 ---
 
 {% asset_img image.jpg "1792 Bourbon"%}
@@ -26,7 +26,7 @@ This week Oak Liquor Cabinet got in the long awaited series of 1792 picks includ
 
 **Finish**: Slightly harsh but decent length with warm spice
 
-[**5**](https://atxbourbon.com/tags/5/) - a whiskey with notable strengths but also held back by some flaws
+**0 Stars** - **Poor to Fine:** I would not specifically choose to drink this  over other readily available options
 
 ### BiB
 **Nose**:  A less distinct nose with a more generic sweetness probably vanilla and caramel notes
@@ -35,7 +35,7 @@ This week Oak Liquor Cabinet got in the long awaited series of 1792 picks includ
 
 **Finish**: Long and warm with a nice spice balanced with some oak
 
-[**8**](https://atxbourbon.com/tags/8/) - an excellent bottle I'll buy from time to time
+**2 Stars** - **Very good whiskey:** I would want to have a bottle
 
 ### FP
 **Nose**: A rich sweet vanilla caramel with a bit of spice
@@ -44,13 +44,9 @@ This week Oak Liquor Cabinet got in the long awaited series of 1792 picks includ
 
 **Finish**: Long and lingering with warm spice and sweet vanilla and a little burn
 
-[**8**](https://atxbourbon.com/tags/8/) - an excellent bottle I'll buy from time to time
+**2 Stars** - **Very good whiskey:** I would want to have a bottle
 
 ## Conclusion
 It was a lot of fun getting to try all three of these side by side and compare with my old write ups on the [Single Barrel](https://atxbourbon.com/2018/09/30/Review-22-1792-Single-Barrel/), [Bottled in Bond](https://atxbourbon.com/2018/10/27/Review-34-1792-Bottled-in-Bond/) and [Full Proof](https://atxbourbon.com/2018/09/24/Review-19-1792-Full-Proof/).
 
 Overall I got a lot of the same notes from these 3 and their regular variants, which doesn't surprise me, but the proportions of those notes, the heat and the mouthfeel are all very different. I personally preferred the BiB which doesn't surprise me since I did this tasting neat. I imagine with a bit of cold water or ice the FP would nudge ahead. The Oak Liquor Cabinet FP is a bit better than the standard, the BiB is a significant step up as is the SiB. I really like the regular FP and BiB but don't particularly care for the regular SiB. This is another great set of picks by Oak Liquor Cabinet.
-
-#### [Scale](http://atxbourbon.com/Scale/)
-
-You can also follow me on [Instagram(@atxbourbon)](https://www.instagram.com/atxbourbon/) or [reddit](https://www.reddit.com/r/scottmotorraddrinks/) to keep up with these reviews and my other whiskey-centric adventures.

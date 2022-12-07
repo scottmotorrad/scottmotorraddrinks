@@ -4,7 +4,6 @@ date: 2020-11-11 00:55:34
 tags:
 - whistle pig
 - rye
-- canada
 - atxbourbon selection
 ---
 

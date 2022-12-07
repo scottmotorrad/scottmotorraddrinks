@@ -2,10 +2,9 @@
 title: 'Review #41: 1792 Ridgemont Reserve'
 date: 2018-11-11 19:44:30
 tags:
-- 1792
-- barton
+- barton 1792
 - bourbon
-- 7
+- 1 star
 ---
 
 {% asset_img image.jpg "1792 Ridgemont Reserve"%}
@@ -33,26 +32,7 @@ Continuing the 1792 lineup with another one of their rarer expressions today is 
 
 **Finish**: The rye is basically gone leaving a sort of generic sweet finish
 
+**1 Star** - **Good whiskey:** I would choose to drink this over readily available whiskies
+
 ## Conclusion
-Another great whiskey from 1792 though this one fell a little short for me compared to the 225th and the Full Proof especially since it held up to ice so poorly. I imagine a 'Full Proof" variant of this would be excellent though. I really enjoyed the strong rye notes on the neat nose and am hoping the High Rye continues to deliver on this front.
-
-**7** - a solid whiskey I'd happily order at bar if they don't have something 8+
-
-## Scale
-My reviews are mostly about taste but occasionally take price into consideration generally dropping a point from whiskies in the 8-9 range that seem significantly more expensive than similar quality bottles.
-
-**10** - a unicorn, I haven't found it yet
-
-**9** - a favorite that I almost always have a bottle of on my shelf
-
-**8** - an excellent bottle I'd be happy to buy
-
-**7** - a solid whiskey I'd happily order at bar if they don't have something 8+
-
-**6** - a decent whiskey that I don't prefer but don't avoid and would be fine having as a mixer or in a pinch somewhere with a poor selection
-
-**5** - I would drink it if offered and I didn't have to pay for it
-
-**4** - Maybe a mixer though I wouldn't want to pay for it
-
-**3 and below** - no thanks 
+Another good whiskey from 1792 though this one fell a little short for me compared to the 225th and the Full Proof especially since it held up to ice so poorly. I imagine a 'Full Proof" variant of this would be excellent though. I really enjoyed the strong rye notes on the neat nose and am hoping the High Rye continues to deliver on this front.
