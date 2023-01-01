@@ -2,7 +2,6 @@
 title: 'Review #226: GlenDronach Single Cask ''The Belter'' GAS Selection'
 date: 2020-04-21 16:23:36
 tags:
-- scotch
 - single malt
 - highland
 - glendronach
