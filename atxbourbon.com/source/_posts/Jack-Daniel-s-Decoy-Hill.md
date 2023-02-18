@@ -3,7 +3,6 @@ title: Jack Daniel's Decoy Hill
 date: 2022-10-29 18:01:36
 tags:
 - jack daniels
-- oak liquor cabinet
 - 2 stars
 ---
 

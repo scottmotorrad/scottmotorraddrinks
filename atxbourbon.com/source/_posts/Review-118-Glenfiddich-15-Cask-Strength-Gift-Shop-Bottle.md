@@ -3,10 +3,7 @@ title: 'Review #118: Glenfiddich 15 Cask Strength Gift Shop Bottle'
 date: 2019-06-05 18:14:17
 tags:
 - glenfiddich
-- 15 year
-- cask strength
-- 9
-- scotch
+- 3 stars
 - speyside
 ---
 
@@ -37,16 +34,4 @@ I loved the mouthfeel and nose on this one and was especially surprised by how e
 
 If anyone can suggest a cask strength Speyside we can get in the States please let me know!
 
-### Quality
-**9** - a favorite I'd like to keep on my shelf
-
-### Value based on what I paid
-**Fair** - Worth the money, happy with my purchase
-
-And a quick shot of me filling the bottle:
-
-{% asset_img image2.jpg "Glenfiddich Gift Shop" %}
-
-You can also follow me on [Instagram(@atxbourbon)](https://www.instagram.com/atxbourbon/) or [reddit](https://www.reddit.com/r/scottmotorraddrinks/) to keep up with these reviews and my other whiskey-centric adventures.
-
-## [Scale](http://atxbourbon.com/Scale/)
+**3 Stars** - **Excellent whiskey:** I would be willing to hunt down a bottle

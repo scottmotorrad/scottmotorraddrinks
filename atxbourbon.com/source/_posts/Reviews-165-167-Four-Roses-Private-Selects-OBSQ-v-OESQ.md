@@ -3,12 +3,9 @@ title: 'Reviews #165-167: Four Roses Private Selects OBSQ v OESQ'
 date: 2019-11-25 15:18:18
 tags:
 - four roses
-- obsq
-- oesq
-- single barrel
-- private select
-- 8
-- 9
+- bourbon
+- 2 stars
+- 3 stars
 ---
 
 Today I am kicking off a series on Four Roses that will span ~20 Private Selects, multiple Limited Editions and some of their regular offerings. I'm starting with a blind tasting of 3 Q yeast strains bottles a Binny's OESQ, The Wine and Cheese Place OESQ and the OBSQ from Longhorn Liquor that you may recognize from the [review collaboration between u/prepreludesh and myself](https://www.reddit.com/r/bourbon/comments/dwdwuy/a_joint_collaboration_review_four_roses_private/) a couple weeks ago. 
@@ -29,7 +26,7 @@ For this tasting I did a [blind tasting video](https://www.instagram.com/tv/B5TZ
 
 **Finish**: Long and warm with lingering rye spice and vanilla notes.
 
-[**8**](https://atxbourbon.com/tags/8/) - an excellent bottle I'd like to have at home
+**2 Stars** - **Very good whiskey:** I would want to have a bottle
 
 ## Four Roses OESQ Binny's Pick
 **Age**: 10 years 1 month
@@ -43,7 +40,7 @@ For this tasting I did a [blind tasting video](https://www.instagram.com/tv/B5TZ
 
 **Finish**: Medium length with a lingering rye spice, some black pepper, oak and a faint sweetness.
 
-[**9**](https://atxbourbon.com/tags/9/) - a favorite I always try to keep on my shelf
+**3 Stars** - **Excellent whiskey:** I would be willing to hunt down a bottle
 
 ## Four Roses OBSQ Longhorn Liquor Pick
 **Age**: 11 years
@@ -57,7 +54,7 @@ For this tasting I did a [blind tasting video](https://www.instagram.com/tv/B5TZ
 
 **Finish**: Very long and slightly dry with floral, anise and mildly tannic oak notes balanced with a touch of spice.
 
-[**9**](https://atxbourbon.com/tags/9/) - a favorite I always try to keep on my shelf
+**3 Stars** - **Excellent whiskey:** I would be willing to hunt down a bottle
 
 ## Conclusion
 
@@ -66,8 +63,4 @@ All 3 of those picks were great and I'd happily buy a bottle of any of the 3 at 
 I'll be doing blinds across the various yeast strains for each mashbill as well and am open to other suggestions on how to group these. I do like this 'odd man out' style tasting trying to pick out the different recipe and will definitely be doing more of them.
 
 **TL;DR:** Four Roses Private Selects are good, 10+ years is the sweet spot.
-
-#### [Scale](http://atxbourbon.com/Scale/)
-
-You can also follow me on [Instagram(@atxbourbon)](https://www.instagram.com/atxbourbon/) or [reddit](https://www.reddit.com/r/atxbourbon/) to keep up with these reviews and my other whiskey-centric adventures.
 

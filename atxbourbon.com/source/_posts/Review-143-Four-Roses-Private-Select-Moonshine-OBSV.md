@@ -4,12 +4,8 @@ date: 2019-09-15 01:20:58
 tags:
 - bourbon
 - four roses
-- single barrel
 - moonshine
-- 9
-- obqv
-- private select
-- cask strength
+- 3 stars
 ---
 
 My first whiskey review was a little bit over 1 year ago and I was reviewing the bourbon that was sort of the inflection point on my journey from mostly drinking scotch and craft beer to primarily drinking bourbon. That bourbon was a Four Roses Private Select from Oak Liquor Cabinet here in Austin so to commemorate 1 year to date of posting photos and rambling reviews of bourbon on Reddit, Instagram and a hastily thrown together website I'll be reviewing my favorite Four Roses Private Select so far the Moonshine 2nd Edition 12 year old OBSV. 
@@ -60,12 +56,7 @@ Also somewhat amusingly this barrel was barreled a few months before I started d
 
 **TL;DR:** Great pick, glad I got to bring 2 home, still worth it after the price increase
 
+**3 Stars** - **Excellent whiskey:** I would be willing to hunt down a bottle
+
 I picked today for this post because it the anniversary of my first post on Instagram which came about a month after atxbouron which was in turn about a month behind getting started reviewing here on Reddit. I've had a great time talking about bourbon with all you folks and hope to keep it up for the foreseeable future. I like to think my tasting palate, photography and writing have improved noticeably over the last year and I definitely credit doing these reviews for that.
 
-[**9**](https://atxbourbon.com/tags/9/) - a favorite I'd like to keep on my shelf
-
-[**Fair**](https://atxbourbon.com/tags/fair-value/) - Worth the money, happy with my purchase
-
-#### [Scale](http://atxbourbon.com/Scale/)
-
-You can also follow me on [Instagram(@atxbourbon)](https://www.instagram.com/atxbourbon/) or [reddit](https://www.reddit.com/r/scottmotorraddrinks/) to keep up with these reviews and my other whiskey-centric adventures.

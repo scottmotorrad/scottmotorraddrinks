@@ -3,8 +3,8 @@ title: Four Roses Single Barrel
 date: 2021-04-28 00:48:38
 tags:
 - four roses
-- obsv
 - bourbon
+- 1 star
 ---
 
 In the precovid times one of the last non work trips I went on was to Charleston South Carolina where I picked up a Four Roses I hadn't seen before: a pick that wasn't barrel strength. I've been meaning to blind it against an off the shelf Four Roses Single Barrel for quite some time and today is the day! I tasted these blind and then sat down to write more detailed tasting notes. 
@@ -58,10 +58,4 @@ I think Four Roses Single Barrel is an good whiskey and better than most shelf o
 &nbsp;
 
 **TL;DR:** The pick was slightly better, both great shelf bottles but not worth hunting/hoarding
-
-#### [Scale](http://atxbourbon.com/Scale/)
-
-&nbsp;
-
-You can also follow me on [Instagram(@atxbourbon)](https://www.instagram.com/atxbourbon/) for more whiskey content!
 

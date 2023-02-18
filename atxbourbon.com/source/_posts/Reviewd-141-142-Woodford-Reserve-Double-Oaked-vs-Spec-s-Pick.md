@@ -2,7 +2,7 @@
 title: 'Reviews #141-142: Woodford Reserve Double Oaked vs Spec''s Pick'
 date: 2019-09-07 18:06:22
 tags:
-- woodford
+- woodford reserve
 - bourbon
 - kentucky
 - 7

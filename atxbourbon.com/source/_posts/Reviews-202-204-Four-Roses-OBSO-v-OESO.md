@@ -3,13 +3,7 @@ title: 'Reviews #202-204: Four Roses OBSO v OESO'
 date: 2020-01-21 14:13:23
 tags:
 - four roses
-- obso
-- oeso
-- single barrel
-- private select
-- 8
-- 9
-- kentucky
+- 3 stars
 - bourbon
 ---
 
@@ -35,7 +29,7 @@ For this tasting I did another [blind tasting video](https://www.instagram.com/t
 
 **Ranking**: #1
 
-[**9**](https://atxbourbon.com/tags/9/) - a favorite I always try to keep on my shelf
+**3 Stars** - **Excellent whiskey:** I would be willing to hunt down a bottle
 
 ## Four Roses OESO Crown Liquors "Betsy"
 **Age**: 11 years 9 months
@@ -51,7 +45,7 @@ For this tasting I did another [blind tasting video](https://www.instagram.com/t
 
 **Ranking**: #2
 
-[**9**](https://atxbourbon.com/tags/9/) - a favorite I always try to keep on my shelf
+**3 Stars** - **Excellent whiskey:** I would be willing to hunt down a bottle
 
 ## Four Roses OBSO Crown Liquors
 **Age**: 10 years 11 months
@@ -67,7 +61,7 @@ For this tasting I did another [blind tasting video](https://www.instagram.com/t
 
 **Ranking**: #3
 
-[**8**](https://atxbourbon.com/tags/8/) - an excellent bottle I'd like to have at home
+**3 Stars** - **Excellent whiskey:** I would be willing to hunt down a bottle
 
 ## Conclusion
 
@@ -78,9 +72,5 @@ The O yeast strain did not disappoint and I am actively hunting down some replac
 **TL;DR:** I'm a big fan of the O yeast strain.
 
 Next up is a blind on 3 Small Batch Limited Editions and then the grand finale!
-
-#### [Scale](https://www.reddit.com/r/atxbourbon/comments/c9zarn/updated_review_scale/)
-
-You can also follow me on [Instagram(@atxbourbon)](https://www.instagram.com/atxbourbon/) or [reddit](https://www.reddit.com/r/atxbourbon/) to keep up with these reviews and my other whiskey-centric adventures.
 
 

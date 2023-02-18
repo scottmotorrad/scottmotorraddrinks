@@ -3,9 +3,8 @@ title: Parker's Heritage Orange Curacao Finish
 date: 2021-06-05 01:39:20
 tags:
 - heaven hill
-- finished
-- parkers heritage
 - bourbon
+- 2 stars
 ---
 
 I first had Paker's Heritage Orange Curacao Finish at drink.well here in Austin and immediately enjoyed it. It was almost like a cocktail that was heavy on the bourbon and easy on the sugar which is very much to my taste. But by then it was too late to get a bottle from a store so I contented myself to slowly killing the bottle there. Of course COVID happened and this dram slipped my mind but when drink.well reopened my wife and I each had a pour to cap off the evening which reignited my desire to get a bottle. Fortuitously when I was in Kentucky for a barrel pick this April I was able to grab a bottle from the distillery gift shop.
@@ -37,11 +36,4 @@ I will definitely be trying to replace this bottle when it's gone and I hope we 
 
 **TL;DR:** The orange curaco finish probably isn't for everyone but it was for me.
 
-**3 Stars** - **Excellent whiskey:** I would be willing to hunt down a bottle
-
-#### [Scale](http://atxbourbon.com/Scale/)
-
-&nbsp;
-
-You can also follow me on [Instagram(@atxbourbon)](https://www.instagram.com/atxbourbon/) for more whiskey content!
-
+**2 Stars** - **Very good whiskey:** I would want to have a bottle

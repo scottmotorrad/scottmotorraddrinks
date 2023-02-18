@@ -4,9 +4,8 @@ date: 2020-04-30 15:11:40
 tags:
 - doc swinsons
 - kentucky
-- 15 year
 - bourbon
-- 9
+- 4 stars
 ---
 
 Doc Swinson’s is a distillery out of Washington who is sourcing barrels, batching and occasionally finishing them. The 6th release from their Exploratory Cask Series hit Austin this week and I honestly hadn't heard much about them before then. I was skeptical at first given the unknown source and high price tag but the 15 year age statement, Kentucky source, proof and lack of chill filtration convinced me to give it a go. Let's see if it was worth it.
@@ -38,14 +37,6 @@ All that said it’s hard to recommend such an expensive bottle without any cave
 
 &nbsp;
 
-**TL;DR:** Great whiskey, tough price point, glad I bought one, wouldn't hunt/overpay
+**TL;DR:** Great whiskey, tough price point, glad I bought a backup, wouldn't overpay
 
-[**9**](https://atxbourbon.com/tags/9/) - a favorite I always try to keep on my shelf
-
-[**Fair**](https://atxbourbon.com/tags/fair-value/) - Worth the money, happy with my purchase
-
-#### [Scale](http://atxbourbon.com/Scale/)
-
-&nbsp;
-
-You can also follow me on [Instagram(@atxbourbon)](https://www.instagram.com/atxbourbon/) or [reddit](https://www.reddit.com/r/atxbourbon/) to keep up with these reviews and my other whiskey-centric adventures.
+**3 Stars** - **Excellent whiskey:** I would be willing to hunt down a bottle

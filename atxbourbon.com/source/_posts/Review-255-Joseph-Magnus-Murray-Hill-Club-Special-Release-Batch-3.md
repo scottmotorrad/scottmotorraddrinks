@@ -5,8 +5,6 @@ tags:
 - bourbon
 - mgp
 - joseph magnus
-- finished
-- cider finish
 - 8
 ---
 

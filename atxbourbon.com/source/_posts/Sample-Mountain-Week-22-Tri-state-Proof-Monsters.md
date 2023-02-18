@@ -6,7 +6,6 @@ tags:
 - sample mountain
 - bourbon
 - heaven hill
-- parkers heritage
 - garrison brothers
 - texas
 ---

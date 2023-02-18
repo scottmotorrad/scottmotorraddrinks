@@ -7,11 +7,7 @@ tags:
 - 9
 - 8
 - joseph magnus
-- single barrel
-- store pick
-- oak liquor cabinet
-- bourbon cartel
-- bourbon enthusiast
+
 ---
 I got into MGP single barrel bourbons right around the worst possible time as Smooth Ambler was skyrocketing in price, Blaum Bros OFK and Boone County single barrels were getting hard to come by and OKI was being discontinued. Thankfully I learned about Joseph Magnus single barrels in time to pick up a few of the [Oak Liquor Cabinet Batch 2](https://atxbourbon.com/2019/03/22/Review-95-Joseph-Magnus-Oak-Liquor-Cabinet-Pick-2019/) earlier this year, I had passed on the first pick given the price and since I didn't know what it was. So now it's the end of the year and I've got my hands on 3 great Magnus picks and it felt like a side by side was in order.
 

@@ -2,11 +2,9 @@
 title: 'Tasting Notes: Larceny Single Barrel Oak Liquor Cabinet Pick'
 date: 2020-02-03 23:07:17
 tags:
-- wheater
 - kentucky
 - bourbon
 - heaven hill
-- oak liquor cabinet
 - atxbourbon selection
 ---
 

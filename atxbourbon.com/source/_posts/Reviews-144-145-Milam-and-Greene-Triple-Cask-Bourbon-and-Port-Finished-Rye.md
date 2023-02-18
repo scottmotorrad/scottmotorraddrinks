@@ -7,8 +7,6 @@ tags:
 - bourbon
 - rye
 - mgp
-- 6
-- 5
 ---
 
 I was invited the Milam & Greene launch event this week and it was a lot of fun with whiskey, cocktails, charcuterie, a grilled cheese truck and even fireworks. That said I was there for the whiskey so let’s get straight to it! Milam & Greene launched their Triple Cask Bourbon and Port Finished Rye this and I was able to drink them both there and take home a few samples.

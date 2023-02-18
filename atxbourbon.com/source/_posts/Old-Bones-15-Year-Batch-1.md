@@ -2,8 +2,9 @@
 title: Old Bones 15 Year Batch 1
 date: 2022-06-11 23:44:12
 tags:
-- old bones
+- backbone
 - bourbon
+- 3 stars
 ---
 When another mystery 15 year old dropped and local shop ask if I wanted one my tater self couldn't resist. So here we with the Old Bones 15 Year Reserve. This is from an unnamed distiller in Frankfurt, Kentucky(most likely Beam) unlike most of Old Bones line which if from MGP.
 

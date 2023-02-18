@@ -5,10 +5,7 @@ tags:
 - heaven hill
 - bourbon
 - kentucky
-- sherry finish
-- finished
-- 9
-- 19 year
+- 3 stars
 ---
 
 Onward to part 22 of the finished whiskey series with a pretty unusual bottle of Heaven Hill bourbon finished in sherry casks by a German independent bottler who mainly deals in scotch. This is a unique bottle I first came across thanks to [u/northernbourbonite](https://www.reddit.com/user/NorthernBourbonite) and as a fan of both Heaven Hill and finished bourbon I had to have it. Unfortunately we don't know how long this bottle was aged in the original casks vs the sherry butt or how long it spent in the States vs Europe.
@@ -41,13 +38,4 @@ I am definitely going to try and import a few more of the Heaven Hill bourbons t
 
 **TL;DR:**: Classic well aged Heaven Hill meets sherry, goodness ensues.
 
-
-[**9**](https://atxbourbon.com/tags/9/) - a favorite I always try to keep on my shelf
-
-[**Fair**](https://atxbourbon.com/tags/fair-value/) - Worth the money, happy with my purchase
-
-#### [Scale](http://atxbourbon.com/Scale/)
-
-&nbsp;
-
-You can also follow me on [Instagram(@atxbourbon)](https://www.instagram.com/atxbourbon/) or [reddit](https://www.reddit.com/r/atxbourbon/) to keep up with these reviews and my other whiskey-centric adventures.
+**3 Stars** - **Excellent whiskey:** I would be willing to hunt down a bottle

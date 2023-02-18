@@ -3,13 +3,9 @@ title: 'Reviews #175-177: Four Roses Private Selects OBSV v OESV'
 date: 2019-12-19 10:02:49
 tags:
 - four roses
-- obsk
-- oesk
-- single barrel
-- private select
-- 7
-- 9
-- 9
+- 2 stars
+- 3 stars
+- 3 stars
 ---
 
 This is the third yeast strain tasting in my Four Roses series with a blind tasting of the V yeast strain. I have 3 picks ranging from 9 to 10 years and from 103 to 117 proof. Only 1 bottle is from Texas again with the other coming from Kentucky and the sample from Chicago. V is the most common yeast strain and is the yeast they use for their Single Barrel. I had a bottle of the single barrel and pick of the single barrel(not a Private Select) but I will be saving those alongside with the Moonshine pick for a larger OBSV tasting later in the series.
@@ -32,7 +28,7 @@ For this tasting I did another [blind tasting video](https://www.instagram.com/t
 
 **Ranking**: #3
 
-[**7**](https://atxbourbon.com/tags/7/) - a great whiskey I'd order at a bar
+**2 Stars** - **Very good whiskey:** I would want to have a bottle
 
 ## Four Roses OESV Binny's Pick 
 **Age**: 10 years 7 days
@@ -48,7 +44,7 @@ For this tasting I did another [blind tasting video](https://www.instagram.com/t
 
 **Ranking**: #1
 
-[**9**](https://atxbourbon.com/tags/9/) - a favorite I always try to keep on my shelf
+**3 Stars** - **Excellent whiskey:** I would be willing to hunt down a bottle
 
 ## Four Roses OBSV Liquor Barn
 **Age**: 9 years 7 months
@@ -64,7 +60,7 @@ For this tasting I did another [blind tasting video](https://www.instagram.com/t
 
 **Ranking**: #2
 
-[**9**](https://atxbourbon.com/tags/9/) - a favorite I always try to keep on my shelf
+**3 Stars** - **Excellent whiskey:** I would be willing to hunt down a bottle
 
 ## Conclusion
 
@@ -78,8 +74,5 @@ Next up is the F yeast strain next week! It's supposed to be minty or herbal so 
 
 **TL;DR:** V is the most popular yeast strain for good reason, 10+ years is again, still the sweet spot.
 
-#### [Scale](http://atxbourbon.com/Scale/)
-
-You can also follow me on [Instagram(@atxbourbon)](https://www.instagram.com/atxbourbon/) or [reddit](https://www.reddit.com/r/atxbourbon/) to keep up with these reviews and my other whiskey-centric adventures.
 
 

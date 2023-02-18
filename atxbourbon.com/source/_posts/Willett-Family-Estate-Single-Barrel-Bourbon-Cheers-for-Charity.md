@@ -5,7 +5,7 @@ tags:
 - willett
 - bourbon
 - kentucky
-- bourbon charity
+- 3 stars
 ---
 
 Picking up where I left off with the Bob's Cipher pick next up for Willett is the Bourbon Charity "Cheers for Charity" Single Barrel. This barrel is Willett's [High Corn Mashbill](http://bourbonr.com/blog/willett-distillery-mash-bill-breakdown/) and was sold to raise money for Kids for Kids

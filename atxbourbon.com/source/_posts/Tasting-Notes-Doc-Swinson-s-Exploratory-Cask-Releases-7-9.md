@@ -5,7 +5,6 @@ tags:
 - kentucky
 - doc swinsons
 - bourbon
-- 15 year
 ---
 
 The folks from Doc Swinson’s generously sent me a sample kit with 3 of their new 15 year bourbon releases and their new rye. I couldn't wait to crack into the bourbons and the rye was proofed down to 90 so I haven't sampled it yet. I was a big fan of [their previous 15 year Kentucky Straight Bourbon](https://atxbourbon.com/2020/04/30/Review-229-Doc-Swinson-s-15-Year/) so I went into this with high hopes. Since I got these samples for free I won't be assigning a score.

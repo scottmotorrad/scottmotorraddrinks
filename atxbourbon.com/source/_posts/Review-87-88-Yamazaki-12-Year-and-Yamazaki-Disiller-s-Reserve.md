@@ -4,8 +4,8 @@ date: 2019-03-08 18:27:49
 tags:
 - japan
 - single malt
-- 7
-- 12 year
+- 2 stars
+- 1 star
 ---
 
 I got into Japanese whisky at exactly the wrong time: just early enough to come to love it at the pre-craze prices but just late enough to not have stocked up or tried the really good stuff. For example the day Suntory announced that [Hakushu 12](https://atxbourbon.com/2018/10/03/Review-24-Hakushu-12/) was being discontinued I was able to buy out the remaining stock at a local shop but I'd not had the chance to try any of their older expressions.
@@ -58,32 +58,7 @@ These were both very good whiskies but the Yamazaki 12 got downgraded from 8 due
 As an aside, I've been comparing mouthfeels of single malts vs bourbons lately and these are both better than Buffalo Trace or Eagle Rare (the closest proof bourbons I had on hand)
 
 ### Yamazaki 12 Year
-**7** - a solid whiskey I'd happily order at bar if they don't have something 8+
+**2 Stars** - **Very good whiskey:** I would want to have a bottle
 
 ### Yamazaki Distiller's Reserve
-**7** - a solid whiskey I'd happily order at bar if they don't have something 8+
-
-You can also follow me on [Instagram(@atxbourbon)](https://www.instagram.com/atxbourbon/) or [reddit](https://www.reddit.com/r/scottmotorraddrinks/) to keep up with these reviews and my other whiskey-centric adventures.
-
-## Scale
-My reviews are mostly about taste but occasionally take price into consideration generally dropping a point from whiskies in the 8-9 range that seem significantly more expensive than similar quality bottles.
-
-**10** - an all time favorite, must buy/hunt
-
-**9** - a favorite that I almost always have a bottle of on my shelf
-
-**8** - an excellent bottle I'd be happy to buy
-
-**7** - a solid whiskey I'd happily order at bar if they don't have something 8+
-
-**6** - a decent whiskey that I don't prefer but don't avoid and would be fine having as a mixer or in a pinch somewhere with a poor selection
-
-**5** - I would drink it if offered and I didn't have to pay for it
-
-**4** - Fine as a mixer, bring on the Coke Zero
-
-**3** - Maybe a mixer if I'm in  pinch
-
-**2** - no thanks
-
-**1** - pouring out the bottle  
+**1 Star** - **Good whiskey:** I would choose to drink this over readily available whiskies

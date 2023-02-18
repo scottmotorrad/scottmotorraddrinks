@@ -2,7 +2,6 @@
 title: 'Review #253: Michter''s US1 Unblended American Whiskey'
 date: 2020-08-02 01:52:48
 tags:
-- american whiskey
 - michters
 - 0 stars
 ---

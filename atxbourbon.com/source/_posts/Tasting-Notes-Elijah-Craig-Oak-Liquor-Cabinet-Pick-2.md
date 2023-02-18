@@ -3,7 +3,6 @@ title: 'Tasting Notes: Elijah Craig Oak Liquor Cabinet Pick #2'
 date: 2020-08-09 01:01:23
 tags:
 - heaven hill
-- oak liquor cabinet
 - bourbon
 - atxbourbon selection
 ---

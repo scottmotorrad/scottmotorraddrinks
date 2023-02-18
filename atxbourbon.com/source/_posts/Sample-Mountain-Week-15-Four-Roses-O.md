@@ -4,8 +4,6 @@ date: 2021-04-18 13:13:41
 tags:
 - sample mountain
 - four roses
-- obso
-- oeso
 ---
 
 Week 15 of Sample Mountain is Four Roses O week with 3 samples of O yeast strain recipes 2 OESO and 1 OBSO. Unfortunately on one of the samples I wasn't able to find out where it was from or what the proof was. Going in I expect to like all of these as I tend to be a Four Roses fan and particularly like the O yeast.
