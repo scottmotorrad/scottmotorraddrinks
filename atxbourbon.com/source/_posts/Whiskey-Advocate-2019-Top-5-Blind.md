@@ -3,7 +3,6 @@ title: Whiskey Advocate 2019 Top 5 Blind
 date: 2019-12-08 17:04:21
 tags:
 - whiskey advocate top 20
-- whiskey advocate top 20 2019
 ---
 
 [Whiskey Advocate made some waves with this year's Top 20](http://whiskyadvocate.com/top20/). It featured 7 bourbons with 5 of them placing the top 10 and 3 in the top 5 but most of all it was the choice of George Dickel Bottled in Bond as the number 1 whiskey of the year that ruffled so many internet feathers. 

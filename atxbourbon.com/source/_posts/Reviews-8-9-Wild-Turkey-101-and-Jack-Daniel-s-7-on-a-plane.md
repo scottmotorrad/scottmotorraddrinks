@@ -3,7 +3,6 @@ title: 'Reviews #8 & #9: Wild Turkey 101 and Jack Daniel''s #7 on a plane'
 date: 2018-09-01 12:30:55
 tags: 
 - bourbon 
-- humor
 ---
 
 {% asset_img image.jpg "whiskey on a plane"%}

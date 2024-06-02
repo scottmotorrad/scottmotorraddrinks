@@ -5,9 +5,6 @@ tags:
 - wild turkey
 - kentucky
 - bourbon
-- cask strength
-- single barrel
-- dusty
 - 9
 ---
 

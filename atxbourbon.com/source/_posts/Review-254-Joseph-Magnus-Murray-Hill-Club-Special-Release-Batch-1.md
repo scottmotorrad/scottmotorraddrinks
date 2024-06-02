@@ -5,8 +5,6 @@ tags:
 - bourbon
 - mgp
 - joseph magnus
-- finished
-- pineau des charentes finish
 - 9
 ---
 

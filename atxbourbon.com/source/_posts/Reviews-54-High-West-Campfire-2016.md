@@ -3,10 +3,8 @@ title: 'Reviews #54: High West Campfire 2016'
 date: 2018-12-20 00:28:45
 tags:
 - high west
-- blend
 - 0 stars
-- whiskey advocate top 20 
-- whiskey advocate top 20 2017
+- whiskey advocate top 20
 ---
 
 {% asset_img image.jpg "Campfire"%}

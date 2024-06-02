@@ -3,7 +3,6 @@ title: Willett Blend of Straight Whiskies
 date: 2022-04-25 21:18:32
 tags:
 - willett
-- blend
 - 3 stars
 ---
 

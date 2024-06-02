@@ -4,10 +4,6 @@ date: 2018-08-07 19:22:48
 tags: 
 - bourbon
 - four roses
-- single barrel
-- private select
-- obsq
-- oak liquor cabinet
 - 9
 ---
 

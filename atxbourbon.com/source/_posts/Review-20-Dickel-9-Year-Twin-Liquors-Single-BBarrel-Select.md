@@ -4,7 +4,6 @@ date: 2018-09-26 01:24:52
 tags:
 - dickel
 - twin liquors
-- single barrel
 - bourbon
 - 7
 ---

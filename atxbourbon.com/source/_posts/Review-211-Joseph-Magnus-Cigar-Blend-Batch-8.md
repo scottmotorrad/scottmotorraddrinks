@@ -3,13 +3,9 @@ title: 'Review #211: Joseph Magnus Cigar Blend Batch 8'
 date: 2020-02-20 16:21:27
 tags:
 - bourbon
-- armagnac finish
-- cigar blend
 - joseph magnus
 - mgp
-- 8
-- finished
-- indiana
+- 2 stars
 ---
 
 Part 3 of the finished whiskey series takes us to my current favorite line of finished whiskey: [Joseph Magnus Cigar Blend](https://atxbourbon.com/2019/10/06/Review-150-Joseph-Magnus-Cigar-Blend-Batch-12/). I know u/prepreludesh would be disappointed if I didn't have a Cigar Blend early on in this series (and maybe one or two more later on) so here we are with the oldest batch I have #8.
@@ -34,6 +30,8 @@ Cigar Blend is a blend of middling to old MGP bourbon, including some that is fi
 
 **Finish**: Extremely long slightly dry finish with warm spices, sweet vanilla and faint leather and oak 
 
+**Stars**: **2** - **Very good whiskey:** I would want to have a bottle
+
 ### With a Cigar
 
 **Cigar**: Alec Bradley Magic Toast
@@ -53,13 +51,3 @@ This wasn't my favorite batch of Cigar Blend but it was still excellent and very
 
 **TL;DR:** Weakest Cigar Blend of the batches I have, still fantastic. One of the longest finishes I've had on a bourbon.
 
-
-[**8**](https://atxbourbon.com/tags/8/) - an excellent bottle I'd like to have at home
-
-[**Poor**](https://atxbourbon.com/tags/poor-value/) - Overpriced, not worth the money
-
-&nbsp;
-
-#### [Scale](http://atxbourbon.com/Scale/)
-
-You can also follow me on [Instagram(@atxbourbon)](https://www.instagram.com/atxbourbon/) or [reddit](https://www.reddit.com/r/atxbourbon/) to keep up with these reviews and my other whiskey-centric adventures.

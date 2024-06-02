@@ -2,6 +2,9 @@
 title: 'Hardin''s Creek: Jacob''s Well'
 date: 2022-09-17 11:37:51
 tags:
+- jim beam
+- 3 stars
+- bourbon
 ---
 
 It’s been a while since the days of readily available 15 year Knob Creek picks so I was very excited to see Beam releasing a new extra aged bourbon. I was lucky enough to grab a bottle yesterday and got into it as soon as I was off work.

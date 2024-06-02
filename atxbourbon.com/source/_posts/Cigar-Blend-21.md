@@ -2,7 +2,7 @@
 title: Cigar Blend 21
 date: 2022-06-11 23:30:03
 tags:
-- cigar blend
+- 3 stars
 - joseph magnus
 - bourbon
 ---

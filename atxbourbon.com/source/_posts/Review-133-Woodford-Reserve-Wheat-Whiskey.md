@@ -2,7 +2,6 @@
 title: 'Review #133: Woodford Reserve Wheat Whiskey'
 date: 2019-08-10 06:12:21
 tags:
-- brown-forman
 - woodford reserve
 - wheat whiskey
 - 0 stars

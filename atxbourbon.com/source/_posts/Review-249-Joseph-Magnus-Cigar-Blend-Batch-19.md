@@ -2,13 +2,10 @@
 title: 'Review #249: Joseph Magnus Cigar Blend Batch 19'
 date: 2020-07-18 12:43:13
 tags:
-- cigar blend
 - 4 stars
 - mgp
 - joseph magnus
 - bourbon
-- finished
-- armagnac finish
 ---
 
 For part 20 of my finished whiskey series we're back to [Joseph Magnus Cigar Blend!](https://atxbourbon.com/tags/cigar-blend/) This spring Magnus released 4 new batches from the same bourbon blend with each batch being finished in a different Armagnac cask. With the next release coming up soon it's time to review the current ones starting with batch 19!

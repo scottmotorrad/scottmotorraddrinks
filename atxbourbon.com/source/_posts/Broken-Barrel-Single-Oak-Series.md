@@ -3,9 +3,6 @@ title: Broken Barrel Single Oak Series
 date: 2020-03-28 15:33:49
 tags:
 - broken barrel
-- finished
-- mizunara
-- whiskey
 - bourbon
 ---
 

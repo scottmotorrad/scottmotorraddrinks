@@ -2,8 +2,6 @@
 title: 'Review #243: Uncle Nearest 1856'
 date: 2020-06-19 11:44:59
 tags:
-- whiskey
-- tennessee
 - 0 stars
 ---
 

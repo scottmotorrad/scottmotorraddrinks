@@ -4,7 +4,6 @@ date: 2019-09-07 18:06:22
 tags:
 - woodford reserve
 - bourbon
-- kentucky
 - 7
 ---
 

@@ -3,6 +3,8 @@ title: The Prideful Goat
 date: 2021-11-08 00:27:30
 tags:
 - bourbon
+- 2 stars
+- 3 stars
 ---
 
 Gulf Coast Distillers opened up down in Houston a few years ago and more recently released 3 batches of 15 year old Kentucky Straight Bourbon Whiskey with the mystery 78.5/12/8.5 mashbill that so many 15 years have been lately. I believe the first batch was either distillery or Houston only but batches 2 and 3 hit Austin so naturally I grabbed a few bottles.
@@ -45,15 +47,8 @@ Gulf Coast Distillers opened up down in Houston a few years ago and more recentl
 
 ## Conclusion
 
-These two batches definitely hit different ends of the old Beam spectrum. Batch 2 is all wood and nuts while Batch 3 is more leather and spice. When I tried them individually I thought it would be really close but side by side the B3 was my winner. No losers here though! Both batches were very tasty and I am looking forward to the rye they are releasing soon.
+These two batches definitely hit different ends of the old Kentucky bourbon spectrum. Batch 2 is all wood and nuts while Batch 3 is more leather and spice. When I tried them individually I thought it would be really close but side by side the B3 was my winner. No losers here though! Both batches were very tasty and I am looking forward to the rye they are releasing soon.
 
 &nbsp;
 
 **TL;DR:** Both goats are great older bourbons but Batch 3 was my winner.
-
-#### [Scale](http://atxbourbon.com/Scale/)
-
-&nbsp;
-
-You can also follow me on [Instagram(@atxbourbon)](https://www.instagram.com/atxbourbon/) for more whiskey content!
-

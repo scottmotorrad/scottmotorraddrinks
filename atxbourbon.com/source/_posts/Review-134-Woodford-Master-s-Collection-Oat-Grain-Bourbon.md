@@ -3,7 +3,6 @@ title: 'Review #134: Woodford Master''s Collection Oat Grain Bourbon'
 date: 2019-08-12 00:31:23
 tags:
 - woodford reserve
-- bourbon
 - 0 stars
 ---
 

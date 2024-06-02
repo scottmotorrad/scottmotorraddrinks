@@ -4,7 +4,6 @@ date: 2019-02-10 16:26:40
 tags:
 - bourbon
 - mgp
-- blend
 - joseph magnus
 - 7
 - 9

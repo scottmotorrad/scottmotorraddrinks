@@ -2,9 +2,9 @@
 title: Cigar Blend 47
 date: 2022-04-16 13:38:21
 tags:
-- mgp
-- cigar blend
+- bourbon
 - joseph magnus
+- 4 stars
 ---
 
 I don't drink my Cigar Blend bottles as much as I used to but they are still some of my favorites. This batch in particular stood out to me in 2021 and it's getting low so it's time for a quick review and bottle kill.

@@ -2,7 +2,7 @@
 title: 'Review #140: Woodford Reserve Kentucky Straight Rye'
 date: 2019-08-31 11:49:20
 tags:
-- brown-forman
+- woodford reserve
 - rye
 - 0 stars
 ---

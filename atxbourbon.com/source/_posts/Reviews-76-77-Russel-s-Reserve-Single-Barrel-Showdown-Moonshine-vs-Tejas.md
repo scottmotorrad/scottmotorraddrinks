@@ -2,7 +2,6 @@
 title: 'Reviews #76-77: Russell''s Reserve Single Barrel Showdown: Moonshine vs Tejas'
 date: 2019-02-19 23:20:09
 tags:
-- tejas liquor
 - moonshine
 - wild turkey
 - bourbon

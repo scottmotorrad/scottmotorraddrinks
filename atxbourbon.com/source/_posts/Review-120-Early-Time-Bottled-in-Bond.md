@@ -2,11 +2,8 @@
 title: 'Review #120: Early Times Bottled in Bond'
 date: 2019-06-17 16:59:49
 tags:
-- bottled in bond
 - 0 stars
-- brown-forman
 - bourbon
-- kentucky
 ---
 
 Early Times is a Brown-Forman brand that really leans in on the patriotism and early American distilling angle. It was also cheap, bottled in bond and generating some hype online so I picked up a bottle alongside the [Dickel BiB](https://atxbourbon.com/2019/06/13/Review-119-George-Dickel-Bottled-in-Bond-Fall-2005/) last week. So we're going to keep the affordable Bottled in Bond drinkers reviews rolling!
@@ -34,7 +31,7 @@ This whiskey was fine, the proof and mouthfeel were nice, the classic caramel an
 
 All that said, if you're looking for decent, cheap drinker with some classic notes and extra kick this will do. It's about the same price as [Evan Williams Bottled in Bond](https://atxbourbon.com/2019/01/30/Review-66-Evan-Williams-Bottled-in-Bond/) and a little better in my opinion but when I wanted ~100 proof on a budget I'd spring the couple extra buck for Wild Turkey 101.
 
-**TL;DR:** Nothing special, good price. I prefer it to EW BiB.
+**TL;DR:** Nothing special, good price. I prefer it to EW BiB. Benchmark BiB is better though.
 
 **0 Stars** - **Poor to Fine:** I would not specifically choose to drink this
 

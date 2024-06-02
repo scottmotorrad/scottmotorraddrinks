@@ -3,8 +3,8 @@ title: 'Review #246: Eage Rare Tejas Single Barrel Select'
 date: 2021-01-24 00:58:21
 tags:
 - buffalo trace
-- tejas
 - 1 star
+- bourbon
 ---
 
 Something like 12 Eagle Rare picks hit Austin last year and I managed to snag most of them. We also did a big Eagle Rare blind bracket with the Austin Dead Liver Society that I've been meaning to write about. In the meantime here is one of the many tasty picks.

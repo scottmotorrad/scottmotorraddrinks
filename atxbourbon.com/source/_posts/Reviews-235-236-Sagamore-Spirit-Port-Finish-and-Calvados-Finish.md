@@ -7,9 +7,6 @@ tags:
 - sagamore spirit
 - indiana
 - 6
-- port finish
-- calvados finish
-- finished
 ---
 
 Part 17 of the finished whiskey series takes a look at all 3 finished offerings from Sagamore Spirit out of Maryland. They are a relatively new player out of Maryland who are taking the well worn path of sourcing MGP while their own distillate ages. They do stand out a bit by producing some interesting blends between different rye mashbills and each year for 3 running they have released a finished expression. I'd been sleeping on this year's release the Calvados Finish so far but when my neighbor picked up a bottle it was time to do a blind tasting against the Port Finish and [Cognac Finish](https://atxbourbon.com/2020/03/14/Review-215-Sagamore-Spirit-Cognac-Finish/). 

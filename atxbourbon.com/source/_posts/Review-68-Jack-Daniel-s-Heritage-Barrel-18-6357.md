@@ -2,14 +2,9 @@
 title: 'Review #68: Jack Daniel''s Heritage Barrel #18-6357'
 date: 2019-01-31 00:01:49
 tags:
-- bourbon
-- tennessee
+- tennessee whiskey
 - jack daniels
-- single barrel
-- toasted barrel
-- low entry proof
 - 9 
-- whiskey advocate top 20 
 - whiskey advocate top 20 2018
 ---
 

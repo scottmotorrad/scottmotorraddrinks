@@ -5,7 +5,6 @@ tags:
 - wild turkey
 - bourbon
 - 9
-- masters keep
 ---
 
 For review #101 and part four of the five part Wild Turkey series we are drinking Wild Turkey Master's Keep Decades batch #2. This is a blend of 10 to 20 year old Wild Turkey.

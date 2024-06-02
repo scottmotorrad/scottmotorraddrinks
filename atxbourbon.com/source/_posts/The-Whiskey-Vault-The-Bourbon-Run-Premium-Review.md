@@ -2,7 +2,7 @@
 title: 'The Whiskey Vault: The Bourbon Run Premium Review'
 date: 2019-01-18 23:43:28
 tags:
-- whiskeytribe
+- bourbon
 ---
 
 {% asset_img image.jpg "The Whiskey Vault"%}
